@@ -14,7 +14,7 @@ st.markdown(
     """
     <meta property="og:title" content="Linoleic Food Lookup">
     <meta property="og:description" content="Filter and search foods by their linoleic acid content (omega-6).">
-    <meta property="og:image" content="https://raw.githubusercontent.com/your-username/Linoleic_Food_Lookup/main/seedoils.png">
+    <meta property="og:image" content="https://raw.githubusercontent.com/quantum-ciphers/Linoleic_Food_Lookup/main/seedoils.png">
     """,
     unsafe_allow_html=True
 )
