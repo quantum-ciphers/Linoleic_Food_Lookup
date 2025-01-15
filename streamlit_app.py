@@ -9,6 +9,22 @@ st.set_page_config(
     initial_sidebar_state="collapsed"  # Sidebar is collapsed by default
 )
 
+# Add custom CSS for centering content
+st.markdown(
+    """
+    <style>
+    .center-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
+
 # Add Open Graph metadata for the custom thumbnail
 st.markdown(
     """
@@ -21,10 +37,13 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Load the combined data
+# Center content using a div wrapper
+st.markdown('<div class="center-content">', unsafe_allow_html=True)
+
+# Add title
 st.title("Food Search for Linoleic Acid Data")
 
-# Add Column Definitions to Main Page
+# Add Column Definitions
 st.markdown(
     """
     ### Column Definitions
@@ -33,6 +52,9 @@ st.markdown(
     - **percent**: Percentage of calories from linoleic acid.
     """
 )
+
+# End the centered content div
+st.markdown('</div>', unsafe_allow_html=True)
 
 # Load the dataset with caching
 @st.cache_data
@@ -100,20 +122,17 @@ if query:
     filtered_df = filtered_df[filtered_df['food'].str.contains(query, case=False, na=False)]
 
 # Display results
-if not filtered_df.empty:
-    st.write(f"Showing {len(filtered_df)} result(s):")
-    st.dataframe(filtered_df[['food', 'la_cal', 'cal', 'percent', 'category']])
-    
-    # Download option for filtered results
-    csv = filtered_df.to_csv(index=False)
-    st.download_button(
-        label="Download Filtered Results as CSV",
-        data=csv,
-        file_name="filtered_results.csv",
-        mime="text/csv",
-    )
-else:
-    st.write("No results found. Adjust your filters and try again.")
+st.write(f"Showing {len(filtered_df)} result(s):")
+st.dataframe(filtered_df[['food', 'la_cal', 'cal', 'percent', 'category']])
+
+# Download option for filtered results
+csv = filtered_df.to_csv(index=False)
+st.download_button(
+    label="Download Filtered Results as CSV",
+    data=csv,
+    file_name="filtered_results.csv",
+    mime="text/csv",
+)
 
 # Add a data source section in the sidebar
 st.sidebar.markdown(
