@@ -5,8 +5,8 @@ import pandas as pd
 st.set_page_config(
     page_title="Linoleic Acid Food Lookup",  # Updated title
     page_icon="🍴",  # Optional: Set a custom favicon
-    layout="wide",
-    initial_sidebar_state="collapsed"  # Sidebar is collapsed by default
+    layout="wide",  # Options: "wide" or "centered"
+    initial_sidebar_state="expanded"  # Sidebar is expanded by default
 )
 
 # Add Open Graph metadata for the custom thumbnail
@@ -23,6 +23,9 @@ st.markdown(
 
 # Add title
 st.title("Food Search for Linoleic Acid Data")
+
+# Add note about the sidebar
+st.markdown("### Use the sidebar to apply filters and customize your search.")
 
 # Add Column Definitions
 st.markdown(
@@ -41,8 +44,8 @@ def load_data():
 
 df = load_data()
 
-# Sidebar filters
-st.sidebar.header("Filter Options")
+# Sidebar Filters
+st.sidebar.header("Filter Options")  # Kept only the filters header
 
 # Dropdown filter for High/Low LA
 category_filter = st.sidebar.selectbox("Select Category", options=["All", "High LA", "Low LA"])
@@ -75,33 +78,35 @@ max_percent = st.sidebar.slider(
     float(df['percent'].min()), float(df['percent'].max()), float(df['percent'].max())
 )
 
-# Search input
-query = st.text_input("Enter food name or keyword to search:")
+# Add search bar and results table with matching widths
+col1, col2, col3 = st.columns([3, 5, 3])  # Adjust column widths for smaller search bar
+with col2:
+    query = st.text_input("Enter food name or keyword to search:", key="search_input")
 
-# Filter data based on inputs
-filtered_df = df.copy()
+    # Filter data based on inputs
+    filtered_df = df.copy()
 
-# Apply category filter
-if category_filter != "All":
-    filtered_df = filtered_df[filtered_df['category'] == category_filter]
+    # Apply category filter
+    if category_filter != "All":
+        filtered_df = filtered_df[filtered_df['category'] == category_filter]
 
-# Apply numeric filters
-filtered_df = filtered_df[
-    (filtered_df['la_cal'] >= min_la_cal) &
-    (filtered_df['la_cal'] <= max_la_cal) &
-    (filtered_df['cal'] >= min_cal) &
-    (filtered_df['cal'] <= max_cal) &
-    (filtered_df['percent'] >= min_percent) &
-    (filtered_df['percent'] <= max_percent)
-]
+    # Apply numeric filters
+    filtered_df = filtered_df[
+        (filtered_df['la_cal'] >= min_la_cal) &
+        (filtered_df['la_cal'] <= max_la_cal) &
+        (filtered_df['cal'] >= min_cal) &
+        (filtered_df['cal'] <= max_cal) &
+        (filtered_df['percent'] >= min_percent) &
+        (filtered_df['percent'] <= max_percent)
+    ]
 
-# Apply text search filter
-if query:
-    filtered_df = filtered_df[filtered_df['food'].str.contains(query, case=False, na=False)]
+    # Apply text search filter
+    if query:
+        filtered_df = filtered_df[filtered_df['food'].str.contains(query, case=False, na=False)]
 
-# Display results
-st.write(f"Showing {len(filtered_df)} result(s):")
-st.dataframe(filtered_df[['food', 'la_cal', 'cal', 'percent', 'category']])
+    # Display results below the search bar
+    st.write(f"Showing {len(filtered_df)} result(s):")
+    st.dataframe(filtered_df[['food', 'la_cal', 'cal', 'percent', 'category']], use_container_width=True)
 
 # Download option for filtered results
 csv = filtered_df.to_csv(index=False)
