@@ -3,10 +3,10 @@ import pandas as pd
 
 # Set page configuration and Open Graph metadata
 st.set_page_config(
-    page_title="Linoleic Acid Food Lookup",
+    page_title="Linoleic Acid Food Lookup",  # Updated title
     page_icon="🍴",  # Optional: Set a custom favicon
     layout="wide",
-    initial_sidebar_state="expanded"
+    initial_sidebar_state="collapsed"  # Sidebar is collapsed by default
 )
 
 # Add Open Graph metadata for the custom thumbnail
@@ -23,6 +23,16 @@ st.markdown(
 
 # Load the combined data
 st.title("Food Search for Linoleic Acid Data")
+
+# Add Column Definitions to Main Page
+st.markdown(
+    """
+    ### Column Definitions
+    - **la_cal**: Number of calories from linoleic acid per 100 grams of food.
+    - **cal**: Total calories per 100 grams of food.
+    - **percent**: Percentage of calories from linoleic acid.
+    """
+)
 
 # Load the dataset with caching
 @st.cache_data
