@@ -84,3 +84,22 @@ if not filtered_df.empty:
     )
 else:
     st.write("No results found. Adjust your filters and try again.")
+
+# Add a data source section in the sidebar
+st.sidebar.markdown(
+    """
+    ### Data Source
+    This data is obtained from the **[FoodData Central](https://fdc.nal.usda.gov/)** database, 
+    specifically filtered for linoleic acid, the omega-6 polyunsaturated fat.
+    """
+)
+
+# Add a footer with the same data source information
+st.markdown(
+    """
+    ---
+    ### Data Source
+    This data is obtained from the **[FoodData Central](https://fdc.nal.usda.gov/)** database, 
+    specifically filtered for linoleic acid, the omega-6 polyunsaturated fat.
+    """
+)
