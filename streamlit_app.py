@@ -1,6 +1,24 @@
 import streamlit as st
 import pandas as pd
 
+# Set page configuration and Open Graph metadata
+st.set_page_config(
+    page_title="Linoleic Food Lookup",
+    page_icon="🍴",  # Optional: Set a custom favicon
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
+
+# Add Open Graph metadata for the custom thumbnail
+st.markdown(
+    """
+    <meta property="og:title" content="Linoleic Food Lookup">
+    <meta property="og:description" content="Filter and search foods by their linoleic acid content (omega-6).">
+    <meta property="og:image" content="https://raw.githubusercontent.com/your-username/Linoleic_Food_Lookup/main/seedoils.png">
+    """,
+    unsafe_allow_html=True
+)
+
 # Load the combined data
 st.title("Food Search for Linoleic Acid Data")
 
