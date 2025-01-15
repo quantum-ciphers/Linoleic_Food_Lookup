@@ -1,0 +1,2501 @@
+food,la_cal,cal,percent,category
+"Oil, sunflower, linoleic, (approx. 65%)",591.3,884.0,66.9,High LA
+"Oil, wheat germ",493.2,884.0,55.8,High LA
+"Oil, walnut",476.1,884.0,53.9,High LA
+"Oil, corn, industrial and retail, all purpose salad or cooking",481.635,900.0,53.5,High LA
+"Oil, cottonseed, salad or cooking",463.5,884.0,52.4,High LA
+"Nuts, walnuts, english",342.837,654.0,52.4,High LA
+"Seeds, sunflower seed kernels, oil roasted, without salt",307.872,592.0,52.0,High LA
+"Oil, soybean, salad or cooking",458.568,884.0,51.9,High LA
+"Salad dressing, mayonnaise, regular",352.314,680.0,51.8,High LA
+"Seeds, sunflower seed kernels, dry roasted, without salt",295.038,582.0,50.7,High LA
+"Nuts, walnuts, black, dried",303.84,619.0,49.1,High LA
+"Spices, poppy seed",254.655,525.0,48.5,High LA
+"Salad dressing, caesar dressing, regular",260.73,542.0,48.1,High LA
+"Salad dressing, bacon and tomato",155.196,326.0,47.6,High LA
+"Salad dressing, sesame seed dressing, regular",208.8,443.0,47.1,High LA
+"Salad dressing, ranch dressing, regular",200.916,430.0,46.7,High LA
+"Salad dressing, peppercorn dressing, commercial, regular",261.054,564.0,46.3,High LA
+"Oil, soybean, salad or cooking, (partially hydrogenated) and cottonseed",407.7,884.0,46.1,High LA
+"Sauce, horseradish",229.716,503.0,45.7,High LA
+"Salad dressing, home recipe, vinegar and oil",204.3,449.0,45.5,High LA
+"Salad dressing, blue or roquefort cheese dressing, commercial, regular",218.853,484.0,45.2,High LA
+"Nuts, pine nuts, dried",298.35,673.0,44.3,High LA
+"Salad dressing, green goddess, regular",183.924,427.0,43.1,High LA
+"Salad dressing, mayonnaise, light",102.681,238.0,43.1,High LA
+"Salad dressing, mayonnaise, imitation, soybean without cholesterol",207.0,482.0,42.9,High LA
+"Oil, sesame, salad or cooking",371.7,884.0,42.0,High LA
+"Sandwich spread, with chopped pickle, regular, unspecified oils",162.9,389.0,41.9,High LA
+"Margarine-like spread with yogurt, approximately 40% fat, tub, with salt",135.36,330.0,41.0,High LA
+"Mayonnaise, made with tofu",130.806,322.0,40.6,High LA
+"Margarine-like, vegetable oil spread, 20% fat, without salt",70.56,175.0,40.3,High LA
+"Margarine-like, vegetable oil spread, 20% fat, with salt",70.56,175.0,40.3,High LA
+"Bacon, meatless",123.804,309.0,40.1,High LA
+"Margarine-like, vegetable oil spread, 60% fat, tub, with salt",213.624,533.0,40.1,High LA
+"Margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, without salt",213.624,533.0,40.1,High LA
+"Salad dressing, honey mustard, regular",181.089,464.0,39.0,High LA
+"Salad dressing, mayonnaise type, regular, with salt",96.651,250.0,38.7,High LA
+"Salad dressing, thousand island, commercial, regular",142.821,379.0,37.7,High LA
+"Margarine-like, vegetable oil spread, 60% fat, stick/tub/bottle, with salt",194.508,526.0,37.0,High LA
+"Salad dressing, coleslaw",144.0,390.0,36.9,High LA
+"Margarine-like, vegetable oil spread, fat free, liquid, with salt",15.678,43.0,36.5,High LA
+"Salad dressing, french dressing, commercial, regular",164.628,457.0,36.0,High LA
+"Seeds, sesame seed kernels, dried (decorticated)",227.043,631.0,36.0,High LA
+"Seeds, sunflower seed kernels, dried",207.45,584.0,35.5,High LA
+"Oil, soybean, salad or cooking, (partially hydrogenated)",314.1,884.0,35.5,High LA
+"Oil, industrial, soy (partially hydrogenated), multiuse for non-dairy butter fla",311.067,884.0,35.2,High LA
+"Margarine-like, vegetable oil spread, stick or tub, sweetened",187.83,534.0,35.2,High LA
+"Seeds, sesame butter, tahini, from roasted and toasted kernels (most common type",208.197,595.0,35.0,High LA
+"Salad dressing, mayonnaise, imitation, soybean",81.0,232.0,34.9,High LA
+"Salad dressing, italian dressing, commercial, regular",83.187,240.0,34.7,High LA
+"Salad dressing, poppyseed, creamy",137.673,399.0,34.5,High LA
+"Snacks, popcorn, oil-popped, microwave, regular flavor, no trans fat",201.051,583.0,34.5,High LA
+"Shortening, industrial, soy (partially hydrogenated ) and corn for frying",303.435,884.0,34.3,High LA
+"Restaurant, family style, coleslaw",54.153,159.0,34.1,High LA
+"Sauce, tartar, ready-to-serve",71.64,211.0,34.0,High LA
+"Seeds, sesame seeds, whole, dried",192.375,573.0,33.6,High LA
+"Tofu, fried",90.396,270.0,33.5,High LA
+"Seeds, pumpkin and squash seed kernels, dried",186.39,559.0,33.3,High LA
+"Nuts, brazilnuts, dried, unblanched",219.267,659.0,33.3,High LA
+"Salad dressing, russian dressing",117.801,355.0,33.2,High LA
+"Oil, corn, peanut, and olive",293.697,884.0,33.2,High LA
+"Oil, peanut, salad or cooking",288.0,884.0,32.6,High LA
+"Puff pastry, frozen, ready-to-bake, baked",176.76,558.0,31.7,High LA
+"Snacks, potato sticks",160.2,522.0,30.7,High LA
+"Seeds, pumpkin and squash seed kernels, roasted, without salt",176.31,574.0,30.7,High LA
+"Sauce, ready-to-serve, pepper, TABASCO",3.582,12.0,29.9,High LA
+"Margarine-like, vegetable oil-butter spread, tub, with salt",108.225,362.0,29.9,High LA
+"Soup, cream of mushroom, low sodium, ready-to-serve, canned",15.471,53.0,29.2,High LA
+"Soup, cream of mushroom, canned, condensed",23.022,79.0,29.1,High LA
+"Sausage, meatless",73.881,255.0,29.0,High LA
+"Soup, cream of mushroom, canned, prepared with equal volume water",11.268,39.0,28.9,High LA
+"Salad dressing, mayonnaise-type, light",44.748,158.0,28.3,High LA
+"Margarine-like, vegetable oil spread, unspecified oils, approximately 37% fat, w",95.13,339.0,28.1,High LA
+"Snacks, corn-based, extruded, puffs or twists, cheese-flavor",157.041,560.0,28.0,High LA
+"Margarine, regular, 80% fat, composite, stick, without salt",200.268,717.0,27.9,High LA
+"Margarine, regular, 80% fat, composite, stick, with salt",200.268,717.0,27.9,High LA
+"Snacks, sesame sticks, wheat-based, salted",147.96,541.0,27.3,High LA
+"Margarine, regular, 80% fat, composite, tub, without salt",194.904,713.0,27.3,High LA
+"Margarine, regular, 80% fat, composite, tub, with salt",194.904,713.0,27.3,High LA
+"Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)",16.515,61.0,27.1,High LA
+"Snacks, corn-based, extruded, chips, plain",145.215,538.0,27.0,High LA
+Poultry salad sandwich spread,53.73,200.0,26.9,High LA
+"Nuts, pecans",185.652,691.0,26.9,High LA
+"Margarine-like, margarine-butter blend, soybean oil and butter",193.797,727.0,26.7,High LA
+"Shortening, vegetable, household, composite",235.917,884.0,26.7,High LA
+"Snacks, corn-based, extruded, chips, unsalted",148.392,557.0,26.6,High LA
+"Noodles, flat, crunchy, Chinese restaurant",134.172,521.0,25.8,High LA
+Vegetarian fillets,74.628,290.0,25.7,High LA
+"Snack, potato chips, made from dried potatoes, plain",138.942,545.0,25.5,High LA
+"Fast foods, onion rings, breaded and fried",103.563,411.0,25.2,High LA
+"Sandwich spread, meatless",37.314,149.0,25.0,High LA
+"Candies, sesame crunch",128.916,516.0,25.0,High LA
+"Margarine-like, vegetable oil spread, 60% fat, stick, with salt",134.271,537.0,25.0,High LA
+"Shortening, household, soybean (partially hydrogenated)-cottonseed (partially hy",220.5,884.0,24.9,High LA
+Potato salad with egg,38.97,157.0,24.8,High LA
+"Snacks, popcorn, cheese-flavor",130.5,526.0,24.8,High LA
+"Peanuts, all types, raw",139.995,567.0,24.7,High LA
+"Soybeans, mature seeds, sprouted, cooked, steamed",19.953,81.0,24.6,High LA
+"Salad dressing, italian dressing, commercial, reduced fat",24.975,102.0,24.5,High LA
+"Soup, cream of celery, canned, condensed",17.46,72.0,24.3,High LA
+"Soybeans, mature seeds, roasted, salted",113.796,469.0,24.3,High LA
+"Imitation cheese, american or cheddar, low cholesterol",93.951,390.0,24.1,High LA
+"Fish, fish sticks, frozen, prepared",66.78,277.0,24.1,High LA
+"Soybean, curd cheese",36.288,151.0,24.0,High LA
+"Spices, chili powder",67.257,282.0,23.9,High LA
+"Restaurant, family style, shrimp, breaded and fried",73.638,308.0,23.9,High LA
+"Oil, corn and canola",209.835,884.0,23.7,High LA
+"School Lunch, chicken patty, whole grain breaded",57.771,246.0,23.5,High LA
+Natto,49.284,211.0,23.4,High LA
+"Soybeans, mature cooked, boiled, without salt",40.185,172.0,23.4,High LA
+"Spices, paprika",65.826,282.0,23.3,High LA
+"Snacks, taro chips",115.38,498.0,23.2,High LA
+"Fast foods, submarine sandwich, tuna on white bread with lettuce and tomato",50.211,218.0,23.0,High LA
+"Snacks, popcorn, home-prepared, oil-popped, unsalted",114.57,500.0,22.9,High LA
+"Snacks, granola bars, hard, plain",107.91,471.0,22.9,High LA
+"Bacon bits, meatless",108.63,476.0,22.8,High LA
+"Milk, imitation, non-soy",10.44,46.0,22.7,High LA
+"Peanuts, all types, oil-roasted, without salt",135.927,599.0,22.7,High LA
+"Peanuts, all types, oil-roasted, with salt",136.026,599.0,22.7,High LA
+"Toppings, nuts in syrup",101.7,448.0,22.7,High LA
+"Peanut spread, reduced sugar",145.575,650.0,22.4,High LA
+"Topping, SMUCKER'S MAGIC SHELL",135.738,609.0,22.3,High LA
+"Peanut butter, chunky, vitamin and mineral fortified",131.103,593.0,22.1,High LA
+"Snacks, potato chips, barbecue-flavor",106.983,487.0,22.0,High LA
+"Soup, clam chowder, new england, reduced sodium, canned, ready-to-serve",15.336,70.0,21.9,High LA
+"Spices, pepper, red or cayenne",69.39,318.0,21.8,High LA
+"Chicken tenders, breaded, frozen, prepared",52.299,240.0,21.8,High LA
+"Snacks, potato chips, made from dried potatoes, reduced fat",109.107,502.0,21.7,High LA
+"Peanut butter, reduced sodium",126.882,590.0,21.5,High LA
+"Margarine-like, butter-margarine blend, 80% fat, stick, without salt",153.99,718.0,21.4,High LA
+"Soy flour, full-fat, raw",92.52,434.0,21.3,High LA
+"Cream substitute, flavored, liquid",53.145,251.0,21.2,High LA
+"Peanut butter, chunk style, without salt",124.686,589.0,21.2,High LA
+"Fat, turkey",190.8,900.0,21.2,High LA
+"Peanut butter, smooth, vitamin and mineral fortified",123.921,591.0,21.0,High LA
+"Dip, salsa con queso, cheese and salsa- medium",29.835,143.0,20.9,High LA
+"Snacks, tortilla chips, nacho cheese",107.703,519.0,20.8,High LA
+"Onion rings, breaded, par fried, frozen, prepared, heated in oven",57.474,276.0,20.8,High LA
+"Snacks, potato chips, reduced fat",96.75,471.0,20.5,High LA
+"Crackers, standard snack-type, regular",104.139,510.0,20.4,High LA
+"Rice bran, crude",64.287,316.0,20.3,High LA
+"Restaurant, Chinese, sweet and sour chicken",50.355,250.0,20.1,High LA
+"Snacks, tortilla chips, plain, white corn, salted",94.698,472.0,20.1,High LA
+"Snacks, potato chips, plain, unsalted",107.82,536.0,20.1,High LA
+"Snacks, trail mix, regular, with chocolate chips, salted nuts and seeds",97.002,484.0,20.0,High LA
+"Restaurant, Chinese, general tso's chicken",58.869,295.0,20.0,High LA
+"Potato chips, without salt, reduced fat",96.75,487.0,19.9,High LA
+"Fast foods, fish sandwich, with tartar sauce",50.643,257.0,19.7,High LA
+"Peanuts, all types, cooked, boiled, with salt",62.586,318.0,19.7,High LA
+"Snacks, plantain chips, salted",104.553,531.0,19.7,High LA
+"Chicken, nuggets, dark and white meat, precooked, frozen, not reheated",50.787,260.0,19.5,High LA
+"Fat, chicken",175.5,900.0,19.5,High LA
+"Crackers, multigrain",93.942,482.0,19.5,High LA
+"Snacks, potato chips, lightly salted",107.865,560.0,19.3,High LA
+"Oil, canola",171.045,884.0,19.3,High LA
+"Nuts, almonds",110.916,579.0,19.2,High LA
+"Restaurant, Chinese, lemon chicken",48.177,252.0,19.1,High LA
+"Salad Dressing, coleslaw dressing, reduced fat",62.82,329.0,19.1,High LA
+"Candies, MARS SNACKFOOD US, TWIX chocolate fudge cookie bars",104.598,550.0,19.0,High LA
+"Chicken, broilers or fryers, separable fat, raw",119.34,629.0,19.0,High LA
+"Meatballs, meatless",37.314,197.0,18.9,High LA
+"Restaurant, Chinese, kung pao chicken",24.426,129.0,18.9,High LA
+Vegetarian meatloaf or patties,37.314,197.0,18.9,High LA
+"Nuts, almonds, blanched",111.285,590.0,18.9,High LA
+"Snacks, potato chips, made from dried potatoes (preformed), multigrain",95.022,505.0,18.8,High LA
+"Restaurant, family style, fish fillet, battered or breaded, fried",40.869,219.0,18.7,High LA
+"Snacks, sweet potato chips, unsalted",99.711,532.0,18.7,High LA
+"Frankfurter, meatless",43.299,233.0,18.6,High LA
+"Soup, cream of asparagus, canned, condensed",12.78,69.0,18.5,High LA
+"Peanut butter, smooth style, without salt",110.376,598.0,18.5,High LA
+"Peanut butter, smooth style, with salt",110.376,598.0,18.5,High LA
+"Luncheon slices, meatless",35.046,189.0,18.5,High LA
+"Candies, peanut bar",95.823,522.0,18.4,High LA
+"Snacks, oriental mix, rice-based",92.574,506.0,18.3,High LA
+"Restaurant, Chinese, sesame chicken",53.694,293.0,18.3,High LA
+"Restaurant, Chinese, orange chicken",47.961,262.0,18.3,High LA
+"Fast foods, chicken tenders",49.365,271.0,18.2,High LA
+"Cookies, peanut butter, commercially prepared, sugar free",94.446,523.0,18.1,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, PM 60/40, powder not reconstituted",94.104,524.0,18.0,High LA
+"Margarine-like spread with yogurt, 70% fat, stick, with salt",113.4,630.0,18.0,High LA
+"Sauce, homemade, white, thick",33.498,186.0,18.0,High LA
+"Bread, cheese",72.945,408.0,17.9,High LA
+"Chicken, meatless",40.158,224.0,17.9,High LA
+"Oil, almond",156.6,884.0,17.7,High LA
+"Cream puff shell, prepared from recipe",62.883,360.0,17.5,High LA
+"Fast foods, chicken, breaded and fried, boneless pieces, plain",53.874,307.0,17.5,High LA
+"Soup, cream of mushroom, canned, prepared with equal volume low fat (2%) milk",11.376,65.0,17.5,High LA
+"Crackers, cheese, regular",84.222,489.0,17.2,High LA
+"Pie crust, cookie-type, prepared from recipe, vanilla wafer, chilled",91.575,531.0,17.2,High LA
+"Fast foods, potatoes, hash browns, round pieces or patty",46.62,272.0,17.1,High LA
+"Sweet rolls, cinnamon, commercially prepared with raisins",63.189,372.0,17.0,High LA
+"Cookies, sugar wafer, with creme filling, sugar free",90.045,531.0,17.0,High LA
+"Oil, PAM cooking spray, original",134.595,792.0,17.0,High LA
+"Restaurant, Chinese, chicken and vegetables",16.029,95.0,16.9,High LA
+"Muffins, blueberry, commercially prepared (Includes mini-muffins)",62.847,375.0,16.8,High LA
+"Fast foods, fish sandwich, with tartar sauce and cheese",46.683,279.0,16.7,High LA
+"Sauce, peanut, made from peanut butter, water, soy sauce",42.768,257.0,16.6,High LA
+"Sauce, homemade, white, medium",24.417,147.0,16.6,High LA
+"Restaurant, Chinese, vegetable chow mein, without meat or noodles",7.092,43.0,16.5,High LA
+"Fast Foods, crispy chicken filet sandwich, with lettuce and mayonnaise",45.468,276.0,16.5,High LA
+"Strudel, apple",45.018,274.0,16.4,High LA
+"Salad dressing, buttermilk, lite",33.165,202.0,16.4,High LA
+"Soup, chicken broth or bouillon, dry, prepared with water",0.648,4.0,16.2,High LA
+"Tortilla chips, yellow, plain, salted",79.623,497.0,16.0,High LA
+"Soup, broccoli cheese, canned, condensed, commercial",13.815,87.0,15.9,High LA
+"Crackers, standard snack-type, regular, low salt",79.785,502.0,15.9,High LA
+"Snacks, tortilla chips, unsalted, white corn",79.74,503.0,15.9,High LA
+"Peanut butter, smooth, reduced fat",82.17,520.0,15.8,High LA
+"Cookies, oatmeal sandwich, with creme filling",62.919,398.0,15.8,High LA
+"Sausage, turkey, breakfast links, mild",37.179,235.0,15.8,High LA
+"Frankfurter, meat and poultry, unheated",43.38,277.0,15.7,High LA
+"Frankfurter, meat and poultry, cooked, grilled",47.394,302.0,15.7,High LA
+"Restaurant, Chinese, beef and vegetables",16.506,105.0,15.7,High LA
+"Crackers, toast thins, low sodium",68.859,442.0,15.6,High LA
+"Chicken, meatless, breaded, fried",36.396,234.0,15.6,High LA
+"Chicken, broilers or fryers, skin only, cooked, roasted",70.47,454.0,15.5,High LA
+"Frankfurter, meat and poultry, cooked, boiled",46.017,298.0,15.4,High LA
+"Fish, sardine, Atlantic, canned in oil, drained solids with bone",31.887,208.0,15.3,High LA
+"Bologna, turkey",32.013,209.0,15.3,High LA
+"Turkey bacon, microwaved",55.701,368.0,15.1,High LA
+"Bread stuffing, bread, dry mix, prepared",29.331,195.0,15.0,High LA
+"Beverages, nutritional shake mix, high protein, powder",58.302,392.0,14.9,High LA
+"Pork, fresh, separable fat, cooked",93.51,626.0,14.9,High LA
+"Peanuts, all types, dry-roasted, without salt",87.435,587.0,14.9,High LA
+"Peanuts, all types, dry-roasted, with salt",87.435,587.0,14.9,High LA
+"Frankfurter, turkey",33.318,223.0,14.9,High LA
+"Potatoes, hash brown, home-prepared",39.276,265.0,14.8,High LA
+"Crackers, wheat, regular",67.266,455.0,14.8,High LA
+"Chicken patty, frozen, cooked",42.12,287.0,14.7,High LA
+"Pie, egg custard, commercially prepared",30.942,210.0,14.7,High LA
+"Soup, chicken broth or bouillon, dry",38.88,267.0,14.6,High LA
+"Pie crust, standard-type, prepared from recipe, unbaked",68.607,469.0,14.6,High LA
+"Oil, flaxseed, cold pressed",128.943,884.0,14.6,High LA
+"Crackers, saltines, whole wheat (includes multi-grain)",57.933,398.0,14.6,High LA
+"Pork sausage, link/patty, fully cooked, microwaved",63.963,438.0,14.6,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, ALIMENTUM, with iron, ready-to-feed",9.495,66.0,14.4,High LA
+"Babyfood, meat, turkey sticks, junior",27.054,188.0,14.4,High LA
+"Cookies, chocolate sandwich, with creme filling, special dietary",66.375,461.0,14.4,High LA
+"Fast foods, potato, french fried in vegetable oil",44.532,312.0,14.3,High LA
+"Fast foods, crispy chicken in tortilla, with lettuce, cheese, and ranch sauce",39.42,275.0,14.3,High LA
+"Infant formula, ABBOTT NUTRITION, ALIMENTUM ADVANCE, with iron, powder, not reco",73.746,517.0,14.3,High LA
+"Fast foods, biscuit, with egg and ham",33.219,233.0,14.3,High LA
+"Babyfood, dinner, chicken soup, strained",7.128,50.0,14.3,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, ALIMENTUM, ADVANCE, ready-to-feed, wi",9.495,67.0,14.2,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, Premature, 24 calo ready-to-feed",9.504,67.0,14.2,High LA
+"Fast foods, breadstick, soft, prepared with garlic and parmesan cheese",48.69,343.0,14.2,High LA
+"Beverages, almond milk, unsweetened, shelf stable",2.124,15.0,14.2,High LA
+"Pie, peach",31.365,224.0,14.0,High LA
+"Soup, clam chowder, manhattan, canned, prepared with equal volume water",4.212,30.0,14.0,High LA
+"Pancakes plain, frozen, ready-to-heat (includes buttermilk)",32.733,233.0,14.0,High LA
+"Babyfood, meat, chicken, junior",20.25,146.0,13.9,High LA
+"Garlic bread, frozen",48.438,350.0,13.8,High LA
+"Frankfurter, chicken",30.798,223.0,13.8,High LA
+"Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched",67.671,492.0,13.8,High LA
+"Crackers, standard snack-type, with whole wheat",63.333,463.0,13.7,High LA
+"Dumpling, potato- or cheese-filled, frozen",26.73,195.0,13.7,High LA
+"Fast Foods, Fried Chicken, Drumstick, meat and skin with breading",36.468,267.0,13.7,High LA
+"Crackers, sandwich-type, peanut butter filled, reduced fat",59.904,437.0,13.7,High LA
+"Pie, fried pies, fruit",43.272,316.0,13.7,High LA
+"Egg, whole, cooked, omelet",20.871,154.0,13.6,High LA
+"Cake, yellow, commercially prepared, with vanilla frosting",53.118,391.0,13.6,High LA
+"Cookies, chocolate cream covered biscuit sticks",60.39,447.0,13.5,High LA
+"Snacks, potato chips, plain, salted",71.136,532.0,13.4,High LA
+"Fast foods, biscuit, with egg and bacon",40.959,305.0,13.4,High LA
+"Edamame, frozen, prepared",16.128,121.0,13.3,High LA
+"Dip, bean, original flavor",15.84,119.0,13.3,High LA
+"Cookies, sugar, prepared from recipe, made with margarine",62.658,472.0,13.3,High LA
+"Babyfood, meat, chicken sticks, junior",24.876,188.0,13.2,High LA
+"Bologna, meat and poultry",36.774,281.0,13.1,High LA
+"Chicken pot pie, frozen entree, prepared",26.739,204.0,13.1,High LA
+"Turkey, retail parts, wing, meat and skin, cooked, roasted",30.834,235.0,13.1,High LA
+"Cookies, vanilla sandwich with creme filling",63.099,483.0,13.1,High LA
+"Bread stuffing, cornbread, dry mix, prepared",23.292,179.0,13.0,High LA
+"Oil, safflower, salad or cooking, high oleic (primary safflower oil of commerce)",114.516,884.0,13.0,High LA
+"Kielbasa, fully cooked, unheated",41.814,325.0,12.9,High LA
+"Kielbasa, fully cooked, pan-fried",43.083,333.0,12.9,High LA
+"School Lunch, chicken nuggets, whole grain breaded",34.785,270.0,12.9,High LA
+"Cookies, shortbread, commercially prepared, plain",66.366,514.0,12.9,High LA
+"Snacks, granola bar, QUAKER, DIPPS, all flavors",62.037,480.0,12.9,High LA
+"Turkey, retail parts, thigh, meat and skin, cooked, roasted",23.436,183.0,12.8,High LA
+"Egg, whole, cooked, fried",25.029,196.0,12.8,High LA
+"Babyfood, meat, chicken, strained",16.65,130.0,12.8,High LA
+"Sauce, homemade, white, thin",13.419,105.0,12.8,High LA
+"Crackers, whole-wheat",54.864,427.0,12.8,High LA
+"Candies, soft fruit and nut squares",49.725,390.0,12.8,High LA
+"Egg rolls, vegetable, frozen, prepared",27.297,214.0,12.8,High LA
+"Chicken, broilers or fryers, neck, meat and skin, cooked simmered",31.32,247.0,12.7,High LA
+"Pie, blueberry, commercially prepared",29.529,232.0,12.7,High LA
+"Cookies, chocolate chip sandwich, with creme filling",54.171,425.0,12.7,High LA
+"Asparagus, canned, drained solids",2.421,19.0,12.7,High LA
+"Kielbasa, fully cooked, grilled",42.552,337.0,12.6,High LA
+"Cookies, oatmeal, commercially prepared, special dietary",56.727,449.0,12.6,High LA
+"Chicken, broilers or fryers, thigh, meat and skin, raw",27.864,221.0,12.6,High LA
+"Crackers, whole-wheat, low salt",55.962,443.0,12.6,High LA
+"Chicken, broilers or fryers, leg, meat and skin, raw",26.883,214.0,12.6,High LA
+"Egg, whole, cooked, scrambled",18.603,149.0,12.5,High LA
+"Crackers, wheat, reduced fat",55.62,444.0,12.5,High LA
+"Pork, cured, bacon, unprepared",51.3,417.0,12.3,High LA
+"Pork sausage, link/patty, cooked, pan-fried",40.014,325.0,12.3,High LA
+"Chicken, broilers or fryers, back, meat and skin, cooked, stewed",31.41,258.0,12.2,High LA
+"Pork sausage, link/patty, reduced fat, cooked, pan-fried",32.652,267.0,12.2,High LA
+"Fat, duck",108.0,882.0,12.2,High LA
+"Fish, tuna, light, canned in oil, drained solids",24.147,198.0,12.2,High LA
+"Muffins, oat bran",32.976,270.0,12.2,High LA
+"Chicken, broilers or fryers, meat and skin, raw",25.92,215.0,12.1,High LA
+"Soup, chicken vegetable with potato and cheese, chunky, ready-to-serve",7.839,65.0,12.1,High LA
+"Chicken, broilers or fryers, back, meat and skin, cooked, roasted",36.36,300.0,12.1,High LA
+"Salad dressing, french dressing, reduced fat",26.604,222.0,12.0,High LA
+"Salami, cooked, turkey",20.619,172.0,12.0,High LA
+"Game meat, opossum, cooked, roasted",26.451,221.0,12.0,High LA
+"Restaurant, family style, fried mozzarella sticks",39.114,325.0,12.0,High LA
+"Fast foods, grilled chicken in tortilla, with lettuce, cheese, and ranch sauce",26.667,222.0,12.0,High LA
+"Candies, fudge, chocolate, with nuts, prepared-from-recipe",54.873,461.0,11.9,High LA
+"Soup, cream of vegetable, dry, powder",53.19,446.0,11.9,High LA
+"Fast foods, potato, mashed",10.467,89.0,11.8,High LA
+"Cookies, vanilla wafers, higher fat",53.712,455.0,11.8,High LA
+"Snacks, FRITOLAY, SUNCHIPS, Multigrain Snack, original flavor",57.78,491.0,11.8,High LA
+"Turkey, all classes, back, meat and skin, cooked, roasted",28.62,244.0,11.7,High LA
+"Egg, yolk, dried",78.066,669.0,11.7,High LA
+"Shortening industrial, soybean (hydrogenated) and cottonseed",102.6,884.0,11.6,High LA
+"Fast foods, nachos, with cheese",39.348,343.0,11.5,High LA
+"Taquitos, frozen, chicken and cheese, oven-heated",32.571,284.0,11.5,High LA
+"Pie, lemon meringue, commercially prepared",30.726,268.0,11.5,High LA
+"Fast foods, cheeseburger; double, regular patty; double decker bun with condimen",29.727,261.0,11.4,High LA
+"Chicken, broilers or fryers, wing, meat and skin, cooked, roasted",28.944,254.0,11.4,High LA
+"Chicken, broilers or fryers, meat and skin, cooked, fried, batter",33.03,289.0,11.4,High LA
+"Babyfood, Snack, GERBER, GRADUATES, LIL CRUNCHIES, baked whole grain corn snack",57.096,503.0,11.4,High LA
+"Cheese puffs and twists, corn based, baked, low fat",48.861,432.0,11.3,High LA
+"Soup, clam chowder, new england, canned, prepared with equal volume water",3.951,35.0,11.3,High LA
+"Ground turkey, cooked",23.004,203.0,11.3,High LA
+"Fast foods, hamburger; single, large patty; with condiments, vegetables and mayo",25.452,226.0,11.3,High LA
+"Tomatillos, raw",3.618,32.0,11.3,High LA
+Miso,22.311,198.0,11.3,High LA
+"Nuts, hazelnuts or filberts",70.497,628.0,11.2,High LA
+"Soup, clam chowder, new england, canned, condensed",8.082,72.0,11.2,High LA
+"Eggs, scrambled, frozen mixture",14.715,131.0,11.2,High LA
+"Candies, chocolate covered, caramel with nuts",52.497,470.0,11.2,High LA
+"Fast foods, taco with beef, cheese and lettuce, hard shell",25.371,226.0,11.2,High LA
+"Fast foods, croissant, with egg, cheese, and sausage",34.173,308.0,11.1,High LA
+"Candies, fudge, vanilla with nuts",48.096,435.0,11.1,High LA
+"Chicken, broilers or fryers, wing, meat and skin, cooked, stewed",27.72,249.0,11.1,High LA
+"Turkey, dark meat from whole, meat and skin, cooked, roasted",22.869,206.0,11.1,High LA
+"Bread, cinnamon",28.107,253.0,11.1,High LA
+"Taquitos, frozen, beef and cheese, oven-heated",31.959,287.0,11.1,High LA
+"Chicken, cornish game hens, meat and skin, cooked, roasted",28.8,259.0,11.1,High LA
+"Restaurant, Mexican, refried beans",17.226,156.0,11.0,High LA
+"Bacon, turkey, low sodium",27.936,253.0,11.0,High LA
+"Chicken, broilers or fryers, thigh, meat and skin, cooked, stewed",25.56,232.0,11.0,High LA
+"Nuts, almond paste",50.184,458.0,11.0,High LA
+"Corn dogs, frozen, prepared",27.495,250.0,11.0,High LA
+"Chicken breast tenders, breaded, uncooked",28.773,263.0,10.9,High LA
+"Soup, cream of onion, canned, condensed",9.63,88.0,10.9,High LA
+"Pork sausage, link/patty, reduced fat, unprepared",23.553,217.0,10.9,High LA
+"Fast foods, quesadilla, with chicken",32.004,294.0,10.9,High LA
+"Turkey, retail parts, drumstick, meat and skin, cooked, roasted",21.321,197.0,10.8,High LA
+"Chicken, feet, boiled",23.13,215.0,10.8,High LA
+"Egg, whole, dried",63.441,592.0,10.7,High LA
+"Crackers, cheese, reduced fat",44.64,418.0,10.7,High LA
+"Quail, cooked, total edible",24.219,227.0,10.7,High LA
+"Pickle and pimiento loaf, pork",24.174,225.0,10.7,High LA
+Wasabi,31.122,292.0,10.7,High LA
+"Sauce, pasta, spaghetti/marinara, ready-to-serve",5.319,50.0,10.6,High LA
+"Cookies, chocolate chip, commercially prepared, regular, lower fat",47.79,451.0,10.6,High LA
+"Cookies, shortbread, reduced fat",47.772,451.0,10.6,High LA
+"Pork, fresh, backfat, raw",85.5,812.0,10.5,High LA
+"Chicken, broilers or fryers, wing, meat and skin, raw",20.034,191.0,10.5,High LA
+"Fast foods, chicken fillet sandwich, plain with pickles",26.181,250.0,10.5,High LA
+"Pork, fresh, spareribs, separable lean and fat, raw",29.07,277.0,10.5,High LA
+"Soup, chicken mushroom, canned, condensed",10.494,100.0,10.5,High LA
+"Spices, mustard seed, ground",53.289,508.0,10.5,High LA
+"Soup, minestrone, canned, condensed",7.11,68.0,10.5,High LA
+"Cream puff, eclair, custard or cream filled, iced",34.749,334.0,10.4,High LA
+"Pie, vanilla cream, prepared from recipe",28.845,278.0,10.4,High LA
+"Pork, cured, salt pork, raw",77.67,748.0,10.4,High LA
+"Duck, domesticated, meat and skin, raw",42.21,404.0,10.4,High LA
+"Chicken, broilers or fryers, thigh, meat and skin, cooked, roasted",24.021,232.0,10.4,High LA
+"Beverages, chocolate almond milk, unsweetened, shelf-stable, fortified with vita",2.187,21.0,10.4,High LA
+"Hummus, home prepared",18.315,177.0,10.3,High LA
+"Biscuits, plain or buttermilk, frozen, baked",34.929,338.0,10.3,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, with iron, ready-to-feed",6.768,66.0,10.3,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, with iron, powder, not recons",53.19,517.0,10.3,High LA
+"Restaurant, Latino, empanadas, beef, prepared",34.632,335.0,10.3,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, with iron, liquid concentrate",13.122,128.0,10.3,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, ADVANCE with iron, ready-to-f",6.768,66.0,10.3,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, ADVANCE with iron, powder, no",53.19,517.0,10.3,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, ISOMIL, ADVANCE with iron, liquid con",13.122,128.0,10.3,High LA
+"Pie, banana cream, prepared from recipe",27.603,269.0,10.3,High LA
+"Animal fat, bacon grease",91.341,897.0,10.2,High LA
+Lard,91.8,902.0,10.2,High LA
+"Pork, cured, bacon, pre-sliced, cooked, pan-fried",47.943,468.0,10.2,High LA
+"Pork sausage, reduced sodium, cooked",27.63,271.0,10.2,High LA
+"Infant formula, MEAD JOHNSON, PREGESTIMIL, with iron, powder, not reconstituted",53.1,519.0,10.2,High LA
+"Salami, dry or hard, pork, beef",38.376,378.0,10.2,High LA
+"Formulated Bar, SOUTH BEACH protein bar",42.003,412.0,10.2,High LA
+"Chicken, broilers or fryers, leg, meat and skin, cooked, stewed",22.41,220.0,10.2,High LA
+"Restaurant, Mexican, spanish rice",18.594,185.0,10.1,High LA
+"Potato puffs, frozen, oven-heated",19.296,192.0,10.1,High LA
+"Fast foods, crispy chicken, bacon, and tomato club sandwich, with cheese, lettuc",25.956,257.0,10.1,High LA
+"Turkey, wing, smoked, cooked, with skin, bone removed",22.365,221.0,10.1,High LA
+"Formulated bar, ZONE PERFECT CLASSIC CRUNCH BAR, mixed flavors",42.579,422.0,10.1,High LA
+"Crackers, gluten-free, multi-seeded and multigrain",45.333,453.0,10.0,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, NEOSURE, powder, with ARA and DHA",52.002,520.0,10.0,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, low iron, ready-to-feed",6.516,65.0,10.0,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, ADVANCE, with iron, powder, not recon",52.002,522.0,10.0,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, low iron, powder, not reconstituted",52.002,522.0,10.0,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, ADVANCE, with iron, liquid concentrat",12.645,127.0,10.0,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, low iron, liquid concentrate, not rec",12.645,127.0,10.0,High LA
+"Cake, yellow, commercially prepared, with chocolate frosting, in-store bakery",37.908,379.0,10.0,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, with iron, ready-to-feed",6.516,65.0,10.0,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, with iron, powder, not reconstituted",52.002,522.0,10.0,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, with iron, liquid concentrate, not re",12.645,127.0,10.0,High LA
+"Cookies, graham crackers, plain or honey (includes cinnamon)",42.813,430.0,10.0,High LA
+"Soup, cream of chicken, canned, condensed",9.009,90.0,10.0,High LA
+"Oil, olive, salad or cooking",87.858,884.0,9.9,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, ADVANCE, with iron, ready-to-feed",6.516,66.0,9.9,High LA
+"Chicken, broilers or fryers, meat and skin, cooked, fried, flour",26.73,269.0,9.9,High LA
+"Snacks, KELLOGG'S, NUTRI-GRAIN Cereal Bars, fruit",36.198,365.0,9.9,High LA
+"Veggie burgers or soyburgers, unprepared",17.46,177.0,9.9,High LA
+"Seeds, flaxseed",53.127,534.0,9.9,High LA
+"Egg, yolk, raw, fresh",31.842,322.0,9.9,High LA
+"Turkey, drumstick, smoked, cooked, with skin, bone removed",20.394,208.0,9.8,High LA
+"Sausage, smoked link sausage, pork and beef",31.329,320.0,9.8,High LA
+"Egg, whole, raw, fresh",13.995,143.0,9.8,High LA
+"Chicken, broilers or fryers, meat and skin, cooked, stewed",21.42,219.0,9.8,High LA
+"Oil, industrial, soy (partially hydrogenated)  and cottonseed, principal use as",86.49,884.0,9.8,High LA
+"Turkey, all classes, wing, meat and skin, cooked, roasted",22.41,229.0,9.8,High LA
+"Turkey, all classes, leg, meat and skin, cooked, roasted",20.43,208.0,9.8,High LA
+"Turkey sausage, reduced fat, brown and serve, cooked (include BUTTERBALL breakfa",20.043,204.0,9.8,High LA
+"Dove, cooked (includes squab)",20.916,213.0,9.8,High LA
+"Soup, onion, canned, condensed",4.5,46.0,9.8,High LA
+"Turkey from whole, neck, meat only, cooked, simmered",15.84,162.0,9.8,High LA
+"Taco shells, baked",46.638,476.0,9.8,High LA
+Ham salad spread,21.24,216.0,9.8,High LA
+"Pate, chicken liver, canned",19.44,201.0,9.7,High LA
+"Chicken, broilers or fryers, meat and skin, cooked, roasted",23.13,239.0,9.7,High LA
+"Cookie, with peanut butter filling, chocolate-coated",54.522,562.0,9.7,High LA
+"Egg, whole, cooked, poached",13.941,143.0,9.7,High LA
+"Soymilk, original and vanilla, unfortified",5.256,54.0,9.7,High LA
+"Whipped cream substitute, dietetic, made from powdered mix",9.693,100.0,9.7,High LA
+"Oat bran, raw",23.805,246.0,9.7,High LA
+"Chicken, broilers or fryers, breast, meat and skin, cooked, fried, batter",25.02,260.0,9.6,High LA
+"Fast Food, Pizza Chain, 14"" pizza, sausage topping, thin crust",30.708,321.0,9.6,High LA
+"Sausage, egg and cheese breakfast biscuit",31.257,324.0,9.6,High LA
+"Chicken, broilers or fryers, meat and skin and giblets and neck, roasted",22.5,234.0,9.6,High LA
+"Infant formula, MEAD JOHNSON, PREGESTIMIL, with iron, prepared from powder",6.435,67.0,9.6,High LA
+"Snacks, tortilla chips, light (baked with less oil)",44.793,465.0,9.6,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, SENSITIVE (LACTOSE FREE) ready-to-fee",6.516,68.0,9.6,High LA
+"Chicken, broilers or fryers, drumstick, meat and skin, raw",15.255,161.0,9.5,High LA
+"Candies, REESE'S Peanut Butter Cups",48.942,515.0,9.5,High LA
+"Restaurant, Latino, tamale, pork",16.596,174.0,9.5,High LA
+"Cake, chocolate, commercially prepared with chocolate frosting, in-store bakery",37.098,389.0,9.5,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC NEOSURE, ready-to-feed, with ARA and D",6.561,69.0,9.5,High LA
+"Potatoes, hash brown, frozen, plain, prepared, pan fried in canola oil",20.862,219.0,9.5,High LA
+"Fast foods, breakfast burrito, with egg, cheese, and sausage",26.361,277.0,9.5,High LA
+"Infant formula, NESTLE, GOOD START SUPREME, with iron, powder",48.33,509.0,9.5,High LA
+"Fast foods, hamburger; double, large patty; with condiments, vegetables and mayo",23.958,252.0,9.5,High LA
+"Smoked link sausage, pork",29.322,309.0,9.5,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, SENSITIVE, (LACTOSE FREE), liquid con",12.132,128.0,9.5,High LA
+"Chicken, stewing, meat and skin, and giblets and neck, cooked, stewed",20.043,214.0,9.4,High LA
+"Turkey, retail parts, thigh, meat only, cooked, roasted",14.94,159.0,9.4,High LA
+"Pork, fresh, shoulder, arm picnic, separable lean and fat, cooked, braised",22.05,235.0,9.4,High LA
+"Turkey, retail parts, drumstick, meat only, cooked, roasted",16.263,173.0,9.4,High LA
+"Snacks, KELLOGG, KELLOGG'S RICE KRISPIES TREATS Squares",39.114,414.0,9.4,High LA
+"Turkey, retail parts, breast, meat and skin, raw",14.598,155.0,9.4,High LA
+"Avocados, raw, all commercial varieties",15.066,160.0,9.4,High LA
+"Cookies, chocolate chip, commercially prepared, special dietary",42.093,450.0,9.4,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, SENSITIVE, (LACTOSE FREE), powder, wi",49.113,520.0,9.4,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, For Spit Up, ready-to-feed, with ARA",6.174,66.0,9.4,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, For Spit Up, powder, with ARA and DHA",48.357,514.0,9.4,High LA
+"Infant formula, NESTLE, GOOD START SUPREME, with iron, ready-to-feed",6.12,66.0,9.3,High LA
+"Bread, salvadoran sweet cheese (quesadilla salvadorena)",34.326,374.0,9.2,High LA
+"Crackers, cheese, sandwich-type with peanut butter filling",45.837,496.0,9.2,High LA
+"Alfalfa seeds, sprouted, raw",2.106,23.0,9.2,High LA
+"Beverages, coffee, brewed, espresso, restaurant-prepared, decaffeinated",0.828,9.0,9.2,High LA
+"Mayonnaise, reduced fat, with olive oil",33.201,361.0,9.2,High LA
+"Beverages, coffee, brewed, espresso, restaurant-prepared",0.828,9.0,9.2,High LA
+"Infant formula, NESTLE, GOOD START SUPREME, with iron, liquid concentrate, not r",11.7,127.0,9.2,High LA
+"Crackers, saltines (includes oyster, soda, soup)",38.448,418.0,9.2,High LA
+"Soup, cream of mushroom, canned, condensed, reduced sodium",4.77,52.0,9.2,High LA
+"Crackers, milk",40.644,446.0,9.1,High LA
+"Chicken, broilers or fryers, breast, meat and skin, raw",15.66,172.0,9.1,High LA
+"Fast foods, biscuit, with crispy chicken fillet",27.333,300.0,9.1,High LA
+"Chicken, broilers or fryers, drumstick, meat and skin, cooked, stewed",18.36,204.0,9.0,High LA
+"Fast Food, Pizza Chain, 14"" pizza, sausage topping, thick crust",25.335,282.0,9.0,High LA
+"Pork, fresh, loin, blade (chops), bone-in, separable lean and fat, cooked, pan-f",22.923,256.0,9.0,High LA
+"Duck, domesticated, meat and skin, cooked, roasted",30.24,337.0,9.0,High LA
+"Salad dressing, thousand island dressing, reduced fat",17.595,195.0,9.0,High LA
+"Egg rolls, pork, refrigerated, heated",19.908,222.0,9.0,High LA
+"Pork, cured, separable fat (from ham and arm picnic), unheated",51.57,579.0,8.9,High LA
+"Soy flour, low-fat",32.94,372.0,8.9,High LA
+"Soup, bouillon cubes and granules, low sodium, dry",38.916,438.0,8.9,High LA
+"Chicken, broiler, rotisserie, BBQ, skin",33.651,378.0,8.9,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, ENFAGROW, GENTLEASE, Toddler, ready-to-fe",5.85,66.0,8.9,High LA
+"Gravy, instant turkey, dry",36.207,409.0,8.9,High LA
+"Turkey, light or dark meat, smoked, cooked, with skin, bone removed",18.486,208.0,8.9,High LA
+"Child formula, ABBOTT NUTRITION, PEDIASURE, ready-to-feed, with iron and fiber",8.775,99.0,8.9,High LA
+"Child formula, ABBOTT NUTRITION, PEDIASURE, ready-to-feed",8.775,99.0,8.9,High LA
+"Turkey, whole, meat and skin, cooked, roasted",16.857,189.0,8.9,High LA
+"Muffins, corn, commercially prepared",27.189,305.0,8.9,High LA
+"Fast foods, nachos, with cheese, beans, ground beef, and tomatoes",19.278,219.0,8.8,High LA
+"Waffles, chocolate chip, frozen, ready-to-heat",26.244,297.0,8.8,High LA
+"Candies, honey-combed, with peanut butter",42.921,486.0,8.8,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN AA, ready-to-feed",5.823,66.0,8.8,High LA
+"Asparagus, frozen, cooked, boiled, drained, without salt",1.575,18.0,8.8,High LA
+"Soup, vegetarian vegetable, canned, prepared with equal volume water",2.475,28.0,8.8,High LA
+"Spices, cloves, ground",23.913,274.0,8.7,High LA
+"Chickpeas (garbanzo beans, bengal gram), mature seeds, canned, solids and liquid",7.641,88.0,8.7,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, NATURAL CARE, ADVANCE, ready-to-feed,",6.822,78.0,8.7,High LA
+"Oil, industrial, soy ( partially hydrogenated), all purpose",77.319,884.0,8.7,High LA
+"Chicken, broilers or fryers, thigh, meat only, cooked, stewed",17.01,195.0,8.7,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, ENFAGROW, GENTLEASE, Toddler, LIPIL, powd",42.939,494.0,8.7,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, with iron, ready-to-feed",5.508,63.0,8.7,High LA
+"Toddler formula, MEAD JOHNSON, ENFAGROW PREMIUM (formerly ENFAMIL, LIPIL, NEXT S",5.58,64.0,8.7,High LA
+"Pork loin, fresh, backribs, bone-in, cooked-roasted, lean only",22.239,255.0,8.7,High LA
+"Infant Formula, MEAD JOHNSON, ENFAMIL GENTLEASE LIPIL, with iron, prepared from",5.4,63.0,8.6,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, LACTOFREE, ready-to-feed",5.418,63.0,8.6,High LA
+"Soup, chicken noodle, low sodium, canned, prepared with equal volume water",2.16,25.0,8.6,High LA
+"Fast Food, Pizza Chain, 14"" pizza, pepperoni topping, thin crust",28.584,331.0,8.6,High LA
+"Infant formula, MEAD JOHNSON, PROSOBEE, with iron, liquid concentrate, not recon",11.259,131.0,8.6,High LA
+"Infant formula, NESTLE, GOOD START SUPREME, with iron, DHA and ARA, ready-to-fee",5.706,66.0,8.6,High LA
+Tofu yogurt,8.109,94.0,8.6,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, low iron, ready-to-feed",5.418,63.0,8.6,High LA
+"Restaurant, Chinese, vegetable lo mein, without meat",10.278,121.0,8.5,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, LIPIL, with iron, liquid concentrate, wit",11.142,131.0,8.5,High LA
+"Pastrami, turkey",11.88,139.0,8.5,High LA
+"Chicken, broilers or fryers, drumstick, meat and skin, cooked, roasted",16.218,191.0,8.5,High LA
+"Infant formula, MEAD JOHNSON, PROSOBEE, with iron, ready-to-feed",5.346,63.0,8.5,High LA
+"Bread, whole-wheat, prepared from recipe, toasted",25.92,305.0,8.5,High LA
+"Snacks, vegetable chips, made from garden vegetables",40.275,473.0,8.5,High LA
+"Bread, whole-wheat, prepared from recipe",23.589,278.0,8.5,High LA
+"Cookie, butter or sugar, with chocolate icing or filling",42.57,503.0,8.5,High LA
+"Infant formula, GERBER, GOOD START 2 SOY, with iron, powder",42.462,501.0,8.5,High LA
+"Wheat bran, crude",18.351,216.0,8.5,High LA
+"Chicken, broilers or fryers, light meat, meat and skin, cooked, fried, flour",20.97,246.0,8.5,High LA
+"Candies, HERSHEYS, PAYDAY Bar",41.715,490.0,8.5,High LA
+"Infant formula, NESTLE, GOOD START SOY, with DHA and ARA, ready-to-feed",5.427,64.0,8.5,High LA
+"Babyfood, cereal, barley, dry fortified",31.887,376.0,8.5,High LA
+"Snacks, popcorn, caramel-coated, without peanuts",36.63,431.0,8.5,High LA
+"Infant Formula, MEAD JOHNSON, ENFAMIL, ENFACARE LIPIL, ready-to-feed, with ARA a",6.057,71.0,8.5,High LA
+"Infant formula, NESTLE, GOOD START SOY, with DHA and ARA, liquid concentrate",11.16,132.0,8.5,High LA
+"Peppers, hot chile, sun-dried",27.504,324.0,8.5,High LA
+"Snacks, soy chips or crisps, salted",32.589,385.0,8.5,High LA
+"Mortadella, beef, pork",26.19,311.0,8.4,High LA
+"Infant formula, NESTLE, GOOD START ESSENTIALS SOY, with iron, liquid concentrate",10.8,128.0,8.4,High LA
+"Babyfood, meat, turkey, strained",9.36,111.0,8.4,High LA
+"Babyfood, meat, turkey, junior",9.36,111.0,8.4,High LA
+"Infant Formula, MEAD JOHNSON, ENFAMIL, Premium, Infant, Liquid concentrate, not",10.8,129.0,8.4,High LA
+"Sandwich spread, pork, beef",19.665,235.0,8.4,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, LACTOFREE, LIPIL, with iron, liquid conce",11.088,132.0,8.4,High LA
+"Spices, caraway seed",28.098,333.0,8.4,High LA
+"Candies, peanut brittle, prepared-from-recipe",41.013,486.0,8.4,High LA
+"Snacks, granola bar, GENERAL MILLS NATURE VALLEY, SWEET&SALTY NUT, peanut",40.968,487.0,8.4,High LA
+"Pork, fresh, leg (ham), rump half, separable lean and fat, cooked, roasted",17.469,209.0,8.4,High LA
+"Infant formula, NESTLE, GOOD START SOY, with ARA and DHA, powder",42.3,503.0,8.4,High LA
+"Babyfood, dinner, chicken stew, toddler",6.57,78.0,8.4,High LA
+"Soup, tomato rice, canned, condensed",7.83,93.0,8.4,High LA
+"Soup, vegetarian vegetable, canned, condensed",4.95,59.0,8.4,High LA
+"Infant formula, NESTLE, GOOD START ESSENTIALS SOY, with iron, powder",42.3,502.0,8.4,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, LACTOFREE, with iron, powder, not reconst",43.2,521.0,8.3,High LA
+"Crackers, standard snack-type, sandwich, with peanut butter filling",40.959,494.0,8.3,High LA
+"Infant formula, GERBER, GOOD START 2 Soy, with iron, ready-to-feed",5.418,65.0,8.3,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, LACTOFREE LIPIL, with iron, powder, with",43.2,521.0,8.3,High LA
+"Pie, mince, prepared from recipe",23.949,289.0,8.3,High LA
+"Luncheon meat, pork, canned",27.72,334.0,8.3,High LA
+"Coffeecake, cinnamon with crumb topping, dry mix, prepared",26.352,318.0,8.3,High LA
+"Soymilk, chocolate, unfortified",5.256,63.0,8.3,High LA
+"Restaurant, family style, macaroni & cheese, from kids' menu",12.555,151.0,8.3,High LA
+"Salad dressing, blue or roquefort cheese dressing, light",7.101,86.0,8.3,High LA
+"Babyfood, cookie, baby, fruit",36.18,435.0,8.3,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, PROSOBEE, with iron, powder, not reconsti",42.3,510.0,8.3,High LA
+"Toddler formula, MEAD JOHNSON, ENFAGROW, PREMIUM (formerly ENFAMIL, LIPIL, NEXT",41.4,501.0,8.3,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, PROSOBEE, LIPIL, liquid concentrate, not",10.827,131.0,8.3,High LA
+"Chicken, broiler, rotisserie, BBQ, back meat and skin",20.826,251.0,8.3,High LA
+"Soup, tomato rice, canned, prepared with equal volume water",3.915,47.0,8.3,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, PROSOBEE LIPIL, with iron, powder, not re",42.3,510.0,8.3,High LA
+"Infant formula, NESTLE, GOOD START ESSENTIALS SOY, with iron, ready-to-feed",5.4,65.0,8.3,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, Expert Care, Diarrhea, ready- to- fee",5.382,66.0,8.2,High LA
+"HOT POCKETS, meatballs & mozzarella stuffed sandwich, frozen",20.736,253.0,8.2,High LA
+"Cake, fruitcake, commercially prepared",26.631,324.0,8.2,High LA
+"Fast foods, burrito, with beans and cheese",16.857,205.0,8.2,High LA
+"Fast Food, Pizza Chain, 14"" pizza, pepperoni topping, thick crust",23.409,287.0,8.2,High LA
+"Snacks, vegetable chips, HAIN CELESTIAL GROUP, TERRA CHIPS",42.264,517.0,8.2,High LA
+"Infant formula, MEAD JOHNSON, PROSOBEE LIPIL, with iron, ready to feed, with ARA",5.265,64.0,8.2,High LA
+"Chicken, broilers or fryers, dark meat, meat only, cooked, roasted",16.83,205.0,8.2,High LA
+"Turkey, retail parts, breast, meat and skin, cooked, roasted",13.437,164.0,8.2,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, with iron, liquid concentrate",10.431,127.0,8.2,High LA
+"Danish pastry, nut (includes almond, raisin nut, cinnamon nut)",35.127,430.0,8.2,High LA
+"Turkey, whole, meat and skin, raw",11.763,143.0,8.2,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, ENFACARE LIPIL, with iron, powder, with A",42.3,514.0,8.2,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN LIPIL, with iron, powder, not",40.5,494.0,8.2,High LA
+"Pork, fresh, loin, center loin (chops), boneless, separable lean and fat, raw",16.398,201.0,8.2,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, GO AND GROW, powder, with ARA and DHA",41.949,512.0,8.2,High LA
+"Chicken, canned, meat only, with broth",13.59,165.0,8.2,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL LIPIL, with iron, ready-to-feed, with ARA",5.265,64.0,8.2,High LA
+"Pizza, pepperoni topping, regular crust, frozen, cooked",22.338,274.0,8.2,High LA
+"Snacks, granola bar, KASHI TLC Bar, chewy, mixed flavors",34.884,429.0,8.1,High LA
+"Turkey and pork sausage, fresh, bulk, patty or link, cooked",24.84,307.0,8.1,High LA
+"Fast Foods, Fried Chicken, Wing, meat and skin and breading",25.038,310.0,8.1,High LA
+"Spices, celery seed",31.68,392.0,8.1,High LA
+"Fast Foods, Fried Chicken, Thigh, meat and skin and breading",22.221,274.0,8.1,High LA
+"Chicken, broilers or fryers, dark meat, meat only, cooked, stewed",15.57,192.0,8.1,High LA
+"Ice cream, bar or stick, chocolate covered",26.766,331.0,8.1,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, with iron, powder, not recons",40.5,502.0,8.1,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, with iron, powder",42.3,520.0,8.1,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, SPECIAL CARE, ADVANCE 24, with iron,",5.769,71.0,8.1,High LA
+"Cookies, graham crackers, chocolate-coated",40.554,500.0,8.1,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, low iron, powder, not reconstituted",41.4,511.0,8.1,High LA
+"Candies, caramels",31.023,382.0,8.1,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, LIPIL, ready-to-feed, with ARA and DHA",5.265,66.0,8.0,High LA
+"Infant Formula, MEAD JOHNSON, ENFAMIL, Premium, Infant, powder",40.959,510.0,8.0,High LA
+"Pepper, banana, raw",2.16,27.0,8.0,High LA
+"Cookies, chocolate wafers",34.794,433.0,8.0,High LA
+"Infant Formula, MEAD JOHNSON, ENFAMIL, Premium LIPIL, Infant, powder",40.959,510.0,8.0,High LA
+"Infant Formula, MEAD JOHNSON, ENFAMIL, Premium LIPIL, Infant, Liquid concentrate",10.368,129.0,8.0,High LA
+"Salisbury steak with gravy, frozen",11.943,149.0,8.0,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, LIPIL, with iron, ready-to-fe",5.265,66.0,8.0,High LA
+Ice cream sandwich,19.071,237.0,8.0,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, LIPIL, with iron, liquid conc",10.134,126.0,8.0,High LA
+"Fast Food, Pizza Chain, 14"" pizza, cheese topping, thick crust",21.627,271.0,8.0,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, AA LIPIL, powder, not reconst",39.843,500.0,8.0,High LA
+"Chicken, broiler, rotisserie, BBQ, back meat only",16.893,212.0,8.0,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, LIPIL, with iron, powder, with ARA and DH",40.86,511.0,8.0,High LA
+"Infant formula, GERBER, GOOD START, PROTECT PLUS, ready-to-feed",5.157,65.0,7.9,High LA
+"Sausage, Italian, pork, cooked",27.333,344.0,7.9,High LA
+"Infant formula, GERBER, GOOD START 2, PROTECT PLUS, powder",39.393,501.0,7.9,High LA
+"Gravy, turkey, canned, ready-to-serve",4.05,51.0,7.9,High LA
+"Fast Food, Pizza Chain, 14"" pizza, cheese topping, thin crust",23.724,302.0,7.9,High LA
+"Candies, HERSHEY, REESESTICKS crispy wafers, peanut butter, milk chocolate",41.337,521.0,7.9,High LA
+"Pork and beef sausage, fresh, cooked",31.14,396.0,7.9,High LA
+"Infant formula, GERBER, GOOD START 2, PROTECT PLUS, ready-to-feed",5.157,66.0,7.8,High LA
+"Infant formula, NESTLE, GOOD START 2 ESSENTIALS, with iron, liquid concentrate,",9.801,125.0,7.8,High LA
+"Turkey, canned, meat only, with broth",13.14,169.0,7.8,High LA
+"Snacks, granola bar, GENERAL MILLS, NATURE VALLEY, CHEWY TRAIL MIX",32.571,415.0,7.8,High LA
+"Pork, fresh, loin, center rib (chops), bone-in, separable lean and fat, cooked,",20.034,256.0,7.8,High LA
+"Braunschweiger (a liver sausage), pork",25.668,327.0,7.8,High LA
+"Crackers, whole grain, sandwich-type, with peanut butter filling",36.117,465.0,7.8,High LA
+"Chicken, canned, no broth",14.373,185.0,7.8,High LA
+"Fast Foods, grilled chicken filet sandwich, with lettuce, tomato and spread",14.265,182.0,7.8,High LA
+"Turkey, thigh, from whole bird, meat only, roasted",12.924,165.0,7.8,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, AR LIPIL, powder, with ARA and DHA",39.951,509.0,7.8,High LA
+"Sausage, turkey, hot, smoked",12.339,158.0,7.8,High LA
+"Chicken, broilers or fryers, leg, meat and skin, cooked, roasted",14.337,184.0,7.8,High LA
+"Pie, apple, commercially prepared, enriched flour",18.594,237.0,7.8,High LA
+"Candies, REESE's Fast Break, milk chocolate, peanut butter, soft nougats, candy",38.07,495.0,7.7,High LA
+"Lambsquarters, cooked, boiled, drained, without salt",2.466,32.0,7.7,High LA
+"Restaurant, Latino, pupusas del cerdo (pupusas, pork)",17.874,232.0,7.7,High LA
+"Infant Formula, MEAD JOHNSON, ENFAMIL, GENTLEASE, powder",39.6,514.0,7.7,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, NUTRAMIGEN, with iron, ready-to-feed",5.049,66.0,7.7,High LA
+"Crackers, saltines, low salt (includes oyster, soda, soup)",32.616,421.0,7.7,High LA
+"Snacks, potato chips, white, restructured, baked",36.333,469.0,7.7,High LA
+"Margarine-like, vegetable oil spread, fat-free, tub",3.384,44.0,7.7,High LA
+"Infant formula, MEAD JOHNSON, ENFAMIL, AR LIPIL, ready-to-feed, with ARA and DHA",5.265,68.0,7.7,High LA
+"Spices, curry powder",25.092,325.0,7.7,High LA
+"Egg rolls, chicken, refrigerated, heated",15.066,197.0,7.6,High LA
+"Snacks, granola bar, KASHI TLC Bar, crunchy, mixed flavors",33.876,446.0,7.6,High LA
+"Infant formula, NESTLE, GOOD START 2 ESSENTIALS, with iron, ready-to-feed",4.95,65.0,7.6,High LA
+"Infant formula, GERBER, GOOD START, PROTECT PLUS, powder",39.114,512.0,7.6,High LA
+"Cake, pound, commercially prepared, butter (includes fresh and frozen)",26.748,353.0,7.6,High LA
+"Sauce, pasta, spaghetti/marinara, ready-to-serve, low sodium",3.861,51.0,7.6,High LA
+"Chives, raw",2.268,30.0,7.6,High LA
+"Fast Foods, Fried Chicken, Drumstick, meat only, skin and breading removed",13.077,172.0,7.6,High LA
+"Candies, crispy bar with peanut butter filling",41.337,542.0,7.6,High LA
+"Infant Formula, GERBER GOOD START 2, GENTLE PLUS, powder",37.611,492.0,7.6,High LA
+Blood sausage,28.8,379.0,7.6,High LA
+"Pork, fresh, loin, center loin (chops), boneless, separable lean and fat, cooked",17.433,229.0,7.6,High LA
+"Cake, pudding-type, marble, dry mix",31.617,416.0,7.6,High LA
+"Olives, pickled, canned or bottled, green",10.935,145.0,7.5,High LA
+"Cookies, animal, with frosting or icing",38.349,509.0,7.5,High LA
+"Soup, vegetable with beef broth, canned, prepared with equal volume water",2.475,33.0,7.5,High LA
+"Doughnuts, cake-type, plain (includes unsugared, old-fashioned)",32.733,434.0,7.5,High LA
+"Pork, fresh, shoulder, arm picnic, separable lean only, cooked, braised",14.517,194.0,7.5,High LA
+"Soup, vegetable with beef broth, canned, condensed",4.95,66.0,7.5,High LA
+"Infant formula, NESTLE, GOOD START 2 ESSENTIALS, with iron, powder",35.46,471.0,7.5,High LA
+"Pizza, meat and vegetable topping, regular crust, frozen, cooked",20.619,276.0,7.5,High LA
+"Snacks, candy bits, yogurt covered with vitamin C",30.996,415.0,7.5,High LA
+"Pokeberry shoots, (poke), cooked, boiled, drained, without salt",1.494,20.0,7.5,High LA
+"Turkey, back, from whole bird, meat only, roasted",12.924,173.0,7.5,High LA
+"Chicken, broiler, rotisserie, BBQ, thigh meat and skin",17.01,226.0,7.5,High LA
+"Chicken, broilers or fryers, leg, meat only, cooked, stewed",13.95,185.0,7.5,High LA
+"Turkey, from whole, dark meat, cooked, roasted",12.924,173.0,7.5,High LA
+"Cookies, vanilla wafers, lower fat",32.625,441.0,7.4,High LA
+"Dutch brand loaf, chicken, pork and beef",20.079,273.0,7.4,High LA
+"Babyfood, baked product, finger snacks cereal fortified",31.284,421.0,7.4,High LA
+"Pie, pecan, commercially prepared",30.249,407.0,7.4,High LA
+"Bread sticks, plain",30.393,412.0,7.4,High LA
+"Cookies, graham crackers, plain or honey, lowfat",28.413,386.0,7.4,High LA
+"Ham, minced",19.44,263.0,7.4,High LA
+"Candies, sugar-coated almonds",35.136,474.0,7.4,High LA
+"Sauce, enchilada, red, mild, ready to serve",2.205,30.0,7.4,High LA
+"Spices, cumin seed",27.927,375.0,7.4,High LA
+"Candies, milk chocolate coated peanuts",37.998,519.0,7.3,High LA
+"Chicken, broilers or fryers, thigh, meat only, cooked, roasted",13.14,179.0,7.3,High LA
+"Pizza rolls, frozen, unprepared",23.814,328.0,7.3,High LA
+"Turkey, heart, all classes, cooked, simmered",12.708,174.0,7.3,High LA
+"Quinoa, cooked",8.766,120.0,7.3,High LA
+"Candies, MR. GOODBAR Chocolate Bar",39.285,538.0,7.3,High LA
+"Knackwurst, knockwurst, pork, beef",22.32,307.0,7.3,High LA
+"Chicken, broilers or fryers, meat only, cooked, fried",16.02,219.0,7.3,High LA
+"Pizza, meat topping, thick crust, frozen, cooked",19.755,274.0,7.2,High LA
+"Cheesefurter, cheese smokie, pork, beef",23.58,328.0,7.2,High LA
+"Fast foods, submarine sandwich, cold cut on white bread with lettuce and tomato",15.282,213.0,7.2,High LA
+"Bamboo shoots, canned, drained solids",1.359,19.0,7.2,High LA
+"Snacks, granola bars, soft, almond, confectioners coating",32.652,455.0,7.2,High LA
+"Snacks, popcorn, caramel-coated, with peanuts",28.89,400.0,7.2,High LA
+"Doughnuts, yeast-leavened, with creme filling",26.1,361.0,7.2,High LA
+"Turkey from whole, light meat, meat and skin, cooked, roasted",12.663,177.0,7.2,High LA
+"Doughnuts, yeast-leavened, glazed, enriched (includes honey buns)",30.24,421.0,7.2,High LA
+"Soup, bean with pork, canned, prepared with equal volume water",4.491,63.0,7.1,High LA
+"Soup, bean with pork, canned, condensed",9.18,129.0,7.1,High LA
+"Babyfood, meat, meat sticks, junior",13.14,184.0,7.1,High LA
+"Chicken, broiler, rotisserie, BBQ, wing meat and skin",18.18,257.0,7.1,High LA
+"Cake, cherry fudge with chocolate frosting",18.756,264.0,7.1,High LA
+"Gravy, chicken, canned or bottled, ready-to-serve",3.402,48.0,7.1,High LA
+"Oat flour, partially debranned",28.665,404.0,7.1,High LA
+"Soup, mushroom with beef stock, canned, condensed",4.86,68.0,7.1,High LA
+"Turnover, filled with egg, meat and cheese, frozen",16.2,228.0,7.1,High LA
+"Candies, MARS SNACKFOOD US, MARS Almond Bar",33.3,467.0,7.1,High LA
+"Pepperoni, beef and pork, sliced",35.19,504.0,7.0,High LA
+"Pigeonpeas, immature seeds, cooked, boiled, drained, without salt",7.74,111.0,7.0,High LA
+"Pork, fresh, loin, center loin (chops), bone-in, separable lean and fat, cooked,",16.686,238.0,7.0,High LA
+"Olive loaf, pork",16.38,235.0,7.0,High LA
+"Soup, clam chowder, new england, canned, prepared with equal volume low fat (2%)",4.284,61.0,7.0,High LA
+"Babyfood, dinner, beef with vegetables",6.723,96.0,7.0,High LA
+"Game meat, squirrel, cooked, roasted",12.06,173.0,7.0,High LA
+"Tomato products, canned, sauce, with onions, green peppers, and celery",2.889,41.0,7.0,High LA
+"Snacks, popcorn, microwave, low fat",29.835,424.0,7.0,High LA
+"Chicken, broilers or fryers, leg, meat only, cooked, roasted",12.231,174.0,7.0,High LA
+"Fast Foods, biscuit, with egg and sausage",21.735,312.0,7.0,High LA
+"Carrots, frozen, cooked, boiled, drained, without salt",2.601,37.0,7.0,High LA
+"Ham, chopped, canned",16.74,239.0,7.0,High LA
+"Pork loin, fresh, backribs, bone-in, raw, lean only",12.024,172.0,7.0,High LA
+"Toaster Pastries, fruit, frosted (include apples, blueberry, cherry, strawberry)",26.838,385.0,7.0,High LA
+"Fast foods, egg, scrambled",14.841,212.0,7.0,High LA
+"Cookies, peanut butter sandwich, regular",33.192,478.0,6.9,High LA
+"Popcorn, microwave, regular (butter) flavor, made with palm oil",36.936,535.0,6.9,High LA
+"Restaurant, Latino, tamale, corn",12.915,186.0,6.9,High LA
+"Chicken, broiler, rotisserie, BBQ, thigh, meat only",13.41,193.0,6.9,High LA
+"Egg, whole, cooked, hard-boiled",10.692,155.0,6.9,High LA
+"School Lunch, pizza, pepperoni topping, thin crust, whole grain, frozen, cooked",17.586,254.0,6.9,High LA
+"Fast foods, cheeseburger; single, large patty; with condiments, vegetables and m",18.405,268.0,6.9,High LA
+"Rolls, dinner, whole-wheat",18.342,266.0,6.9,High LA
+"Cereals, oats, regular and quick, unenriched, cooked with water (includes boilin",4.869,71.0,6.9,High LA
+"Cinnamon buns, frosted (includes honey buns)",30.924,452.0,6.8,High LA
+"Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat, ra",12.609,186.0,6.8,High LA
+"Crackers, whole-wheat, reduced fat",28.476,416.0,6.8,High LA
+"Infant formula, MEAD JOHNSON, NEXT STEP PROSOBEE, powder, not reconstituted",32.4,480.0,6.8,High LA
+"Snacks, GENERAL MILLS, CHEX MIX, traditional flavor",29.214,428.0,6.8,High LA
+"Turkey, stuffing, mashed potatoes w/gravy, assorted vegetables, frozen, microwav",8.685,128.0,6.8,High LA
+"Pork, fresh, loin, sirloin (chops), bone-in, separable lean and fat, cooked, bro",15.057,222.0,6.8,High LA
+"Cookies, peanut butter, commercially prepared, regular",31.527,473.0,6.7,High LA
+"Cookies, fig bars",23.247,348.0,6.7,High LA
+"Biscuits, plain or buttermilk, refrigerated dough, higher fat, baked",21.708,324.0,6.7,High LA
+"Fast foods, burrito, with beans, cheese, and beef",12.105,180.0,6.7,High LA
+"Pork, cured, bacon, cooked, broiled, pan-fried or roasted, reduced sodium",36.0,541.0,6.7,High LA
+"Cookies, sugar, commercially prepared, regular (includes vanilla)",31.041,464.0,6.7,High LA
+"Turkey ham, sliced, extra lean, prepackaged or deli-sliced",8.289,124.0,6.7,High LA
+"Fast foods, english muffin, with egg, cheese, and sausage",19.188,286.0,6.7,High LA
+"Bologna, pork",16.461,247.0,6.7,High LA
+"Toaster pastries, fruit (includes apple, blueberry, cherry, strawberry)",26.118,388.0,6.7,High LA
+"Soup, chicken vegetable, canned, condensed",4.05,61.0,6.6,High LA
+"Bread, paratha, whole wheat, commercially prepared, frozen",21.663,326.0,6.6,High LA
+"Rolls, dinner, plain, commercially prepared (includes brown-and-serve)",20.565,310.0,6.6,High LA
+"Fast Foods, Fried Chicken, Thigh, meat only, skin and breading removed",11.79,178.0,6.6,High LA
+"Fast Food, Pizza Chain, 14"" pizza, sausage topping, regular crust",18.513,280.0,6.6,High LA
+"Sausage, chicken or turkey, Italian style,  lower sodium",12.051,183.0,6.6,High LA
+"Noodles, chinese, chow mein",31.473,475.0,6.6,High LA
+"Fast foods, grilled chicken, bacon and tomato club sandwich, with cheese, lettuc",14.607,220.0,6.6,High LA
+"Cookies, sugar wafer, chocolate-covered",34.974,526.0,6.6,High LA
+"Pie, cherry, commercially prepared",17.253,260.0,6.6,High LA
+"Ice cream cones, cake or wafer-type",27.684,417.0,6.6,High LA
+"SCHIFF,TIGER'S MILK BAR",27.675,422.0,6.6,High LA
+"Soup, chicken, canned, chunky, ready-to-serve",4.68,71.0,6.6,High LA
+"Fast foods, taco with chicken, lettuce and cheese, soft",12.474,189.0,6.6,High LA
+"Goose, domesticated, meat and skin, cooked, roasted",20.16,305.0,6.6,High LA
+"Fast foods, english muffin, with cheese and sausage",22.185,338.0,6.6,High LA
+"Olives, ripe, canned (small-extra large)",7.623,115.0,6.6,High LA
+"Chicken, broilers or fryers, breast, meat and skin, cooked, stewed",12.15,184.0,6.6,High LA
+Ham and cheese loaf or roll,15.948,241.0,6.6,High LA
+"Mushrooms, white, raw",1.44,22.0,6.5,High LA
+"Fast Foods, cheeseburger; double, large patty; with condiments, vegetables and m",16.353,253.0,6.5,High LA
+"Candies, MARS SNACKFOOD US, M&M's Almond Chocolate Candies",33.669,522.0,6.5,High LA
+"Corn, sweet, yellow, canned, whole kernel, drained solids",4.347,67.0,6.5,High LA
+"Fast Foods, Fried Chicken, Breast, meat and skin and breading",14.913,230.0,6.5,High LA
+"Soup, chicken broth, low sodium, canned",1.044,16.0,6.5,High LA
+"Bratwurst, pork, cooked",21.771,333.0,6.5,High LA
+"Chicken, broilers or fryers, meat only, roasted",12.33,190.0,6.5,High LA
+"Fast foods, griddle cake sandwich, sausage",20.7,318.0,6.5,High LA
+"Turkey, retail parts, wing, meat only, cooked, roasted",10.926,170.0,6.4,High LA
+"Pork, fresh, composite of trimmed leg, loin, shoulder, and spareribs, (includes",13.554,211.0,6.4,High LA
+"Infant formula, PBM PRODUCTS, store brand, soy, ready-to-feed",4.05,63.0,6.4,High LA
+"Soup, chicken noodle, reduced sodium, canned, ready-to-serve",2.637,41.0,6.4,High LA
+"Pork, cured, shoulder, arm picnic, separable lean and fat, roasted",17.82,280.0,6.4,High LA
+"Infant formula, PBM PRODUCTS, store brand, soy, liquid concentrate, not reconsti",8.1,126.0,6.4,High LA
+"HOT POCKETS Ham 'N Cheese Stuffed Sandwich, frozen",15.39,241.0,6.4,High LA
+"Infant formula, PBM PRODUCTS, store brand, ready-to-feed",4.05,63.0,6.4,High LA
+"Fast foods, biscuit, with sausage",23.58,371.0,6.4,High LA
+"Fast foods, french toast sticks",21.789,340.0,6.4,High LA
+"Turkey, fryer-roasters, meat and skin, cooked, roasted",11.07,172.0,6.4,High LA
+"Chicken, broilers or fryers, breast, meat and skin, cooked, roasted",12.69,197.0,6.4,High LA
+"Fast foods, bagel, with egg, sausage patty, cheese, and condiments",19.017,295.0,6.4,High LA
+Clif Z bar,25.74,409.0,6.3,High LA
+"Fast Foods, Fried Chicken, Wing, meat only, skin and breading removed",13.527,215.0,6.3,High LA
+"Soup, hot and sour, Chinese restaurant",2.457,39.0,6.3,High LA
+"Meat drippings (lard, beef tallow, mutton tallow)",55.611,889.0,6.3,High LA
+"Cookie, vanilla with caramel, coconut, and chocolate coating",31.023,489.0,6.3,High LA
+"Cookies, chocolate sandwich, with creme filling, regular",29.277,464.0,6.3,High LA
+"Fast foods, submarine sandwich, bacon, lettuce, and tomato on white bread",12.951,205.0,6.3,High LA
+"Chicken, broilers or fryers, meat only, stewed",11.16,177.0,6.3,High LA
+"Chickpeas (garbanzo beans, bengal gram), mature seeds, raw",23.661,378.0,6.3,High LA
+"Lasagna, cheese, frozen, prepared",8.037,130.0,6.2,High LA
+"Candies, 5TH AVENUE Candy Bar",29.745,482.0,6.2,High LA
+"Infant formula, PBM PRODUCTS, store brand, soy, powder",31.32,508.0,6.2,High LA
+"Pork, fresh, loin, center rib (chops), boneless, separable lean and fat, cooked,",16.83,273.0,6.2,High LA
+"Bockwurst, pork, veal, raw",18.756,301.0,6.2,High LA
+"Infant formula, PBM PRODUCTS, store brand, powder",32.265,524.0,6.2,High LA
+"Infant formula, PBM PRODUCTS, store brand, liquid concentrate, not reconstituted",8.1,130.0,6.2,High LA
+"Luncheon meat, pork and chicken, minced, canned, includes SPAM Lite",12.15,196.0,6.2,High LA
+"Cookies, chocolate sandwich, with creme filling, reduced fat",27.126,436.0,6.2,High LA
+"Candies, NESTLE, BUTTERFINGER Bar",28.467,459.0,6.2,High LA
+"Coffeecake, cinnamon with crumb topping, dry mix",27.081,436.0,6.2,High LA
+"Sauce, hoisin, ready-to-serve",13.716,220.0,6.2,High LA
+"Danish pastry, cinnamon, enriched",24.948,403.0,6.2,High LA
+"Carrots, frozen, unprepared",2.223,36.0,6.2,High LA
+"Cabbage, kimchi",0.936,15.0,6.2,High LA
+"Crackers, cheese, whole grain",25.101,412.0,6.1,High LA
+"Pie, pumpkin, commercially prepared",14.85,243.0,6.1,High LA
+"Cereals, oats, instant, fortified, plain, dry",22.032,362.0,6.1,High LA
+"Tortillas, ready-to-bake or -fry, flour, refrigerated",18.558,306.0,6.1,High LA
+"Bread, oat bran, toasted",15.732,259.0,6.1,High LA
+"Snacks, KRAFT, CORNNUTS, plain",27.081,446.0,6.1,High LA
+"Bread, oat bran",14.31,236.0,6.1,High LA
+"Bread, rice bran, toasted",16.173,264.0,6.1,High LA
+"Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat, co",16.299,267.0,6.1,High LA
+"Bread, rice bran",14.886,243.0,6.1,High LA
+"Peppers, serrano, raw",1.944,32.0,6.1,High LA
+"Chicken, broiler, rotisserie, BBQ, drumstick meat and skin",12.591,206.0,6.1,High LA
+"Fish, catfish, channel, farmed, raw",7.2,119.0,6.1,High LA
+"Fish, catfish, channel, farmed, cooked, dry heat",8.721,144.0,6.1,High LA
+"Pork, fresh, shoulder, whole, separable lean and fat, raw",14.4,236.0,6.1,High LA
+"Dandelion greens, cooked, boiled, drained, without salt",2.016,33.0,6.1,High LA
+"Fast foods, griddle cake sandwich, egg, cheese, and sausage",17.82,291.0,6.1,High LA
+"Chickpeas (garbanzo beans, bengal gram), mature seeds, cooked, boiled, without s",10.017,164.0,6.1,High LA
+"Candies, MARS SNACKFOOD US, M&M's Peanut Chocolate Candies",30.924,515.0,6.0,High LA
+"Beerwurst, beer salami, pork and beef",16.533,277.0,6.0,High LA
+"Cookie, chocolate, with icing or coating",30.474,507.0,6.0,High LA
+"Duck, domesticated, meat only, cooked, roasted",12.069,201.0,6.0,High LA
+"Babyfood, dinner, vegetables and turkey, junior",3.195,53.0,6.0,High LA
+"Salami, cooked, beef and pork",20.304,336.0,6.0,High LA
+"Babyfood, dinner, vegetables and ham, junior",3.627,60.0,6.0,High LA
+"Cheese substitute, mozzarella",14.976,248.0,6.0,High LA
+"Soup, chicken with rice, canned, prepared with equal volume water",1.44,24.0,6.0,High LA
+"Fast foods, taco with beef, cheese and lettuce, soft",12.285,206.0,6.0,High LA
+"Olives, ripe, canned (jumbo-super colossal)",4.896,81.0,6.0,High LA
+"Snacks, shrimp cracker",25.218,426.0,5.9,High LA
+"Pie crust, standard-type, frozen, ready-to-bake, enriched, baked",29.889,508.0,5.9,High LA
+"Babyfood, dinner, sweet potatoes and chicken, strained",4.383,74.0,5.9,High LA
+"Babyfood, cookies",25.623,433.0,5.9,High LA
+"Doughnuts, yeast-leavened, with jelly filling",19.926,340.0,5.9,High LA
+"Pork, cured, ham, boneless, regular (approximately 11% fat), roasted",10.53,178.0,5.9,High LA
+"Formulated bar, LUNA BAR, NUTZ OVER CHOCOLATE",23.238,403.0,5.8,High LA
+"Chicken, broilers or fryers, drumstick, meat only, cooked, stewed",9.81,169.0,5.8,High LA
+"Mushrooms, white, cooked, boiled, drained, without salt",1.611,28.0,5.8,High LA
+"Chorizo, pork and beef",26.37,455.0,5.8,High LA
+"Cookies, chocolate, made with rice cereal",25.731,440.0,5.8,High LA
+"Pie crust, standard-type, frozen, ready-to-bake, enriched",26.613,457.0,5.8,High LA
+"Soup, chicken noodle, canned, condensed",2.799,48.0,5.8,High LA
+"Bread, white, commercially prepared, toasted",16.812,290.0,5.8,High LA
+"Turkey, light or dark meat, smoked, cooked, skin and bone removed",9.783,170.0,5.8,High LA
+"Danish pastry, cheese",21.69,374.0,5.8,High LA
+"Fast foods, english muffin, with egg, cheese, and canadian bacon",13.239,228.0,5.8,High LA
+"Formulated bar, MARS SNACKFOOD US, SNICKERS MARATHON Protein Performance Bar, Ca",24.039,415.0,5.8,High LA
+"Soup, chicken broth, canned, condensed",1.8,31.0,5.8,High LA
+"Beverages, rice milk, unsweetened",2.745,47.0,5.8,High LA
+"Chicken, broilers or fryers, wing, meat only, cooked, roasted",11.61,203.0,5.7,High LA
+"Infant Formula, MEAD JOHNSON, ENFAMIL, Premium, Infant, ready-to-feed",3.771,66.0,5.7,High LA
+"Sauce, peanut, made from coconut, water, sugar, peanuts",10.143,179.0,5.7,High LA
+"Beans, liquid from stewed kidney beans",2.691,47.0,5.7,High LA
+"Scrapple, pork",12.141,213.0,5.7,High LA
+"Chicken, broiler, rotisserie, BBQ, wing, meat only",10.503,184.0,5.7,High LA
+"Macaroni and cheese, box mix with cheese sauce, unprepared",18.918,334.0,5.7,High LA
+"Snacks, granola bar, GENERAL MILLS, NATURE VALLEY, with yogurt coating",23.949,423.0,5.7,High LA
+"Tortillas, ready-to-bake or -fry, corn",12.465,218.0,5.7,High LA
+"Fast Food, Pizza Chain, 14"" pizza, pepperoni topping, regular crust",16.182,282.0,5.7,High LA
+"Soup, chicken noodle, canned, prepared with equal volume water",1.368,24.0,5.7,High LA
+"Bread, multi-grain, toasted (includes whole-grain)",16.308,288.0,5.7,High LA
+"Chicken, broilers or fryers, dark meat, drumstick, meat only, cooked, roasted",8.82,155.0,5.7,High LA
+"Game meat, rabbit, domesticated, composite of cuts, cooked, stewed",11.7,206.0,5.7,High LA
+"Headcheese, pork",9.027,157.0,5.7,High LA
+"Waxgourd, (chinese preserving melon), cooked, boiled, drained, without salt",0.792,14.0,5.7,High LA
+"Bread, multi-grain (includes whole-grain)",15.003,265.0,5.7,High LA
+"Pork, fresh, spareribs, separable lean and fat, cooked, braised",22.59,397.0,5.7,High LA
+"Infant formula, ABBOTT NUTRITION, SIMILAC, GO AND GROW, ready-to-feed, with ARA",3.735,66.0,5.7,High LA
+"Fast foods, roast beef sandwich, plain",13.968,244.0,5.7,High LA
+"Pimento, canned",1.314,23.0,5.7,High LA
+"Babyfood, dinner, chicken noodle, strained",3.762,66.0,5.7,High LA
+"Chicken, broilers or fryers, wing, meat only, cooked, stewed",10.26,181.0,5.7,High LA
+"Pork, fresh, loin, center loin (chops), bone-in, separable lean and fat, raw",9.468,170.0,5.6,High LA
+"Infant Formula, MEAD JOHNSON, ENFAMIL, Premium, Newborn, powder",28.584,514.0,5.6,High LA
+"Fast foods, submarine sandwich, turkey breast on white bread with lettuce and to",8.271,147.0,5.6,High LA
+"Rolls, dinner, oat bran",13.239,236.0,5.6,High LA
+"Snacks, NUTRI-GRAIN FRUIT AND NUT BAR",22.68,403.0,5.6,High LA
+"Chicken, broilers or fryers, dark meat, thigh, meat only, raw",6.732,121.0,5.6,High LA
+"Soup, chicken noodle, dry, mix, prepared with water",1.278,23.0,5.6,High LA
+"Pizza, cheese topping, regular crust, frozen, cooked",15.12,268.0,5.6,High LA
+"Candies, MARS SNACKFOOD US, TWIX Peanut Butter Cookie Bars",30.159,536.0,5.6,High LA
+"Fast Food, Pizza Chain, 14"" pizza, meat and vegetable topping, regular crust",13.689,244.0,5.6,High LA
+"Chicken, broilers or fryers, leg, meat only, raw",6.777,120.0,5.6,High LA
+"Pork, fresh, composite of trimmed retail cuts (loin and shoulder blade), separab",9.837,177.0,5.6,High LA
+"Pork, fresh, shoulder, whole, separable lean and fat, cooked, roasted",16.38,292.0,5.6,High LA
+"Turkey, whole, giblets, cooked, simmered",9.756,173.0,5.6,High LA
+"Soup, chicken broth, canned, prepared with equal volume water",0.9,16.0,5.6,High LA
+"Soup, beef and vegetables, canned, ready-to-serve",2.7,48.0,5.6,High LA
+"Infant Formula, MEAD JOHNSON, ENFAMIL, Premium, Newborn, ready-to-feed",3.672,66.0,5.6,High LA
+"Cheese sauce, prepared from recipe",10.917,197.0,5.5,High LA
+"Beverages, Protein powder soy based",21.429,388.0,5.5,High LA
+"Pizza, meat and vegetable topping, rising crust, frozen, cooked",15.021,271.0,5.5,High LA
+"Waffles, gluten-free, frozen, ready-to-heat",14.346,263.0,5.5,High LA
+"Corn, sweet, yellow, cooked, boiled, drained, without salt",5.274,96.0,5.5,High LA
+"Tomatoes, red, ripe, canned, packed in tomato juice",0.873,16.0,5.5,High LA
+"Game meat, bear, cooked, simmered",14.148,259.0,5.5,High LA
+"Snacks, pork skins, plain",30.15,544.0,5.5,High LA
+"Tortilla chips, low fat, baked without fat",22.716,415.0,5.5,High LA
+"Fat, mutton tallow",49.5,902.0,5.5,High LA
+"Snacks, tortilla chips, low fat, unsalted",22.716,416.0,5.5,High LA
+"Crackers, water biscuits",21.177,384.0,5.5,High LA
+"Pigeonpeas, immature seeds, raw",7.515,136.0,5.5,High LA
+"Pork, cured, ham and water product, whole, boneless, separable lean and fat, hea",6.669,123.0,5.4,High LA
+"Pork, fresh, loin, center rib (chops), boneless, separable lean only, cooked, pa",12.06,224.0,5.4,High LA
+"Waffles, plain, frozen, ready -to-heat, toasted",16.866,312.0,5.4,High LA
+"Formulated bar, high fiber, chewy, oats and chocolate",18.801,350.0,5.4,High LA
+"Pasta, gluten-free, corn flour and quinoa flour, cooked, ANCIENT HARVEST",8.208,152.0,5.4,High LA
+"Bread, oatmeal, toasted",15.678,292.0,5.4,High LA
+"Bread, oatmeal",14.427,269.0,5.4,High LA
+"Luncheon meat, pork with ham, minced, canned, includes SPAM (Hormel)",17.019,315.0,5.4,High LA
+"Corn, sweet, white, cooked, boiled, drained, without salt",5.274,97.0,5.4,High LA
+"Egg, quail, whole, fresh, raw",8.46,158.0,5.4,High LA
+"Rolls, hamburger or hot dog, whole wheat",14.409,269.0,5.4,High LA
+"Candies, MARS SNACKFOOD US, SNICKERS Bar",26.694,491.0,5.4,High LA
+"Rolls, hamburger or hot dog, wheat/cracked wheat",14.481,269.0,5.4,High LA
+"Mustard, prepared, yellow",3.267,60.0,5.4,High LA
+"Snacks, granola bars, QUAKER OATMEAL TO GO, all flavors",20.961,389.0,5.4,High LA
+"Ham, chopped, not canned",9.729,180.0,5.4,High LA
+"Blackberry juice, canned",2.061,38.0,5.4,High LA
+"Pork, cured, ham and water product, whole, boneless, separable lean only, heated",6.669,123.0,5.4,High LA
+"Snacks, corn-based, extruded, onion-flavor",27.09,499.0,5.4,High LA
+"Soup, vegetable, canned, low sodium, condensed",3.42,65.0,5.3,High LA
+"Bologna, beef and pork, low fat",12.231,230.0,5.3,High LA
+"Pizza, cheese topping, thin crust, frozen, cooked",13.923,263.0,5.3,High LA
+"Tortillas, ready-to-bake or -fry, flour, shelf stable",15.876,297.0,5.3,High LA
+"Horseradish, prepared",2.565,48.0,5.3,High LA
+"Cookies, chocolate sandwich, with creme filling, regular, chocolate-coated",25.695,481.0,5.3,High LA
+"Infant Formula, GERBER GOOD START 2, GENTLE PLUS, ready-to-feed",3.483,66.0,5.3,High LA
+"Candies, NESTLE, OH HENRY! Bar",24.345,462.0,5.3,High LA
+"Danish pastry, fruit, enriched (includes apple, cinnamon, raisin, lemon, raspber",19.656,371.0,5.3,High LA
+"Babyfood, Multigrain whole grain cereal, dry fortified",21.276,405.0,5.3,High LA
+"Snacks, granola bar, with coconut, chocolate coated",27.9,531.0,5.3,High LA
+"Snacks, popcorn, air-popped",20.367,387.0,5.3,High LA
+"Cereals, oats, regular and quick, not fortified, dry",19.8,379.0,5.2,High LA
+"Pork, fresh, shoulder, blade, boston (roasts), separable lean and fat, cooked, r",13.95,269.0,5.2,High LA
+"Soup, vegetable soup, condensed, low sodium, prepared with equal volume water",1.71,33.0,5.2,High LA
+"Bread, whole-wheat, commercially prepared",13.014,252.0,5.2,High LA
+"Pork, cured, ham, shank, bone-in, separable lean and fat, heated, roasted",9.918,191.0,5.2,High LA
+"Candies, NESTLE, BABY RUTH Bar",23.706,459.0,5.2,High LA
+"Dandelion greens, raw",2.349,45.0,5.2,High LA
+"Cress, garden, cooked, boiled, drained, without salt",1.17,23.0,5.1,High LA
+"Snacks, CLIF BAR, mixed flavors",17.667,346.0,5.1,High LA
+"Cookies, oatmeal, reduced fat",18.774,365.0,5.1,High LA
+"Soup, stock, chicken, home-prepared",1.836,36.0,5.1,High LA
+"Doughnuts, cake-type, chocolate, sugared or glazed",21.087,417.0,5.1,High LA
+"Pork, fresh, loin, center rib (chops), bone-in, separable lean only, cooked, pan",10.8,211.0,5.1,High LA
+"Soup, vegetable chicken, canned, prepared with water, low sodium",3.492,69.0,5.1,High LA
+"Pork, fresh, loin, top loin (chops), boneless, separable lean and fat, cooked, p",9.981,196.0,5.1,High LA
+"Babyfood, dinner, vegetables chicken, strained",3.006,59.0,5.1,High LA
+"Chicken, broilers or fryers, dark meat, drumstick, meat only, raw",5.958,116.0,5.1,High LA
+"Rolls, hamburger or hotdog, plain",14.364,279.0,5.1,High LA
+"Cake, white, prepared from recipe with coconut frosting",18.234,356.0,5.1,High LA
+"Restaurant, Chinese, fried rice, without meat",8.901,174.0,5.1,High LA
+"Soup, chicken gumbo, canned, prepared with equal volume water",1.17,23.0,5.1,High LA
+"Peppers, hot chili, red, raw",2.052,40.0,5.1,High LA
+"Cream substitute, liquid, light",3.591,71.0,5.1,High LA
+"Ice cream bar, stick or nugget, with crunch coating",18.108,358.0,5.1,High LA
+"Ice cream bar, covered with chocolate and nuts",15.489,303.0,5.1,High LA
+"Candies, milk chocolate, with almonds",26.433,526.0,5.0,High LA
+"Rolls, hard (includes kaiser)",14.589,293.0,5.0,High LA
+"Cookies, sugar, refrigerated dough, baked",24.579,489.0,5.0,High LA
+"Pork, fresh, variety meats and by-products, feet, cooked, simmered",11.871,238.0,5.0,High LA
+"Pork, fresh, leg (ham), whole, separable lean and fat, cooked, roasted",13.68,273.0,5.0,High LA
+"Pork, cured, ham with natural juices, spiral slice, boneless, separable lean and",6.462,129.0,5.0,High LA
+"Candies, TOBLERONE, milk chocolate with honey and almond nougat",26.145,525.0,5.0,High LA
+"Pork, fresh, ground, cooked",14.76,297.0,5.0,High LA
+"Corn, sweet, white, canned, whole kernel, drained solids",3.573,71.0,5.0,High LA
+"Turkey, whole, meat only, cooked, roasted",7.893,159.0,5.0,High LA
+"Lamb, domestic, composite of trimmed retail cuts, separable fat, trimmed to 1/4""",29.34,586.0,5.0,High LA
+"Fast Food, Pizza Chain, 14"" pizza, cheese topping, regular crust",13.167,266.0,5.0,High LA
+"Pork, fresh, loin, whole, separable lean and fat, raw",9.99,198.0,5.0,High LA
+"Pork, fresh, composite of trimmed retail cuts (leg, loin, shoulder, and sparerib",11.925,238.0,5.0,High LA
+"Crackers, wheat, low salt",23.877,473.0,5.0,High LA
+"Corn, sweet, yellow, raw",4.248,86.0,4.9,High LA
+"Cake, pudding-type, chocolate, dry mix",19.035,391.0,4.9,High LA
+"Veal, leg (top round), separable lean only, cooked, pan-fried, breaded",10.53,216.0,4.9,High LA
+"Pork, cured, ham, boneless, extra lean and regular, roasted",8.1,165.0,4.9,High LA
+"Beverages, coffee, brewed, prepared with tap water, decaffeinated",0.018,0.0,,Low LA
+"Beverages, POWERADE, Zero, Mixed Berry",0.0,0.0,,Low LA
+"Salt, table",0.0,0.0,,Low LA
+"Sweetener, herbal extract powder from Stevia leaf",0.0,0.0,,Low LA
+"Beverages, carbonated, club soda",0.0,0.0,,Low LA
+"Beverages, tea, hibiscus, brewed",0.0,0.0,,Low LA
+"Beverages, water, tap, municipal",0.0,0.0,,Low LA
+"Leavening agents, baking soda",0.0,0.0,,Low LA
+"Beverages, tea, green, brewed, decaffeinated",0.0,0.0,,Low LA
+"Beverages, The COCA-COLA company, Glaceau Vitamin Water, Revive Fruit Punch, for",0.0,0.0,,Low LA
+"Water, bottled, generic",0.0,0.0,,Low LA
+"Beverages, carbonated, reduced sugar, cola, contains caffeine and sweeteners",0.0,20.0,0.0,Low LA
+"Babyfood, grape juice, no sugar, canned",0.0,62.0,0.0,Low LA
+"Beverages, tea, instant, unsweetened, prepared with water",0.0,1.0,0.0,Low LA
+"Yogurt, chocolate, nonfat milk, fortified with vitamin D",0.0,112.0,0.0,Low LA
+Jams and preserves,0.0,278.0,0.0,Low LA
+"Alcoholic beverage, distilled, rum, 80 proof",0.0,231.0,0.0,Low LA
+"Seaweed, irishmoss, raw",0.018,49.0,0.0,Low LA
+"Sugars, granulated",0.0,387.0,0.0,Low LA
+"Sweeteners, tabletop, saccharin (sodium saccharin)",0.0,360.0,0.0,Low LA
+"Gelatins, dry powder, unsweetened",0.0,335.0,0.0,Low LA
+"Pie fillings, apple, canned",0.0,100.0,0.0,Low LA
+"Mollusks, squid, mixed species, raw",0.018,92.0,0.0,Low LA
+"Beverages, carbonated, lemon-lime soda, no caffeine",0.0,41.0,0.0,Low LA
+"Babyfood, GERBER, Banana with orange medley",0.0,86.0,0.0,Low LA
+"Yogurt, chocolate, nonfat milk",0.0,112.0,0.0,Low LA
+"Alcoholic beverage, distilled, gin, 90 proof",0.0,263.0,0.0,Low LA
+"Seaweed, agar, raw",0.0,26.0,0.0,Low LA
+"Sugars, brown",0.0,380.0,0.0,Low LA
+"Sweeteners, tabletop, fructose, liquid",0.0,279.0,0.0,Low LA
+"Syrups, table blends, pancake",0.0,234.0,0.0,Low LA
+"Gelatin desserts, dry mix, prepared with water",0.0,62.0,0.0,Low LA
+Candied fruit,0.117,322.0,0.0,Low LA
+"Babyfood, fruit, bananas and pineapple with tapioca, strained",0.0,65.0,0.0,Low LA
+"Beverages, carbonated, ginger ale",0.0,34.0,0.0,Low LA
+"Babyfood, GERBER, 3rd Foods, apple, mango and kiwi",0.0,53.0,0.0,Low LA
+"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 90 proof",0.0,263.0,0.0,Low LA
+"Seaweed, agar, dried",0.036,306.0,0.0,Low LA
+"Sweeteners, tabletop, fructose, dry, powder",0.0,368.0,0.0,Low LA
+"Gelatin desserts, dry mix",0.0,381.0,0.0,Low LA
+"Beverages, carbonated, cola, without caffeine",0.0,41.0,0.0,Low LA
+"Babyfood, GERBER, 2nd Foods, apple, carrot and squash, organic",0.0,64.0,0.0,Low LA
+"Carbonated beverage, cream soda",0.0,51.0,0.0,Low LA
+"Beverages, OVALTINE, Classic Malt powder",0.0,372.0,0.0,Low LA
+"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 86 proof",0.0,250.0,0.0,Low LA
+"Fluid replacement, electrolyte solution (include PEDIALYTE)",0.0,10.0,0.0,Low LA
+"Pectin, liquid",0.0,11.0,0.0,Low LA
+"Sweeteners, tabletop, aspartame, EQUAL, packets",0.0,365.0,0.0,Low LA
+"Syrups, sugar free",0.0,52.0,0.0,Low LA
+"Candies, fruit snacks, with high vitamin C",0.0,352.0,0.0,Low LA
+Chocolate-flavored hazelnut spread,0.0,541.0,0.0,Low LA
+"Beverages, carbonated, cola, regular",0.0,42.0,0.0,Low LA
+"Carbonated beverage, chocolate-flavored soda",0.0,42.0,0.0,Low LA
+"Beverages, OVALTINE, chocolate malt powder",0.0,372.0,0.0,Low LA
+"Beverages, tea, instant, lemon, diet",0.0,2.0,0.0,Low LA
+"Cheese, cheddar, nonfat or fat free",0.0,157.0,0.0,Low LA
+Yeast extract spread,0.0,185.0,0.0,Low LA
+"Alcoholic beverage, distilled, all (gin, rum, vodka, whiskey) 80 proof",0.0,231.0,0.0,Low LA
+"Alcoholic beverages, wine, rose",0.0,83.0,0.0,Low LA
+"Cheese, Swiss, nonfat or fat free",0.0,127.0,0.0,Low LA
+"Strawberry-flavor beverage mix, powder",0.0,389.0,0.0,Low LA
+"Sweetener, syrup, agave",0.0,310.0,0.0,Low LA
+"Syrups, sorghum",0.0,290.0,0.0,Low LA
+"CAMPBELL'S, HEALTHY REQUEST, chicken with rice, condensed",0.0,46.0,0.0,Low LA
+"Candies, fondant, prepared-from-recipe",0.0,373.0,0.0,Low LA
+"Babyfood, fruit, apricot with tapioca, strained",0.0,60.0,0.0,Low LA
+"Beverages, carbonated, cola, fast-food cola",0.0,37.0,0.0,Low LA
+"Beverages, Orange juice, light, No pulp",0.0,21.0,0.0,Low LA
+"Beverages, tea, instant, decaffeinated, unsweetened",0.0,315.0,0.0,Low LA
+"Vinegar, distilled",0.0,18.0,0.0,Low LA
+"Alcoholic beverages, beer, higher alcohol",0.0,58.0,0.0,Low LA
+Fruit syrup,0.0,341.0,0.0,Low LA
+Honey,0.0,304.0,0.0,Low LA
+"Babyfood, fruit, apricot with tapioca, junior",0.0,63.0,0.0,Low LA
+"Beverages, tea, instant, decaffeinated, lemon, diet",0.0,338.0,0.0,Low LA
+"Vinegar, cider",0.0,21.0,0.0,Low LA
+"Beverages, Wine, non-alcoholic",0.0,6.0,0.0,Low LA
+"Alcoholic beverage, beer, regular, all",0.0,43.0,0.0,Low LA
+"Alcoholic beverage, wine, table, white",0.0,82.0,0.0,Low LA
+"Syrups, grenadine",0.0,268.0,0.0,Low LA
+"Tapioca, pearl, dry",0.018,358.0,0.0,Low LA
+"Puddings, vanilla, dry mix, instant",0.081,377.0,0.0,Low LA
+"Marmalade, orange",0.0,246.0,0.0,Low LA
+"Beef, variety meats and by-products, liver, cooked, pan-fried",0.0,175.0,0.0,Low LA
+"Beverages, AMBER, hard cider",0.0,56.0,0.0,Low LA
+"Babyfood, fruit, plums with tapioca, without ascorbic acid, strained",0.0,71.0,0.0,Low LA
+"Candies, nougat, with almonds",0.0,398.0,0.0,Low LA
+"Beverages, MINUTE MAID, Lemonada, Limeade",0.0,50.0,0.0,Low LA
+"Chayote, fruit, cooked, boiled, drained, without salt",0.0,24.0,0.0,Low LA
+"Alcoholic beverage, beer, light, low carb",0.0,27.0,0.0,Low LA
+"Sauce, worcestershire",0.0,78.0,0.0,Low LA
+"Alcoholic beverage, wine, table, red",0.0,85.0,0.0,Low LA
+"Frozen novelties, juice type, orange",0.0,95.0,0.0,Low LA
+"Syrups, corn, light",0.0,283.0,0.0,Low LA
+"Egg, white, raw, fresh",0.0,52.0,0.0,Low LA
+"Puddings, coconut cream, dry mix, regular",0.0,434.0,0.0,Low LA
+"Babyfood, dinner, mixed vegetable, junior",0.0,34.0,0.0,Low LA
+"Beef, variety meats and by-products, liver, cooked, braised",0.0,191.0,0.0,Low LA
+"Babyfood, fruit, applesauce, junior",0.0,37.0,0.0,Low LA
+"Babyfood, fruit, plums with tapioca, without ascorbic acid, junior",0.0,74.0,0.0,Low LA
+"Beverages, coconut milk, sweetened, fortified with calcium, vitamins A, B12, D2",0.0,31.0,0.0,Low LA
+"Babyfood, juice, apple and plum",0.0,49.0,0.0,Low LA
+"Beverages, Malt liquor beverage",0.0,40.0,0.0,Low LA
+"Beverages, tea, herb, other than chamomile, brewed",0.0,1.0,0.0,Low LA
+"Salad dressing, caesar, fat-free",0.063,131.0,0.0,Low LA
+"Beverages, Whey protein powder isolate",0.162,359.0,0.0,Low LA
+"Alcoholic beverage, beer, light, higher alcohol",0.0,46.0,0.0,Low LA
+"Jerusalem-artichokes, raw",0.009,73.0,0.0,Low LA
+"Alcoholic beverage, wine, table, all",0.0,83.0,0.0,Low LA
+"Frankfurter, beef, pork, and turkey, fat free",0.0,109.0,0.0,Low LA
+"Frozen novelties, juice type, juice with cream",0.0,115.0,0.0,Low LA
+"Leavening agents, yeast, baker's, compressed",0.036,105.0,0.0,Low LA
+"Syrups, corn, high-fructose",0.0,281.0,0.0,Low LA
+"Egg, white, dried, powder, stabilized, glucose reduced",0.0,376.0,0.0,Low LA
+"Puddings, coconut cream, dry mix, instant",0.0,415.0,0.0,Low LA
+"Plums, canned, purple, water pack, solids and liquids",0.018,41.0,0.0,Low LA
+"Candies, jellybeans",0.0,375.0,0.0,Low LA
+"Noodles, chinese, cellophane or long rice (mung beans), dehydrated",0.153,351.0,0.0,Low LA
+"Alcoholic beverage, beer, light",0.0,29.0,0.0,Low LA
+"Jellies, reduced sugar, home preserved",0.054,179.0,0.0,Low LA
+"Sauce, teriyaki, ready-to-serve, reduced sodium",0.0,89.0,0.0,Low LA
+"Alcoholic beverage, wine, light",0.0,49.0,0.0,Low LA
+"Leavening agents, yeast, baker's, active dry",0.153,325.0,0.0,Low LA
+"Syrups, corn, dark",0.0,286.0,0.0,Low LA
+"Babyfood, dessert, peach yogurt",0.036,76.0,0.0,Low LA
+"Candies, MARS SNACKFOOD US, STARBURST Fruit Chews, Original fruits",0.0,408.0,0.0,Low LA
+"Beverages, Cocktail mix, non-alcoholic, concentrated, frozen",0.054,287.0,0.0,Low LA
+"Candies, Tamarind",0.0,368.0,0.0,Low LA
+"Vanilla extract, imitation, no alcohol",0.0,56.0,0.0,Low LA
+"Beverages, tea, green, instant, decaffeinated, lemon, unsweetened, fortified wit",0.0,378.0,0.0,Low LA
+"Cheese, American, nonfat or fat free",0.0,126.0,0.0,Low LA
+"Cheese, cottage, nonfat, uncreamed, dry, large or small curd",0.027,72.0,0.0,Low LA
+"Jellies, no sugar (with sodium saccharin), any flavors",0.0,121.0,0.0,Low LA
+"Sauce, teriyaki, ready-to-serve",0.0,89.0,0.0,Low LA
+"Alcoholic beverage, wine, dessert, sweet",0.0,160.0,0.0,Low LA
+"Spinach, frozen, chopped or leaf, unprepared",0.0,29.0,0.0,Low LA
+"Frozen novelties, ice type, lime",0.0,128.0,0.0,Low LA
+"Leavening agents, cream of tartar",0.0,258.0,0.0,Low LA
+"Babyfood, dessert, peach cobbler, strained",0.0,65.0,0.0,Low LA
+"Babyfood, fruit, applesauce and cherries, strained",0.0,51.0,0.0,Low LA
+"Mollusks, clam, mixed species, canned, liquid",0.0,2.0,0.0,Low LA
+"Beverages, tea, green, brewed, regular",0.0,1.0,0.0,Low LA
+Jellies,0.027,266.0,0.0,Low LA
+"Yogurt, vanilla, non-fat",0.0,78.0,0.0,Low LA
+"Alcoholic beverage, wine, cooking",0.0,50.0,0.0,Low LA
+"Spinach, frozen, chopped or leaf, cooked, boiled, drained, without salt",0.0,34.0,0.0,Low LA
+"Syrups, chocolate, HERSHEY'S Genuine Chocolate Flavored Lite Syrup",0.0,153.0,0.0,Low LA
+"Babyfood, dessert, peach cobbler, junior",0.0,67.0,0.0,Low LA
+"Babyfood, fruit, applesauce and cherries, junior",0.0,51.0,0.0,Low LA
+"Candies, MARS SNACKFOOD US, SKITTLES Original Bite Size Candies",0.0,405.0,0.0,Low LA
+"Ice creams, vanilla, fat free",0.0,138.0,0.0,Low LA
+"Beverages, The COCA-COLA company, Minute Maid, Lemonade",0.0,46.0,0.0,Low LA
+"Salad dressing, KRAFT Mayo Fat Free Mayonnaise Dressing",0.0,64.0,0.0,Low LA
+"Sour cream, fat free",0.0,74.0,0.0,Low LA
+"Sauce, fish, ready-to-serve",0.0,35.0,0.0,Low LA
+"Jams, preserves, marmalades, sweetened with fruit juice",0.0,212.0,0.0,Low LA
+"Sauce, sweet and sour, ready-to-serve",0.0,150.0,0.0,Low LA
+"Alcoholic beverage, rice (sake)",0.0,134.0,0.0,Low LA
+"Soup, chicken broth, less/reduced sodium, ready to serve",0.0,7.0,0.0,Low LA
+"Beverages, carbonated, tonic water",0.0,34.0,0.0,Low LA
+"Beverages, coffee, instant, vanilla, sweetened, decaffeinated, with non dairy cr",0.0,465.0,0.0,Low LA
+"Beverages, The COCA-COLA company, Hi-C Flashin' Fruit Punch",0.0,45.0,0.0,Low LA
+"Babyfood, tropical fruit medley",0.0,51.0,0.0,Low LA
+"Sauce, steak, tomato based",0.0,95.0,0.0,Low LA
+"Alcoholic beverage, malt beer, hard lemonade",0.0,68.0,0.0,Low LA
+"Bread, wheat, sprouted, toasted",0.0,205.0,0.0,Low LA
+"Leavening agents, baking powder, double-acting, straight phosphate",0.0,51.0,0.0,Low LA
+"Syrup, NESTLE, chocolate",0.0,269.0,0.0,Low LA
+"Egg substitute, liquid or frozen, fat free",0.0,48.0,0.0,Low LA
+"Babyfood, dessert, fruit dessert, without ascorbic acid, strained",0.0,59.0,0.0,Low LA
+"Toppings, butterscotch or caramel",0.0,216.0,0.0,Low LA
+"Candies, hard",0.0,394.0,0.0,Low LA
+"Beverages, carbonated, SPRITE, lemon-lime, without caffeine",0.0,40.0,0.0,Low LA
+"Babyfood, juice treats, fruit medley, toddler",0.0,347.0,0.0,Low LA
+"Whey, acid, dried",0.162,339.0,0.0,Low LA
+"Sauce, salsa, verde, ready-to-serve",0.0,38.0,0.0,Low LA
+"Cheese, mozzarella, nonfat",0.0,141.0,0.0,Low LA
+"Bread, potato",0.0,266.0,0.0,Low LA
+"Bread, wheat, sprouted",0.0,188.0,0.0,Low LA
+"Leavening agents, baking powder, double-acting, sodium aluminum sulfate",0.0,53.0,0.0,Low LA
+"Sugars, powdered",0.0,389.0,0.0,Low LA
+"Syrup, fruit flavored",0.0,261.0,0.0,Low LA
+"Babyfood, dessert, fruit dessert, without ascorbic acid, junior",0.0,63.0,0.0,Low LA
+"Candies, gumdrops, starch jelly pieces",0.0,396.0,0.0,Low LA
+"Beverages, carbonated, root beer",0.0,41.0,0.0,Low LA
+"Babyfood, juice, pear",0.0,47.0,0.0,Low LA
+"Beverages, tea, Oolong, brewed",0.0,1.0,0.0,Low LA
+"Salad dressing, sweet and sour",0.0,15.0,0.0,Low LA
+"Bagels, whole grain white",0.0,255.0,0.0,Low LA
+"Sauce, cocktail, ready-to-serve",0.0,124.0,0.0,Low LA
+"Jams and preserves, apricot",0.0,242.0,0.0,Low LA
+"Sweeteners, tabletop, sucralose, SPLENDA packets",0.0,336.0,0.0,Low LA
+"Syrups, table blends, pancake, with butter",0.0,291.0,0.0,Low LA
+"Pie fillings, blueberry, canned",0.0,181.0,0.0,Low LA
+"English muffins, whole grain white",0.0,245.0,0.0,Low LA
+"Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, jui",0.036,46.0,0.1,Low LA
+"Beverages, tea, instant, unsweetened, powder",0.36,315.0,0.1,Low LA
+"Yogurt, Greek, vanilla, nonfat",0.081,78.0,0.1,Low LA
+"Cherries, sour, red, canned, heavy syrup pack, solids and liquids",0.135,91.0,0.1,Low LA
+"Cheese, pasteurized process, cheddar or American, fat-free",0.144,148.0,0.1,Low LA
+"Syrups, table blends, cane and 15% maple",0.414,278.0,0.1,Low LA
+"Pumpkin flowers, cooked, boiled, drained, without salt",0.018,15.0,0.1,Low LA
+"Guava nectar, with sucralose, canned",0.027,48.0,0.1,Low LA
+"Mollusks, scallop, mixed species, raw",0.072,69.0,0.1,Low LA
+"Papaya nectar, canned",0.063,57.0,0.1,Low LA
+"Yogurt, Greek, strawberry, nonfat",0.09,82.0,0.1,Low LA
+"Cranberry sauce, canned, sweetened",0.171,159.0,0.1,Low LA
+"Pears, canned, light syrup pack, solids and liquids",0.063,57.0,0.1,Low LA
+"Babyfood, fruit dessert, mango with tapioca",0.072,70.0,0.1,Low LA
+"Mollusks, scallop, (bay and sea), cooked, steamed",0.126,111.0,0.1,Low LA
+"Nuts, coconut water (liquid from coconuts)",0.018,19.0,0.1,Low LA
+"Fish, cod, Atlantic, raw",0.045,82.0,0.1,Low LA
+"Fish, cod, Atlantic, dried and salted",0.162,290.0,0.1,Low LA
+"Alcoholic beverage, creme de menthe, 72 proof",0.522,371.0,0.1,Low LA
+"Apricots, canned, light syrup pack, with skin, solids and liquids",0.09,63.0,0.1,Low LA
+"Crustaceans, shrimp, mixed species, canned",0.135,100.0,0.1,Low LA
+"Syrups, maple",0.153,260.0,0.1,Low LA
+"Raisins, seedless",0.252,299.0,0.1,Low LA
+"Milk, fluid, nonfat, calcium fortified (fat free or skim)",0.045,35.0,0.1,Low LA
+"Candies, marshmallows",0.405,318.0,0.1,Low LA
+"Fish, cod, Atlantic, cooked, dry heat",0.054,105.0,0.1,Low LA
+"Apricots, canned, juice pack, with skin, solids and liquids",0.063,48.0,0.1,Low LA
+"Mollusks, octopus, common, raw",0.081,82.0,0.1,Low LA
+"Vermicelli, made from soy",0.342,331.0,0.1,Low LA
+"Beverages, Whiskey sour mix, bottled",0.117,87.0,0.1,Low LA
+"Fish, cod, Atlantic, canned, solids and liquid",0.054,105.0,0.1,Low LA
+"Sweet potato, raw, unprepared",0.117,86.0,0.1,Low LA
+"Mollusks, octopus, common, cooked, moist heat",0.162,164.0,0.1,Low LA
+"Dates, deglet noor",0.144,282.0,0.1,Low LA
+"Fish, tuna, light, canned in water, drained solids",0.126,86.0,0.1,Low LA
+"Lotus root, cooked, boiled, drained, without salt",0.09,66.0,0.1,Low LA
+"Tangerines, (mandarin oranges), canned, juice pack, drained",0.045,38.0,0.1,Low LA
+"Toppings, strawberry",0.261,254.0,0.1,Low LA
+"Butter replacement, without fat, powder",0.351,373.0,0.1,Low LA
+"Tangerines, (mandarin oranges), canned, juice pack",0.036,37.0,0.1,Low LA
+"Plums, canned, purple, juice pack, solids and liquids",0.045,58.0,0.1,Low LA
+"Beverage, milkshake mix, dry, not chocolate",0.459,329.0,0.1,Low LA
+"Beverages, chocolate syrup",0.216,279.0,0.1,Low LA
+Cornstarch,0.225,381.0,0.1,Low LA
+"Fish, haddock, smoked",0.108,116.0,0.1,Low LA
+"Rice, white, long-grain, precooked or instant, enriched, prepared",0.153,124.0,0.1,Low LA
+"Fish, pollock, Alaska, cooked, dry heat (may have been previously frozen)",0.099,111.0,0.1,Low LA
+"Crustaceans, crab, alaska king, imitation, made from surimi",0.108,95.0,0.1,Low LA
+"Prune juice, canned",0.063,71.0,0.1,Low LA
+"Toppings, marshmallow cream",0.405,322.0,0.1,Low LA
+"Mollusks, abalone, mixed species, raw",0.063,105.0,0.1,Low LA
+"Whey, sweet, dried",0.225,353.0,0.1,Low LA
+"Yogurt, fruit variety, nonfat, fortified with vitamin D",0.09,95.0,0.1,Low LA
+"Cream substitute, liquid, with hydrogenated vegetable oil and soy protein",0.198,136.0,0.1,Low LA
+"Cherries, sweet, canned, juice pack, solids and liquids",0.027,54.0,0.1,Low LA
+"Potatoes, baked, skin, without salt",0.288,198.0,0.1,Low LA
+"Mango nectar, canned",0.027,51.0,0.1,Low LA
+"Fish, perch, mixed species, raw",0.099,91.0,0.1,Low LA
+"Sauce, duck, ready-to-serve",0.207,245.0,0.1,Low LA
+"Yogurt, fruit variety, nonfat",0.09,95.0,0.1,Low LA
+"Seaweed, laver, raw",0.036,35.0,0.1,Low LA
+"Pumpkin, raw",0.018,26.0,0.1,Low LA
+"Vegetable juice, BOLTHOUSE FARMS, DAILY GREENS",0.045,31.0,0.1,Low LA
+"Yogurt, plain, skim milk, 13 grams protein per 8 ounce",0.036,56.0,0.1,Low LA
+"Babyfood, dessert, dutch apple, strained",0.063,75.0,0.1,Low LA
+"Pumpkin, cooked, boiled, drained, without salt",0.018,20.0,0.1,Low LA
+"Syrups, table blends, pancake, with 2% maple",0.45,265.0,0.2,Low LA
+"Pumpkin, canned, without salt",0.063,34.0,0.2,Low LA
+"Rhubarb, frozen, cooked, with sugar",0.225,116.0,0.2,Low LA
+"Beverages, coffee, instant, decaffeinated, powder",0.837,351.0,0.2,Low LA
+"Spices, cinnamon, ground",0.396,247.0,0.2,Low LA
+"Babyfood, banana juice with low fat yogurt",0.135,89.0,0.2,Low LA
+"Lemonade, frozen concentrate, white",0.378,196.0,0.2,Low LA
+"Pumpkin leaves, cooked, boiled, drained, without salt",0.045,21.0,0.2,Low LA
+"Mollusks, snail, raw",0.153,90.0,0.2,Low LA
+"Beverages, tea, instant, lemon, unsweetened",0.711,345.0,0.2,Low LA
+"Fish, cod, Pacific, raw (may have been previously frozen)",0.153,69.0,0.2,Low LA
+"Papayas, raw",0.099,43.0,0.2,Low LA
+"Pears, canned, water pack, solids and liquids",0.063,29.0,0.2,Low LA
+"Cucumber, peeled, raw",0.018,12.0,0.2,Low LA
+"Taro, cooked, without salt",0.288,142.0,0.2,Low LA
+"Babyfood, fruit, bananas and pineapple with tapioca, junior",0.108,68.0,0.2,Low LA
+"Rice noodles, cooked",0.171,108.0,0.2,Low LA
+"Fish, cod, Pacific, cooked, dry heat (may have been previously frozen)",0.189,85.0,0.2,Low LA
+"Fish, whiting, mixed species, raw",0.18,90.0,0.2,Low LA
+"Potatoes, mashed, dehydrated, flakes without milk, dry form",0.837,354.0,0.2,Low LA
+"Mungo beans, mature seeds, cooked, boiled, without salt",0.216,105.0,0.2,Low LA
+"Fish, snapper, mixed species, raw",0.171,100.0,0.2,Low LA
+"Fish, whiting, mixed species, cooked, dry heat",0.18,116.0,0.2,Low LA
+"Frozen yogurts, chocolate, nonfat milk, sweetened without sugar",0.189,107.0,0.2,Low LA
+"Babyfood, dessert, blueberry yogurt, strained",0.117,77.0,0.2,Low LA
+"Yogurt, Greek, plain, nonfat",0.09,59.0,0.2,Low LA
+"Babyfood, dessert, banana yogurt, strained",0.189,78.0,0.2,Low LA
+"Fish, roe, mixed species, raw",0.261,143.0,0.2,Low LA
+"Apricots, canned, heavy syrup, drained",0.189,83.0,0.2,Low LA
+"Babyfood, apple-cranberry juice",0.09,46.0,0.2,Low LA
+"Plums, dried (prunes), uncooked",0.396,240.0,0.2,Low LA
+"Fish, sea bass, mixed species, raw",0.216,97.0,0.2,Low LA
+"Apricots, canned, heavy syrup pack, with skin, solids and liquids",0.135,83.0,0.2,Low LA
+"Cherries, sweet, frozen, sweetened",0.18,89.0,0.2,Low LA
+"Tangerines, (mandarin oranges), canned, light syrup pack",0.135,61.0,0.2,Low LA
+"Pineapple, frozen, chunks, sweetened",0.18,86.0,0.2,Low LA
+"Mollusks, mussel, blue, raw",0.162,86.0,0.2,Low LA
+"Beverages, Cocoa mix, powder",0.963,398.0,0.2,Low LA
+"Yogurt, fruit, low fat, 9 grams protein per 8 ounce, fortified with vitamin D",0.207,99.0,0.2,Low LA
+"Frozen novelties, ice type, pop",0.135,79.0,0.2,Low LA
+"Drumstick leaves, cooked, boiled, drained, without salt",0.135,60.0,0.2,Low LA
+"Candies, coconut bar, not chocolate covered",0.756,481.0,0.2,Low LA
+"Cassava, raw",0.288,160.0,0.2,Low LA
+"Yogurt, fruit, low fat, 9 grams protein per 8 ounce",0.207,99.0,0.2,Low LA
+"Crustaceans, crab, blue, cooked, moist heat",0.18,83.0,0.2,Low LA
+"Maraschino cherries, canned, drained",0.252,165.0,0.2,Low LA
+"Puddings, chocolate, dry mix, regular",0.711,362.0,0.2,Low LA
+"Toppings, pineapple",0.45,253.0,0.2,Low LA
+"Sour cream, imitation, cultured",0.504,208.0,0.2,Low LA
+"Yogurt, fruit, low fat, 10 grams protein per 8 ounce, fortified with vitamin D",0.198,102.0,0.2,Low LA
+"Fish, tuna, fresh, yellowfin, raw",0.171,109.0,0.2,Low LA
+"Crustaceans, crab, blue, canned",0.18,83.0,0.2,Low LA
+"Cherries, sweet, canned, pitted, heavy syrup pack, solids and liquids",0.207,83.0,0.2,Low LA
+"Plums, canned, purple, heavy syrup pack, solids and liquids",0.198,89.0,0.2,Low LA
+"Beef, variety meats and by-products, brain, cooked, simmered",0.351,151.0,0.2,Low LA
+"Fish, haddock, raw",0.135,74.0,0.2,Low LA
+"Yogurt, fruit, low fat, 10 grams protein per 8 ounce",0.198,102.0,0.2,Low LA
+"Seaweed, wakame, raw",0.09,45.0,0.2,Low LA
+"Fruit juice smoothie, BOLTHOUSE FARMS, GREEN GOODNESS",0.135,56.0,0.2,Low LA
+"Babyfood, cherry cobbler, junior",0.126,78.0,0.2,Low LA
+"Mango, dried, sweetened",0.549,319.0,0.2,Low LA
+"Milk dessert, frozen, milk-fat free, chocolate",0.252,167.0,0.2,Low LA
+"Cheese, cottage, lowfat, 1% milkfat, lactose reduced",0.18,74.0,0.2,Low LA
+"Jams, preserves, marmalade, reduced sugar",0.261,151.0,0.2,Low LA
+"Frozen novelties, fruit and juice bars",0.198,87.0,0.2,Low LA
+"Tamarinds, raw",0.531,239.0,0.2,Low LA
+"Babyfood, mixed fruit yogurt, strained",0.135,75.0,0.2,Low LA
+"Frog legs, raw",0.18,73.0,0.2,Low LA
+"Plantains, cooked",0.189,116.0,0.2,Low LA
+Molasses,0.45,290.0,0.2,Low LA
+"Babyfood, fruit, bananas with tapioca, strained",0.108,56.0,0.2,Low LA
+"Candies, MOUNDS Candy Bar",1.062,486.0,0.2,Low LA
+"Babyfood, mixed fruit juice with low fat yogurt",0.135,76.0,0.2,Low LA
+"Babyfood, fruit, bananas with tapioca, junior",0.216,67.0,0.3,Low LA
+"Babyfood, snack, GERBER GRADUATE YOGURT MELTS",1.251,429.0,0.3,Low LA
+"Orange juice, frozen concentrate, unsweetened, undiluted",0.414,148.0,0.3,Low LA
+"Babyfood, banana no tapioca, strained",0.252,91.0,0.3,Low LA
+"Grapes, canned, thompson seedless, heavy syrup pack, solids and liquids",0.207,76.0,0.3,Low LA
+"Orange juice, frozen concentrate, unsweetened, diluted with 3 volume water",0.108,37.0,0.3,Low LA
+"Parmesan cheese topping, fat free",1.017,370.0,0.3,Low LA
+"Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, hea",0.243,73.0,0.3,Low LA
+"Fish, sturgeon, mixed species, smoked",0.558,173.0,0.3,Low LA
+"Fruit butters, apple",0.594,173.0,0.3,Low LA
+"Beverages, tea, instant, lemon, sweetened, powder",1.332,401.0,0.3,Low LA
+"Soup, stock, beef, home-prepared",0.036,13.0,0.3,Low LA
+"Apricots, dried, sulfured, uncooked",0.666,241.0,0.3,Low LA
+Potato flour,1.008,357.0,0.3,Low LA
+"Grapefruit, sections, canned, light syrup pack, solids and liquids",0.171,60.0,0.3,Low LA
+"Salad dressing, french dressing, fat-free",0.378,132.0,0.3,Low LA
+Papad,1.017,371.0,0.3,Low LA
+"Pears, canned, juice pack, solids and liquids",0.135,50.0,0.3,Low LA
+"Babyfood, dessert, cherry vanilla pudding, junior",0.225,69.0,0.3,Low LA
+Chewing gum,1.197,360.0,0.3,Low LA
+Poi,0.36,112.0,0.3,Low LA
+"Babyfood, fruit, prunes with tapioca, without ascorbic acid, strained",0.198,69.0,0.3,Low LA
+"Babyfood, potatoes, toddler",0.171,52.0,0.3,Low LA
+"Onions, raw",0.117,40.0,0.3,Low LA
+"Cherries, tart, dried, sweetened",0.918,333.0,0.3,Low LA
+"Fruit salad, (peach and pear and apricot and pineapple and cherry), canned, heav",0.252,73.0,0.3,Low LA
+"Raisins, golden seedless",0.936,302.0,0.3,Low LA
+"Babyfood, juice, apple and prune",0.243,72.0,0.3,Low LA
+"Beef, cured, dried",0.495,153.0,0.3,Low LA
+"Pickles, cucumber, sweet, low sodium (includes bread and butter pickles)",0.414,122.0,0.3,Low LA
+"Gravy, mushroom, dry, powder",0.99,328.0,0.3,Low LA
+"Catsup, low sodium",0.351,101.0,0.3,Low LA
+"Strawberries, frozen, sweetened, sliced",0.333,96.0,0.3,Low LA
+Catsup,0.351,101.0,0.3,Low LA
+"Fish, caviar, black and red, granular",0.729,264.0,0.3,Low LA
+"Fish, scup, raw",0.351,105.0,0.3,Low LA
+"Babyfood, apple yogurt dessert, strained",0.27,96.0,0.3,Low LA
+"Cake, angelfood, dry mix",0.981,366.0,0.3,Low LA
+"Potatoes, boiled, cooked without skin, flesh, without salt",0.288,86.0,0.3,Low LA
+"Plums, canned, purple, light syrup pack, solids and liquids",0.207,63.0,0.3,Low LA
+"Cereals, CREAM OF RICE, dry",0.999,370.0,0.3,Low LA
+"Fish, halibut, Atlantic and Pacific, raw",0.306,91.0,0.3,Low LA
+"Cherries, sweet, canned, pitted, heavy syrup, drained",0.252,83.0,0.3,Low LA
+"Potatoes, boiled, cooked without skin, flesh, with salt",0.288,86.0,0.3,Low LA
+"Fish, pollock, Alaska, raw (may have been previously frozen)",0.144,56.0,0.3,Low LA
+"Potatoes, boiled, cooked in skin, flesh, without salt",0.288,87.0,0.3,Low LA
+"Mangos, raw",0.171,60.0,0.3,Low LA
+"Pineapple, canned, juice pack, solids and liquids",0.153,60.0,0.3,Low LA
+"Milk, buttermilk, dried",1.179,387.0,0.3,Low LA
+"Turtle, green, raw",0.297,89.0,0.3,Low LA
+"Waterchestnuts, chinese, canned, solids and liquids",0.171,50.0,0.3,Low LA
+"Balsam-pear (bitter gourd), leafy tips, cooked, boiled, drained, without salt",0.108,34.0,0.3,Low LA
+"Yogurt, vanilla, low fat, 11 grams protein per 8 ounce, fortified with vitamin D",0.225,85.0,0.3,Low LA
+"Fish, tuna, fresh, bluefin, raw",0.477,144.0,0.3,Low LA
+"Peaches, canned, light syrup pack, solids and liquids",0.135,54.0,0.3,Low LA
+"Cherries, sweet, canned, light syrup pack, solids and liquids",0.207,67.0,0.3,Low LA
+"Potatoes, boiled, cooked in skin, flesh, with salt",0.288,87.0,0.3,Low LA
+"Pineapple, canned, juice pack, drained",0.207,60.0,0.3,Low LA
+"Plums, canned, heavy syrup, drained",0.27,89.0,0.3,Low LA
+"Babyfood, fruit, peaches, strained",0.18,65.0,0.3,Low LA
+"Waterchestnuts, chinese, (matai), raw",0.288,97.0,0.3,Low LA
+"Fish, pike, northern, raw",0.288,88.0,0.3,Low LA
+"Oranges, raw, all commercial varieties",0.162,47.0,0.3,Low LA
+"Yogurt, vanilla, low fat, 11 grams protein per 8 ounce",0.225,85.0,0.3,Low LA
+"Peaches, canned, juice pack, solids and liquids",0.144,44.0,0.3,Low LA
+"Pineapple, canned, heavy syrup pack, solids and liquids",0.207,78.0,0.3,Low LA
+"Plantains, raw",0.387,122.0,0.3,Low LA
+"Milk dessert bar, frozen, made from lowfat milk",0.45,147.0,0.3,Low LA
+"Babyfood, fruit, peaches, junior",0.18,65.0,0.3,Low LA
+Fish broth,0.054,16.0,0.3,Low LA
+"Cheese, cottage, lowfat, 1% milkfat",0.198,72.0,0.3,Low LA
+Orange Pineapple Juice Blend,0.171,51.0,0.3,Low LA
+"Alcoholic beverage, liqueur, coffee, 53 proof",0.864,336.0,0.3,Low LA
+"Apples, dried, sulfured, uncooked",0.693,243.0,0.3,Low LA
+"Babyfood, beverage, GERBER GRADUATE FRUIT SPLASHERS",0.108,31.0,0.3,Low LA
+"Potatoes, baked, flesh, without salt",0.288,93.0,0.3,Low LA
+"Yogurt, frozen, flavors other than chocolate, lowfat",0.423,139.0,0.3,Low LA
+"Sugars, maple",0.9,354.0,0.3,Low LA
+"Macaroni, vegetable, enriched, cooked",0.351,128.0,0.3,Low LA
+"Candies, butterscotch",0.99,391.0,0.3,Low LA
+"Yogurt, plain, low fat, 12 grams protein per 8 ounce",0.279,63.0,0.4,Low LA
+"Cherries, sour, red, canned, water pack, solids and liquids (includes USDA commo",0.135,36.0,0.4,Low LA
+"Babyfood, dessert, dutch apple, junior",0.342,79.0,0.4,Low LA
+"Candies, ROLO Caramels in Milk Chocolate",2.115,474.0,0.4,Low LA
+"Turnips, raw",0.108,28.0,0.4,Low LA
+"Babyfood, juice, orange and apple and banana",0.198,47.0,0.4,Low LA
+"Fish, croaker, Atlantic, raw",0.414,104.0,0.4,Low LA
+"Sauce, barbecue",0.72,172.0,0.4,Low LA
+"Sherbet, orange",0.585,144.0,0.4,Low LA
+"Cabbage, cooked, boiled, drained, without salt",0.081,23.0,0.4,Low LA
+"Mushrooms, shiitake, dried",1.242,296.0,0.4,Low LA
+"Orange juice, chilled, includes from concentrate",0.207,49.0,0.4,Low LA
+"Fish, salmon, coho, wild, cooked, dry heat",0.504,139.0,0.4,Low LA
+"Turnips, cooked, boiled, drained, without salt",0.081,22.0,0.4,Low LA
+"Fish, salmon, chum, canned, drained solids with bone",0.513,141.0,0.4,Low LA
+"Breadfruit, raw",0.432,103.0,0.4,Low LA
+"Babyfood, fruit, banana and strawberry, junior",0.477,109.0,0.4,Low LA
+"Babyfood, juice, fruit punch, with calcium",0.225,52.0,0.4,Low LA
+"Babyfood, prunes, without vitamin c, strained",0.396,100.0,0.4,Low LA
+"Grapefruit, sections, canned, juice pack, solids and liquids",0.153,37.0,0.4,Low LA
+"Raspberries, canned, red, heavy syrup pack, solids and liquids",0.405,91.0,0.4,Low LA
+"Babyfood, apples, dices, toddler",0.225,51.0,0.4,Low LA
+"Puddings, vanilla, dry mix, regular",1.44,379.0,0.4,Low LA
+"Rice, white, long-grain, regular, unenriched, cooked without salt",0.558,130.0,0.4,Low LA
+"Pears, canned, heavy syrup pack, solids and liquids",0.27,74.0,0.4,Low LA
+"Crustaceans, lobster, northern, raw",0.297,77.0,0.4,Low LA
+"Broccoli, frozen, spears, cooked, boiled, drained, without salt",0.117,28.0,0.4,Low LA
+"Rice, white, long-grain, regular, raw, unenriched",1.314,365.0,0.4,Low LA
+"Yam, cooked, boiled, drained, or baked, without salt",0.45,116.0,0.4,Low LA
+"Cheese, cream, fat free",0.378,105.0,0.4,Low LA
+"Crustaceans, lobster, northern, cooked, moist heat",0.342,89.0,0.4,Low LA
+"Cherries, sweet, raw",0.243,63.0,0.4,Low LA
+"Grapefruit juice, white, raw",0.171,39.0,0.4,Low LA
+"Pineapple, raw, all varieties",0.207,50.0,0.4,Low LA
+"Rice, white, long-grain, regular, raw, enriched",1.314,365.0,0.4,Low LA
+"Nuts, coconut meat, dried (desiccated), sweetened, flaked, packaged",1.998,456.0,0.4,Low LA
+"Blueberries, frozen, sweetened",0.306,85.0,0.4,Low LA
+"Yam, cooked, boiled, drained, or baked, with salt",0.45,114.0,0.4,Low LA
+"Fish, rockfish, Pacific, mixed species, raw",0.342,90.0,0.4,Low LA
+"Fish, tuna, white, canned in water, drained solids",0.495,128.0,0.4,Low LA
+"Broccoli, frozen, chopped, cooked, boiled, drained, without salt",0.117,28.0,0.4,Low LA
+"Cake, angelfood, dry mix, prepared",1.053,257.0,0.4,Low LA
+"Potatoes, flesh and skin, raw",0.288,77.0,0.4,Low LA
+"Rice, white, long-grain, regular, enriched, cooked",0.558,130.0,0.4,Low LA
+"Fish, rockfish, Pacific, mixed species, cooked, dry heat",0.414,109.0,0.4,Low LA
+"Cherries, sweet, canned, water pack, solids and liquids",0.171,46.0,0.4,Low LA
+"Fruit juice smoothie, NAKED JUICE, strawberry banana",0.216,50.0,0.4,Low LA
+"Mollusks, clam, mixed species, raw",0.378,86.0,0.4,Low LA
+"Ice creams, vanilla, light, soft-serve",0.54,126.0,0.4,Low LA
+"Rice, white, long-grain, regular, cooked, unenriched, with salt",0.558,130.0,0.4,Low LA
+"Nuts, coconut cream, canned, sweetened",1.431,357.0,0.4,Low LA
+"Onions, dehydrated flakes",1.53,349.0,0.4,Low LA
+"Grapefruit juice, white, canned or bottled, unsweetened",0.126,34.0,0.4,Low LA
+"Pineapple, canned, light syrup pack, solids and liquids",0.207,52.0,0.4,Low LA
+"Rice, white, long-grain, regular, cooked, enriched, with salt",0.558,130.0,0.4,Low LA
+"Cereals, CREAM OF RICE, cooked with water, without salt",0.198,52.0,0.4,Low LA
+"Cream substitute, powdered, light",1.782,431.0,0.4,Low LA
+"Mollusks, clam, mixed species, canned, drained solids",0.63,142.0,0.4,Low LA
+"Salad dressing, blue or roquefort cheese dressing, fat-free",0.477,115.0,0.4,Low LA
+"Cheese, cottage, lowfat, 1% milkfat, with vegetables",0.261,67.0,0.4,Low LA
+"Spices, garlic powder",1.287,331.0,0.4,Low LA
+"Beans, pinto, mature seeds, raw",1.53,347.0,0.4,Low LA
+"Tangerine juice, canned, sweetened",0.18,50.0,0.4,Low LA
+"Babyfood, dessert, fruit pudding, pineapple, strained",0.297,81.0,0.4,Low LA
+"Candies, carob, unsweetened",2.376,540.0,0.4,Low LA
+"Pickle relish, sweet",0.531,130.0,0.4,Low LA
+"Beets, pickled, canned, solids and liquids",0.243,65.0,0.4,Low LA
+"Fish, ocean perch, Atlantic, raw",0.288,79.0,0.4,Low LA
+"Cream substitute, flavored, powdered",2.061,482.0,0.4,Low LA
+"Apples, dehydrated (low moisture), sulfured, uncooked",1.269,346.0,0.4,Low LA
+"Peanut flour, defatted",1.287,327.0,0.4,Low LA
+"Seaweed, kelp, raw",0.18,43.0,0.4,Low LA
+"Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, lig",0.243,57.0,0.4,Low LA
+"Potatoes, baked, flesh and skin, without salt",0.387,93.0,0.4,Low LA
+"Candies, fudge, vanilla, prepared-from-recipe",1.674,383.0,0.4,Low LA
+"Babyfood, juice, orange-carrot",0.225,43.0,0.5,Low LA
+"Blackberries, canned, heavy syrup, solids and liquids",0.477,92.0,0.5,Low LA
+"Sauce, chili, peppers, hot, immature green, canned",0.108,20.0,0.5,Low LA
+"Melons, casaba, raw",0.153,28.0,0.5,Low LA
+"Soup, stock, fish, home-prepared",0.081,16.0,0.5,Low LA
+"Fish, swordfish, raw",0.666,144.0,0.5,Low LA
+"Pears, dried, sulfured, uncooked",1.314,262.0,0.5,Low LA
+"Babyfood, cereal, rice with pears and apple, dry, instant fortified",1.818,389.0,0.5,Low LA
+"Persimmons, japanese, raw",0.351,70.0,0.5,Low LA
+"Taro, raw",0.522,112.0,0.5,Low LA
+"Beans, baked, canned, plain or vegetarian",0.495,94.0,0.5,Low LA
+"Beans, white, mature seeds, raw",1.782,333.0,0.5,Low LA
+"Babyfood, banana apple dessert, strained",0.315,68.0,0.5,Low LA
+"Grapefruit, sections, canned, water pack, solids and liquids",0.171,36.0,0.5,Low LA
+"Snacks, potato chips, fat free, salted",1.8,379.0,0.5,Low LA
+"Mushrooms, shiitake, cooked, without salt",0.279,56.0,0.5,Low LA
+"Orange juice, canned, unsweetened",0.243,47.0,0.5,Low LA
+"Kefir, lowfat, strawberry, LIFEWAY",0.297,62.0,0.5,Low LA
+"Beans, white, mature seeds, cooked, boiled, without salt",0.747,139.0,0.5,Low LA
+"Lemon juice, raw",0.108,22.0,0.5,Low LA
+"Babyfood, dessert, cherry vanilla pudding, strained",0.333,68.0,0.5,Low LA
+"Potatoes, mashed, dehydrated, granules with milk, dry form",1.89,357.0,0.5,Low LA
+"Raspberries, frozen, red, sweetened",0.531,103.0,0.5,Low LA
+"Babyfood, fruit, tutti frutti, strained",0.333,66.0,0.5,Low LA
+"Babyfood, Baby MUM MUM Rice Biscuits",1.854,391.0,0.5,Low LA
+"Frozen yogurts, flavors other than chocolate",0.603,127.0,0.5,Low LA
+"Ice cream, light, soft serve, chocolate",0.774,141.0,0.5,Low LA
+"Figs, canned, heavy syrup pack, solids and liquids",0.432,88.0,0.5,Low LA
+"Pears, canned, heavy syrup, drained",0.369,74.0,0.5,Low LA
+"Broccoli, raw",0.153,34.0,0.5,Low LA
+"Grapefruit, raw, white, all areas",0.171,33.0,0.5,Low LA
+"Cake, yellow, enriched, dry mix",1.962,374.0,0.5,Low LA
+"Babyfood, juice, apple, with calcium",0.243,46.0,0.5,Low LA
+"Salad Dressing, mayonnaise-like, fat-free",0.387,84.0,0.5,Low LA
+"Yam, raw",0.576,118.0,0.5,Low LA
+"Fish, shark, mixed species, raw",0.684,130.0,0.5,Low LA
+"Cream, half and half, fat free",0.288,59.0,0.5,Low LA
+"Frozen yogurts, chocolate",0.657,127.0,0.5,Low LA
+"Grapefruit, raw, pink and red and white, all areas",0.171,32.0,0.5,Low LA
+"Soup, clam chowder, manhattan style, canned, chunky, ready-to-serve",0.27,56.0,0.5,Low LA
+"Bananas, raw",0.414,89.0,0.5,Low LA
+"Cranberries, dried, sweetened",1.431,308.0,0.5,Low LA
+"Strawberries, frozen, sweetened, whole",0.36,78.0,0.5,Low LA
+"Fruit juice smoothie, ODWALLA, strawberry banana",0.252,48.0,0.5,Low LA
+"Bananas, dehydrated, or banana powder",1.899,346.0,0.5,Low LA
+"Babyfood, apple-banana juice",0.252,51.0,0.5,Low LA
+"Pickles, cucumber, sweet (includes bread and butter pickles)",0.414,91.0,0.5,Low LA
+"Grapefruit juice, white, frozen concentrate, unsweetened, undiluted",0.801,146.0,0.5,Low LA
+"Babyfood, fruit, applesauce with banana, junior",0.36,66.0,0.5,Low LA
+"Light ice cream, Creamsicle",0.792,165.0,0.5,Low LA
+"Grapefruit juice, white, frozen concentrate, unsweetened, diluted with 3 volume",0.225,41.0,0.5,Low LA
+"Pineapple, canned, water pack, solids and liquids",0.162,32.0,0.5,Low LA
+"Babyfood, fruit, pears, junior",0.207,44.0,0.5,Low LA
+"Soup, onion, dry, mix, prepared with water",0.054,12.0,0.5,Low LA
+"Couscous, cooked",0.54,112.0,0.5,Low LA
+"Milk, buttermilk, fluid, cultured, lowfat",0.18,40.0,0.5,Low LA
+"Babyfood, fruit, pears and pineapple, strained",0.189,41.0,0.5,Low LA
+"Soup, chunky beef, canned, ready-to-serve",0.333,66.0,0.5,Low LA
+"Fast foods, strawberry banana smoothie made with ice and low-fat yogurt",0.297,65.0,0.5,Low LA
+"Soup, onion, dry, mix",1.323,293.0,0.5,Low LA
+"Babyfood, juice, apple - cherry",0.243,47.0,0.5,Low LA
+"Babyfood, juice, apple",0.243,47.0,0.5,Low LA
+"Rice, white, long-grain, precooked or instant, enriched, dry",1.818,380.0,0.5,Low LA
+"Vegetable smoothie, NAKED JUICE, KALE BLAZER",0.126,28.0,0.5,Low LA
+"Broccoli raab, cooked",0.18,33.0,0.5,Low LA
+"Fruit cocktail, canned, heavy syrup, drained",0.333,70.0,0.5,Low LA
+"Burdock root, cooked, boiled, drained, without salt",0.468,88.0,0.5,Low LA
+"Game meat, deer, loin, separable lean only, 1"" steak, cooked, broiled",0.81,150.0,0.5,Low LA
+"Beverages, coffee, instant, regular, powder",1.62,353.0,0.5,Low LA
+"Passion-fruit juice, purple, raw",0.261,51.0,0.5,Low LA
+"Fruit cocktail, (peach and pineapple and pear and grape and cherry), canned, wat",0.153,32.0,0.5,Low LA
+"Lime juice, raw",0.135,25.0,0.5,Low LA
+"Grapes, red or green (European type, such as Thompson seedless), raw",0.333,69.0,0.5,Low LA
+Milk and cereal bar,2.07,413.0,0.5,Low LA
+"Candies, MARS SNACKFOOD US, MILKY WAY Bar",2.079,456.0,0.5,Low LA
+"Rice, white, long-grain, parboiled, enriched, cooked",0.666,123.0,0.5,Low LA
+"Beverages, coffee, instant, regular, half the caffeine",1.62,352.0,0.5,Low LA
+"Parsnips, cooked, boiled, drained, without salt",0.369,71.0,0.5,Low LA
+"Grapes, canned, thompson seedless, water pack, solids and liquids",0.216,40.0,0.5,Low LA
+"Rice, white, glutinous, unenriched, cooked",0.594,97.0,0.6,Low LA
+"Fish, salmon, pink, canned, total can contents",0.819,129.0,0.6,Low LA
+"Cabbage, japanese style, fresh, pickled",0.171,30.0,0.6,Low LA
+"Lima beans, large, mature seeds, raw",1.935,338.0,0.6,Low LA
+Soy sauce made from soy (tamari),0.351,60.0,0.6,Low LA
+"Snacks, candy rolls, yogurt-covered, fruit flavored with high vitamin C",2.025,359.0,0.6,Low LA
+"Babyfood, fruit supreme dessert",0.45,73.0,0.6,Low LA
+"Cauliflower, raw",0.144,25.0,0.6,Low LA
+"Fish, mackerel, jack, canned, drained solids",0.891,156.0,0.6,Low LA
+"Fish, sturgeon, mixed species, raw",0.612,105.0,0.6,Low LA
+"Guanabana nectar, canned",0.351,59.0,0.6,Low LA
+"Figs, canned, light syrup pack, solids and liquids",0.432,69.0,0.6,Low LA
+"Beans, kidney, red, mature seeds, raw",2.052,337.0,0.6,Low LA
+"Fish, sturgeon, mixed species, cooked, dry heat",0.783,135.0,0.6,Low LA
+"Candies, MARS SNACKFOOD US, 3 MUSKETEERS Bar",2.754,436.0,0.6,Low LA
+"Cereals, MALT-O-MEAL, original, plain, dry",2.043,365.0,0.6,Low LA
+"Pancakes, whole wheat, dry mix, incomplete",2.169,350.0,0.6,Low LA
+"Cranberry juice cocktail, bottled",0.315,54.0,0.6,Low LA
+"Cheese, parmesan, low sodium",2.88,451.0,0.6,Low LA
+"Lemon juice from concentrate, canned or bottled",0.099,17.0,0.6,Low LA
+"Mollusks, oyster, eastern, canned",0.441,68.0,0.6,Low LA
+"Cranberries, raw",0.297,46.0,0.6,Low LA
+"Cheese, parmesan, hard",2.448,392.0,0.6,Low LA
+"Cheese, swiss, low fat",1.035,179.0,0.6,Low LA
+"Onions, frozen, whole, unprepared",0.216,35.0,0.6,Low LA
+"Potatoes, frozen, whole, unprepared",0.45,78.0,0.6,Low LA
+"Hearts of palm, raw",0.684,115.0,0.6,Low LA
+"Milk, canned, condensed, sweetened",1.944,321.0,0.6,Low LA
+"Onions, frozen, whole, cooked, boiled, drained, without salt",0.171,28.0,0.6,Low LA
+"Spices, nutmeg, ground",3.15,525.0,0.6,Low LA
+"Peaches, spiced, canned, heavy syrup pack, solids and liquids",0.423,75.0,0.6,Low LA
+"Crustaceans, crayfish, mixed species, wild, raw",0.468,77.0,0.6,Low LA
+"Babyfood, juice, apple and peach",0.243,43.0,0.6,Low LA
+"Fish, halibut, Greenland, raw",1.107,186.0,0.6,Low LA
+"Peaches, frozen, sliced, sweetened",0.567,94.0,0.6,Low LA
+"Applesauce, canned, sweetened, without salt (includes USDA commodity)",0.405,68.0,0.6,Low LA
+"Milk, buttermilk, fluid, cultured, reduced fat",0.36,56.0,0.6,Low LA
+"Soup, beef broth, less/reduced sodium, ready to serve",0.036,6.0,0.6,Low LA
+"Babyfood, vegetables, sweet potatoes, junior",0.333,60.0,0.6,Low LA
+"Fish, sardine, Pacific, canned in tomato sauce, drained solids with bone",1.107,185.0,0.6,Low LA
+"Babyfood, vegetables, sweet potatoes strained",0.333,57.0,0.6,Low LA
+"Whipped topping, frozen, low fat",1.395,224.0,0.6,Low LA
+"Fruit juice smoothie, BOLTHOUSE FARMS, strawberry banana",0.297,52.0,0.6,Low LA
+"Tangerine juice, raw",0.261,43.0,0.6,Low LA
+"Soup, chili beef, canned, prepared with equal volume water",0.36,57.0,0.6,Low LA
+"Cream substitute, powdered",3.438,529.0,0.6,Low LA
+"Apples, raw, without skin",0.279,48.0,0.6,Low LA
+"Squash, winter, all varieties, raw",0.189,34.0,0.6,Low LA
+"Syrups, chocolate, fudge-type",2.241,350.0,0.6,Low LA
+"Cabbage, red, cooked, boiled, drained, without salt",0.171,29.0,0.6,Low LA
+"Litchis, dried",1.656,277.0,0.6,Low LA
+"Beverage, instant breakfast powder, chocolate, not reconstituted",2.223,353.0,0.6,Low LA
+"Fish, flatfish (flounder and sole species), raw",0.405,70.0,0.6,Low LA
+"Beans, pinto, mature seeds, cooked, boiled, without salt",0.882,143.0,0.6,Low LA
+"Cabbage, raw",0.153,25.0,0.6,Low LA
+"Candies, caramels, chocolate-flavor roll",2.214,387.0,0.6,Low LA
+"Fish, flatfish (flounder and sole species), cooked, dry heat",0.495,86.0,0.6,Low LA
+"Beans, black turtle, mature seeds, cooked, boiled, without salt",0.729,130.0,0.6,Low LA
+"Jams and preserves, no sugar (with sodium saccharin), any flavor",0.792,132.0,0.6,Low LA
+"Cheese, pasteurized process, swiss, low fat",1.035,165.0,0.6,Low LA
+"Cabbage, mustard, salted",0.171,28.0,0.6,Low LA
+"Snacks, potato chips, made from dried potatoes, fat-free, made with olestra",1.44,253.0,0.6,Low LA
+"Finger snacks, GERBER GRADUATE PUFFS, apple and cinnamon",2.268,389.0,0.6,Low LA
+"Orange juice, raw",0.261,45.0,0.6,Low LA
+"Fish, salmon, pink, raw",0.729,127.0,0.6,Low LA
+"Peaches, canned, heavy syrup pack, solids and liquids",0.414,74.0,0.6,Low LA
+"Currants, zante, dried",1.62,283.0,0.6,Low LA
+"Cake, pudding-type, german chocolate, dry mix",1.962,350.0,0.6,Low LA
+"Beverages, Protein powder whey based",2.376,352.0,0.7,Low LA
+"Fish, mullet, striped, raw",0.792,117.0,0.7,Low LA
+"Beans, pink, mature seeds, cooked, boiled, without salt",1.026,149.0,0.7,Low LA
+"Babyfood, fruit, apple and blueberry, strained",0.45,61.0,0.7,Low LA
+"Babyfood, fruit, bananas with apples and pears, strained",0.567,83.0,0.7,Low LA
+"Fish, mackerel, Pacific and jack, mixed species, raw",1.044,158.0,0.7,Low LA
+"Babyfood, fruit, apple and blueberry, junior",0.45,62.0,0.7,Low LA
+"Okra, raw",0.234,33.0,0.7,Low LA
+"Fish, mackerel, Pacific and jack, mixed species, cooked, dry heat",1.341,201.0,0.7,Low LA
+"Candies, fudge, chocolate, prepared-from-recipe",2.889,411.0,0.7,Low LA
+"Babyfood, juice, mixed fruit",0.324,47.0,0.7,Low LA
+"Cheese, pasteurized process, American, low fat",1.233,180.0,0.7,Low LA
+"Frozen yogurts, vanilla, soft-serve",1.17,159.0,0.7,Low LA
+"Chewing gum, sugarless",1.836,268.0,0.7,Low LA
+"Mollusks, oyster, eastern, wild, raw",0.369,51.0,0.7,Low LA
+"Babyfood, fruit, tutti frutti, junior",0.459,69.0,0.7,Low LA
+"Soup, vegetable broth, ready to serve",0.036,5.0,0.7,Low LA
+"Fish, herring, Atlantic, raw",1.17,158.0,0.7,Low LA
+"Yambean (jicama), raw",0.261,38.0,0.7,Low LA
+"Fish, herring, Atlantic, pickled",1.899,262.0,0.7,Low LA
+"Fish, whitefish, mixed species, smoked",0.756,108.0,0.7,Low LA
+"Beef, cured, pastrami",1.044,147.0,0.7,Low LA
+"Nuts, coconut meat, dried (desiccated), sweetened, shredded",3.492,501.0,0.7,Low LA
+"Fish, herring, Atlantic, kippered",1.602,217.0,0.7,Low LA
+"Spices, onion powder",2.286,341.0,0.7,Low LA
+"Fish, herring, Atlantic, cooked, dry heat",1.503,203.0,0.7,Low LA
+"Cheese, romano",2.556,387.0,0.7,Low LA
+"Beans, great northern, mature seeds, canned, low sodium",0.801,114.0,0.7,Low LA
+"Strawberries, canned, heavy syrup pack, solids and liquids",0.675,92.0,0.7,Low LA
+"Sweet potato, cooked, boiled, without skin",0.549,76.0,0.7,Low LA
+"Babyfood, pears, dices, toddler",0.414,57.0,0.7,Low LA
+"Fish, pompano, florida, raw",1.089,164.0,0.7,Low LA
+"Cabbage, savoy, raw",0.189,27.0,0.7,Low LA
+"Ice creams, vanilla, light",1.206,180.0,0.7,Low LA
+"Candies, sweet chocolate coated fondant",2.529,366.0,0.7,Low LA
+"Vegetables, mixed, frozen, cooked, boiled, drained, without salt",0.477,65.0,0.7,Low LA
+"Sweet potato, canned, vacuum pack",0.639,91.0,0.7,Low LA
+"Puddings, chocolate, dry mix, instant",2.826,378.0,0.7,Low LA
+"Kohlrabi, raw",0.18,27.0,0.7,Low LA
+"Spinach, cooked, boiled, drained, without salt",0.153,23.0,0.7,Low LA
+"Broccoli raab, raw",0.153,22.0,0.7,Low LA
+"Sweet potato, canned, syrup pack, solids and liquids",0.639,89.0,0.7,Low LA
+"Burdock root, raw",0.504,72.0,0.7,Low LA
+"Game meat, deer, shoulder clod, separable lean only, cooked, braised",1.35,191.0,0.7,Low LA
+"Mustard greens, raw",0.18,27.0,0.7,Low LA
+"Beans, black, mature seeds, canned, low sodium",0.612,91.0,0.7,Low LA
+"Kohlrabi, cooked, boiled, drained, without salt",0.198,29.0,0.7,Low LA
+"Apples, raw, with skin",0.387,52.0,0.7,Low LA
+"Rice, white, long-grain, parboiled, enriched, dry",2.745,374.0,0.7,Low LA
+"Cheese, gouda",2.367,356.0,0.7,Low LA
+"Fish, salmon, sockeye, canned, drained solids",1.206,167.0,0.7,Low LA
+"Beans, pink, mature seeds, raw",2.385,343.0,0.7,Low LA
+"Melons, honeydew, raw",0.234,36.0,0.7,Low LA
+"Soup, beef and mushroom, low sodium, chunk style",0.558,69.0,0.8,Low LA
+"Babyfood, cereal, rice, dry fortified",3.267,390.0,0.8,Low LA
+"Beef, round, eye of round, roast, separable lean only, trimmed to 1/8"" fat, choi",1.017,128.0,0.8,Low LA
+"Beans, navy, mature seeds, canned",0.909,113.0,0.8,Low LA
+"Beef, round, eye of round, roast, separable lean only, trimmed to 1/8"" fat, all",1.332,169.0,0.8,Low LA
+"Beef, top sirloin, steak, separable lean only, trimmed to 1/8"" fat, all grades,",1.503,178.0,0.8,Low LA
+"Ice creams, chocolate, light",1.512,187.0,0.8,Low LA
+"Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8"" fat, select, ra",1.035,125.0,0.8,Low LA
+"Cabbage, chinese (pe-tsai), raw",0.135,16.0,0.8,Low LA
+"Beef, top sirloin, steak, separable lean only, trimmed to 0"" fat, all grades, co",1.521,183.0,0.8,Low LA
+"Soup, cheese, canned, condensed",0.621,82.0,0.8,Low LA
+"Figs, canned, water pack, solids and liquids",0.432,53.0,0.8,Low LA
+"Babyfood, vegetables, green beans, junior",0.18,24.0,0.8,Low LA
+"Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8"" fat, select, co",1.629,205.0,0.8,Low LA
+"Pomegranate juice, bottled",0.45,54.0,0.8,Low LA
+"Rice mix, white and wild, flavored, unprepared",2.898,355.0,0.8,Low LA
+"Cauliflower, green, raw",0.261,31.0,0.8,Low LA
+"Yogurt, Greek, strawberry, lowfat",0.828,103.0,0.8,Low LA
+"Cranberry juice, unsweetened",0.378,46.0,0.8,Low LA
+"Squash, summer, crookneck and straightneck, canned, drained, solid, without salt",0.099,13.0,0.8,Low LA
+Dulce de Leche,2.592,315.0,0.8,Low LA
+"Spices, basil, dried",1.791,233.0,0.8,Low LA
+"Beans, kidney, red, mature seeds, cooked, boiled, without salt",0.963,127.0,0.8,Low LA
+"Lima beans, immature seeds, frozen, baby, cooked, boiled, drained, without salt",0.882,105.0,0.8,Low LA
+"Rice flour, white, unenriched",2.817,366.0,0.8,Low LA
+"Salsify, cooked, boiled, drained, without salt",0.576,68.0,0.8,Low LA
+"Strawberries, frozen, unsweetened",0.279,35.0,0.8,Low LA
+"Dessert topping, pressurized",2.169,264.0,0.8,Low LA
+"Lima beans, immature seeds, cooked, boiled, drained, without salt",0.936,123.0,0.8,Low LA
+"Candies, confectioner's coating, yogurt",4.302,522.0,0.8,Low LA
+"Milk, chocolate, lowfat, reduced sugar",0.405,54.0,0.8,Low LA
+"Yogurt, Greek, plain, lowfat",0.585,73.0,0.8,Low LA
+"Dessert topping, powdered, 1.5 ounce prepared with 1/2 cup milk",1.494,194.0,0.8,Low LA
+"Tangerines, (mandarin oranges), raw",0.432,53.0,0.8,Low LA
+"Yogurt, Greek, fruit, whole milk",0.828,106.0,0.8,Low LA
+"Beans, kidney, all types, mature seeds, cooked, boiled, without salt",0.972,127.0,0.8,Low LA
+"Cheese, parmesan, dry grated, reduced fat",1.989,265.0,0.8,Low LA
+"Radishes, oriental, raw",0.144,18.0,0.8,Low LA
+"Fruit juice smoothie, NAKED JUICE, GREEN MACHINE",0.423,53.0,0.8,Low LA
+"Candies, NESTLE, BIT-O'-HONEY Candy Chews",3.024,375.0,0.8,Low LA
+"Beverages, KELLOGG'S SPECIAL K20 protein powder",3.186,380.0,0.8,Low LA
+"Cheese, cottage, lowfat, 2% milkfat",0.63,81.0,0.8,Low LA
+"Cheese, low fat, cheddar or colby",1.404,173.0,0.8,Low LA
+"Game meat, goat, cooked, roasted",1.17,143.0,0.8,Low LA
+"Beef, round, bottom round , roast, separable lean only, trimmed to 1/8"" fat, sel",1.323,164.0,0.8,Low LA
+"Leavening agents, baking powder, low-sodium",0.81,97.0,0.8,Low LA
+"Babyfood, fruit, applesauce and apricots, strained",0.369,44.0,0.8,Low LA
+"Beef, round, top round, steak, separable lean only, trimmed to 1/8"" fat, all gra",1.539,185.0,0.8,Low LA
+"Beef, top sirloin, steak, separable lean only, trimmed to 1/8"" fat, select, cook",1.278,170.0,0.8,Low LA
+"Babyfood, fruit, applesauce and apricots, junior",0.396,47.0,0.8,Low LA
+"Peaches, canned, heavy syrup, drained",0.594,72.0,0.8,Low LA
+"Cherries, sour, red, raw",0.414,50.0,0.8,Low LA
+"Babyfood, fruit, apple and raspberry, strained",0.459,58.0,0.8,Low LA
+"Mustard greens, cooked, boiled, drained, without salt",0.216,26.0,0.8,Low LA
+"Cheese, cottage, creamed, with fruit",0.792,97.0,0.8,Low LA
+"Babyfood, banana with mixed berries, strained",0.711,92.0,0.8,Low LA
+"Babyfood, fruit, apple and raspberry, junior",0.459,58.0,0.8,Low LA
+"Currants, red and white, raw",0.477,56.0,0.9,Low LA
+"Lima beans, large, mature seeds, cooked, boiled, without salt",1.062,115.0,0.9,Low LA
+"Snacks, potato chips, fat-free, made with olestra",2.475,274.0,0.9,Low LA
+"Melons, cantaloupe, raw",0.315,34.0,0.9,Low LA
+"Candies, MARS SNACKFOOD US, M&M's Peanut Butter Chocolate Candies",4.635,529.0,0.9,Low LA
+"Babyfood, juice, orange",0.405,45.0,0.9,Low LA
+Carob flour,1.908,222.0,0.9,Low LA
+"Yogurt, Greek, vanilla, lowfat",0.846,95.0,0.9,Low LA
+"Brussels sprouts, raw",0.405,43.0,0.9,Low LA
+"Game meat, bison, separable lean only, cooked, roasted",1.26,143.0,0.9,Low LA
+"Pomegranates, raw",0.711,83.0,0.9,Low LA
+"Beverages, coffee, brewed, prepared with tap water",0.009,1.0,0.9,Low LA
+"Rutabagas, raw",0.315,37.0,0.9,Low LA
+"Wheat flour, white, cake, enriched",3.213,362.0,0.9,Low LA
+"Beef, flank, steak, separable lean only, trimmed to 0"" fat, choice, raw",1.368,149.0,0.9,Low LA
+"Kefir, lowfat, plain, LIFEWAY",0.378,41.0,0.9,Low LA
+"Babyfood, fruit and vegetable, apple and sweet potato",0.594,64.0,0.9,Low LA
+"Babyfood, juice, apple-sweet potato",0.414,48.0,0.9,Low LA
+"Dessert topping, semi solid, frozen",2.745,318.0,0.9,Low LA
+"Nuts, coconut meat, raw",3.294,354.0,0.9,Low LA
+"Beans, kidney, red, mature seeds, canned, solids and liquids",0.747,81.0,0.9,Low LA
+"Beans, snap, yellow, canned, regular pack, drained solids",0.171,20.0,0.9,Low LA
+"Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8"" fat, all grades",1.89,214.0,0.9,Low LA
+"Plums, raw",0.396,46.0,0.9,Low LA
+"Babyfood, plums, bananas and rice, strained",0.522,57.0,0.9,Low LA
+"Soursop, raw",0.621,66.0,0.9,Low LA
+"Beans, kidney, red, mature seeds, canned, solids and liquid, low sodium",0.747,81.0,0.9,Low LA
+"Fish, shad, american, raw",1.791,197.0,0.9,Low LA
+"Snacks, granola bar, fruit-filled, nonfat",2.988,342.0,0.9,Low LA
+"Cowpeas, common (blackeyes, crowder, southern), mature seeds, raw",3.087,336.0,0.9,Low LA
+"Mung beans, mature seeds, raw",3.213,347.0,0.9,Low LA
+"Babyfood, vegetables, beets, strained",0.297,34.0,0.9,Low LA
+"Cowpeas (blackeyes), immature seeds, cooked, boiled, drained, without salt",0.837,97.0,0.9,Low LA
+"Frankfurter, beef, low fat",2.097,233.0,0.9,Low LA
+"Peas, green, cooked, boiled, drained, without salt",0.738,84.0,0.9,Low LA
+"Puddings, chocolate, dry mix, regular, prepared with whole milk",1.053,120.0,0.9,Low LA
+"Sweet potato, cooked, baked in skin, flesh, without salt",0.81,90.0,0.9,Low LA
+"Dressing, honey mustard, fat-free",1.566,169.0,0.9,Low LA
+"Syrups, chocolate, HERSHEY'S Sugar free, Genuine Chocolate Flavored, Lite Syrup",0.369,43.0,0.9,Low LA
+"Beef, round, tip round, roast, separable lean only, trimmed to 0"" fat, all grade",1.629,174.0,0.9,Low LA
+"Soup, beef broth or bouillon, powder, prepared with water",0.027,3.0,0.9,Low LA
+"Blueberries, canned, heavy syrup, solids and liquids",0.774,88.0,0.9,Low LA
+"Crackers, rye, wafers, plain",3.141,334.0,0.9,Low LA
+"Beans, black, mature seeds, raw",2.988,341.0,0.9,Low LA
+"Litchis, raw",0.603,66.0,0.9,Low LA
+"Babyfood, fruit, pears and pineapple, junior",0.387,44.0,0.9,Low LA
+"Rice and vermicelli mix, rice pilaf flavor, unprepared",3.258,359.0,0.9,Low LA
+"Beans, black, mature seeds, cooked, boiled, without salt",1.134,132.0,0.9,Low LA
+"Cheese, limburger",3.051,327.0,0.9,Low LA
+"Beef, top sirloin, steak, separable lean only, trimmed to 1/8"" fat, select, raw",1.107,127.0,0.9,Low LA
+"Candies, MARS SNACKFOOD US, MILKY WAY Midnight Bar",4.203,443.0,0.9,Low LA
+"Beverages, tea, black, brewed, prepared with tap water, decaffeinated",0.009,1.0,0.9,Low LA
+"Rice and vermicelli mix, beef flavor, unprepared",3.06,359.0,0.9,Low LA
+"Beverages, tea, black, brewed, prepared with tap water",0.009,1.0,0.9,Low LA
+"Beans, pinto, mature seeds, canned, solids and liquids, low sodium",0.774,82.0,0.9,Low LA
+"Ice creams, regular, low carbohydrate, chocolate",2.25,237.0,0.9,Low LA
+"Cheese, pasteurized process, swiss",3.078,334.0,0.9,Low LA
+"Babyfood, cereal, rice, with applesauce and bananas, strained",0.738,80.0,0.9,Low LA
+"Beef, top sirloin, steak, separable lean only, trimmed to 1/8"" fat, choice, cook",1.728,187.0,0.9,Low LA
+"Cookies, fortune",3.942,378.0,1.0,Low LA
+"Fish, eel, mixed species, raw",1.764,184.0,1.0,Low LA
+"Cheese, cottage, creamed, large or small curd",0.945,98.0,1.0,Low LA
+"Beef, top sirloin, steak, separable lean only, trimmed to 1/8"" fat, all grades,",1.278,131.0,1.0,Low LA
+"Beef, ground, 95% lean meat / 5% fat, patty, cooked, pan-broiled",1.674,164.0,1.0,Low LA
+"Cheese product, pasteurized process, cheddar, reduced fat",2.43,240.0,1.0,Low LA
+"Ice creams, chocolate",2.25,216.0,1.0,Low LA
+"Yellow rice with seasoning, dry packet mix, unprepared",3.6,343.0,1.0,Low LA
+"Lima beans, immature seeds, frozen, fordhook, unprepared",1.044,106.0,1.0,Low LA
+"Cheese product, pasteurized process, American, reduced fat, fortified with vitam",2.43,240.0,1.0,Low LA
+"Fish, mackerel, Atlantic, raw",1.971,205.0,1.0,Low LA
+"Apricots, canned, water pack, with skin, solids and liquids",0.279,27.0,1.0,Low LA
+"Peas, split, mature seeds, cooked, boiled, without salt",1.233,118.0,1.0,Low LA
+"Lima beans, immature seeds, frozen, fordhook, cooked, boiled, drained, without s",0.99,103.0,1.0,Low LA
+"Puddings, vanilla, dry mix, regular, prepared with whole milk",1.17,113.0,1.0,Low LA
+"Nuts, coconut milk, raw (liquid expressed from grated meat and water)",2.349,230.0,1.0,Low LA
+"Wheat flour, white, all-purpose, unenriched",3.519,364.0,1.0,Low LA
+"Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8"" fat, choice, co",2.142,224.0,1.0,Low LA
+"Chayote, fruit, raw",0.189,19.0,1.0,Low LA
+"Wheat flour, white, all-purpose, self-rising, enriched",3.492,354.0,1.0,Low LA
+"Leeks, (bulb and lower leaf-portion), raw",0.603,61.0,1.0,Low LA
+"Gravy, pork, dry, powder",3.762,367.0,1.0,Low LA
+"Mung beans, mature seeds, sprouted, cooked, boiled, drained, without salt",0.207,21.0,1.0,Low LA
+"Wheat flour, white, all-purpose, enriched, bleached",3.519,364.0,1.0,Low LA
+"Babyfood, dinner, beef noodle, junior",0.594,57.0,1.0,Low LA
+"Radishes, raw",0.153,16.0,1.0,Low LA
+"Chayote, fruit, cooked, boiled, drained, with salt",0.216,22.0,1.0,Low LA
+"Sweet potato, cooked, candied, home-prepared",1.566,164.0,1.0,Low LA
+"Babyfood, fruit, pears, strained",0.414,42.0,1.0,Low LA
+"Beverages, Lemonade, powder",3.645,376.0,1.0,Low LA
+"Nuts, coconut meat, dried (desiccated), not sweetened",6.354,660.0,1.0,Low LA
+"Wild rice, raw",3.393,357.0,1.0,Low LA
+"Cheese, cottage, with vegetables",0.927,95.0,1.0,Low LA
+"Pasta mix, Italian lasagna, unprepared",3.492,356.0,1.0,Low LA
+"Spinach, raw",0.234,23.0,1.0,Low LA
+"Crustaceans, crayfish, mixed species, wild, cooked, moist heat",0.81,82.0,1.0,Low LA
+"Beef, round, bottom round, steak, separable lean only, trimmed to 1/8"" fat, all",2.187,216.0,1.0,Low LA
+"Beef, short loin, top loin, steak, separable lean only, trimmed to 1/8"" fat, all",1.827,189.0,1.0,Low LA
+"Ham, smoked, extra lean, low sodium",1.368,141.0,1.0,Low LA
+"Pork, cured, ham with natural juices, spiral slice, boneless, separable lean and",1.449,139.0,1.0,Low LA
+"Mung beans, mature seeds, cooked, boiled, without salt",1.071,105.0,1.0,Low LA
+"Babyfood, juice, apple and grape",0.441,46.0,1.0,Low LA
+"Babyfood, meat, beef, strained",0.81,81.0,1.0,Low LA
+"Beef, brisket, whole, separable lean only, trimmed to 0"" fat, all grades, cooked",2.16,218.0,1.0,Low LA
+"Snacks, fruit leather, rolls",3.87,371.0,1.0,Low LA
+"Babyfood, dinner, macaroni and tomato and beef, junior",0.594,59.0,1.0,Low LA
+"Babyfood, meat, beef, junior",0.81,81.0,1.0,Low LA
+"Watercress, raw",0.108,11.0,1.0,Low LA
+"Cheese, american cheddar, imitation",2.376,239.0,1.0,Low LA
+"Peaches, canned, water pack, solids and liquids",0.243,24.0,1.0,Low LA
+"Cabbage, red, raw",0.306,31.0,1.0,Low LA
+"Babyfood, dinner, macaroni and cheese, strained",0.675,67.0,1.0,Low LA
+"Babyfood, meat, beef with vegetables, toddler",0.693,68.0,1.0,Low LA
+"Babyfood, vegetables, squash, strained",0.27,28.0,1.0,Low LA
+"Beef, round, top round, steak, separable lean only, trimmed to 1/8"" fat, choice,",1.44,140.0,1.0,Low LA
+"Cheese, port de salut",3.402,352.0,1.0,Low LA
+"Babyfood, carrots and beef, strained",0.603,59.0,1.0,Low LA
+"Ice creams, regular, low carbohydrate, vanilla",2.25,216.0,1.0,Low LA
+"Yogurt, plain, whole milk, 8 grams protein per 8 ounce",0.585,61.0,1.0,Low LA
+"Beef, rib, small end (ribs 10-12), separable lean only, trimmed to 1/8"" fat, all",1.962,195.0,1.0,Low LA
+"Bulgur, cooked",0.846,83.0,1.0,Low LA
+"Ice creams, french vanilla, soft-serve",2.52,222.0,1.1,Low LA
+"Beef, round, top round, separable lean and fat, trimmed to 1/8"" fat, all grades,",2.61,238.0,1.1,Low LA
+"Grapes, american type (slip skin), raw",0.711,67.0,1.1,Low LA
+"Beef, round, top round steak, separable lean and fat, trimmed to 1/8"" fat, all g",2.142,204.0,1.1,Low LA
+"Guava sauce, cooked",0.378,36.0,1.1,Low LA
+"Turnips, frozen, cooked, boiled, drained, without salt",0.252,23.0,1.1,Low LA
+"Nopales, cooked, without salt",0.171,15.0,1.1,Low LA
+"Yogurt parfait, lowfat, with fruit and granola",0.954,84.0,1.1,Low LA
+"Beans, mung, mature seeds, sprouted, canned, drained solids",0.135,12.0,1.1,Low LA
+"Squash, summer, crookneck and straightneck, frozen, cooked, boiled, drained, wit",0.279,25.0,1.1,Low LA
+"Babyfood, dessert, custard pudding, vanilla, junior",0.972,86.0,1.1,Low LA
+"Beef, round, eye of round, roast, separable lean and fat, trimmed to 1/8"" fat, a",2.304,208.0,1.1,Low LA
+"Ice cream, soft serve, chocolate",2.52,222.0,1.1,Low LA
+"Rutabagas, cooked, boiled, drained, without salt",0.342,30.0,1.1,Low LA
+"Cheese, feta",2.934,264.0,1.1,Low LA
+"Beef, chuck, arm pot roast, separable lean only, trimmed to 1/8"" fat, choice, ra",1.584,139.0,1.1,Low LA
+"Beef, flank, steak, separable lean only, trimmed to 0"" fat, choice, cooked, brai",2.52,237.0,1.1,Low LA
+"Cauliflower, frozen, unprepared",0.261,24.0,1.1,Low LA
+"Cheese, edam",3.762,357.0,1.1,Low LA
+"Beef, flank, steak, separable lean and fat, trimmed to 0"" fat, choice, raw",1.755,165.0,1.1,Low LA
+"Peas, green, split, mature seeds, raw",3.699,352.0,1.1,Low LA
+"Beef, top sirloin, steak, separable lean and fat, trimmed to 0"" fat, all grades,",2.376,212.0,1.1,Low LA
+"Cauliflower, frozen, cooked, boiled, drained, without salt",0.216,19.0,1.1,Low LA
+"Sauce, oyster, ready-to-serve",0.558,51.0,1.1,Low LA
+"Snacks, banana chips",5.58,519.0,1.1,Low LA
+"Beef, tenderloin, steak, separable lean only, trimmed to 1/8"" fat, all grades, c",2.16,200.0,1.1,Low LA
+"Babyfood, fruit, applesauce, strained",0.432,41.0,1.1,Low LA
+"Soup, vegetable beef, canned, condensed",0.72,63.0,1.1,Low LA
+"Broccoli, frozen, chopped, unprepared",0.279,26.0,1.1,Low LA
+"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat,",1.737,162.0,1.1,Low LA
+"Mung beans, mature seeds, sprouted, cooked, boiled, drained, with salt",0.207,19.0,1.1,Low LA
+"Cowpeas (blackeyes), immature seeds, frozen, cooked, boiled, drained, without sa",1.431,132.0,1.1,Low LA
+"Beef, round, bottom round, steak, separable lean only, trimmed to 1/8"" fat, choi",2.556,228.0,1.1,Low LA
+"Gravy, meat or poultry, low sodium, prepared",0.567,53.0,1.1,Low LA
+"Tortellini, pasta with cheese filling, fresh-refrigerated, as purchased",3.348,307.0,1.1,Low LA
+"Candies, MARS SNACKFOOD US, TWIX Caramel Cookie Bars",5.346,502.0,1.1,Low LA
+"Soup, tomato, dry, mix, prepared with water",0.423,38.0,1.1,Low LA
+"Cowpeas, common (blackeyes, crowder, southern), mature seeds, cooked, boiled, wi",1.287,116.0,1.1,Low LA
+"Chard, swiss, cooked, boiled, drained, without salt",0.225,20.0,1.1,Low LA
+"Wild rice, cooked",1.071,101.0,1.1,Low LA
+"Cheese, muenster",3.879,368.0,1.1,Low LA
+"Beef, round, bottom round, steak, separable lean and fat, trimmed to 1/8"" fat, a",2.835,247.0,1.1,Low LA
+"Babyfood, juice, apple and cherry",0.45,41.0,1.1,Low LA
+"Cheese, provolone, reduced fat",2.97,274.0,1.1,Low LA
+"Snacks, fruit leather, pieces",3.87,359.0,1.1,Low LA
+"Beef, sandwich steaks, flaked, chopped, formed and thinly sliced, raw",3.312,309.0,1.1,Low LA
+"Fish, salmon, sockeye, raw",1.44,131.0,1.1,Low LA
+"Gravy, brown instant, dry",4.032,380.0,1.1,Low LA
+"Rice and vermicelli mix, chicken flavor, unprepared",3.861,358.0,1.1,Low LA
+"Babyfood, vegetables, squash, junior",0.27,24.0,1.1,Low LA
+"Fish, salmon, sockeye, cooked, dry heat",1.71,156.0,1.1,Low LA
+"Limes, raw",0.324,30.0,1.1,Low LA
+"Mustard greens, frozen, cooked, boiled, drained, without salt",0.216,19.0,1.1,Low LA
+"Fish, trout, mixed species, raw",1.575,148.0,1.1,Low LA
+"Lentils, raw",3.726,352.0,1.1,Low LA
+Reddi Wip Fat Free Whipped Topping,1.665,149.0,1.1,Low LA
+"Beef, top sirloin, steak, separable lean only, trimmed to 1/8"" fat, choice, raw",1.449,135.0,1.1,Low LA
+"Beans, baked, canned, with pork and tomato sauce",1.026,94.0,1.1,Low LA
+"Spices, coriander leaf, dried",2.952,279.0,1.1,Low LA
+"Squash, summer, zucchini, includes skin, frozen, cooked, boiled, drained, withou",0.189,17.0,1.1,Low LA
+"Lentils, mature seeds, cooked, boiled, without salt",1.233,116.0,1.1,Low LA
+"Beets, cooked, boiled, drained",0.522,44.0,1.2,Low LA
+"Candies, milk chocolate, with rice cereal",5.94,511.0,1.2,Low LA
+"Babyfood, meat, veal, strained",0.936,81.0,1.2,Low LA
+"Beef, ground, 95% lean meat / 5% fat, raw",1.665,137.0,1.2,Low LA
+"Figs, dried, uncooked",3.105,249.0,1.2,Low LA
+"Crackers, crispbread, rye",4.311,366.0,1.2,Low LA
+"Candies, milk chocolate coated raisins",4.806,390.0,1.2,Low LA
+"Lemon peel, raw",0.567,47.0,1.2,Low LA
+"Beef, ground, 95% lean meat / 5% fat, patty, cooked, broiled",2.052,174.0,1.2,Low LA
+"Beef, rib, large end (ribs 6-9), separable lean only, trimmed to 0"" fat, all gra",2.88,238.0,1.2,Low LA
+"Beef, round, top round steak, boneless, separable lean only, trimmed to 0"" fat,",1.413,121.0,1.2,Low LA
+"Milk, low sodium, fluid",0.702,61.0,1.2,Low LA
+"Crustaceans, shrimp, mixed species, raw (may have been previously frozen)",0.855,71.0,1.2,Low LA
+"Beef, round, eye of round steak, boneless, separable lean only, trimmed to 0"" fa",1.89,155.0,1.2,Low LA
+"English muffins, raisin-cinnamon (includes apple-cinnamon)",2.781,240.0,1.2,Low LA
+"Beef, round, top round steak, boneless, separable lean only, trimmed to 0"" fat,",1.962,162.0,1.2,Low LA
+"Beans, snap, yellow, frozen, cooked, boiled, drained, without salt",0.324,28.0,1.2,Low LA
+"Beef, ground, 90% lean meat / 10% fat, patty, cooked, pan-broiled",2.466,204.0,1.2,Low LA
+"Beef, round, eye of round steak, boneless, separable lean and fat, trimmed to 0""",1.836,154.0,1.2,Low LA
+"Beef, round, top round steak, boneless, separable lean and fat, trimmed to 0"" fa",1.539,124.0,1.2,Low LA
+"Beef, variety meats and by-products, tripe, raw",1.044,85.0,1.2,Low LA
+"Turnip greens and turnips, frozen, cooked, boiled, drained, without salt",0.414,35.0,1.2,Low LA
+"Soup, vegetable beef, canned, prepared with equal volume water",0.36,31.0,1.2,Low LA
+"Beef, round, eye of round roast, boneless, separable lean only, trimmed to 0"" fa",1.458,121.0,1.2,Low LA
+"Beef, round, top round roast, boneless, separable lean only, trimmed to 0"" fat,",1.413,121.0,1.2,Low LA
+"Chili with beans, canned",1.287,103.0,1.2,Low LA
+"Pears, asian, raw",0.486,42.0,1.2,Low LA
+"Babyfood, dessert, banana pudding, strained",0.81,68.0,1.2,Low LA
+"Cheese, brick",4.419,371.0,1.2,Low LA
+"Beans, snap, green, frozen, cooked, boiled, drained without salt",0.324,28.0,1.2,Low LA
+"Peas, green, frozen, cooked, boiled, drained, without salt",0.945,78.0,1.2,Low LA
+"Onions, frozen, chopped, cooked, boiled, drained, without salt",0.324,28.0,1.2,Low LA
+"Cake, sponge, commercially prepared",3.501,290.0,1.2,Low LA
+"Beef, round, top round roast, boneless, separable lean and fat, trimmed to 0"" fa",1.962,160.0,1.2,Low LA
+"Blueberries, canned, light syrup, drained",1.026,88.0,1.2,Low LA
+"Pasta mix, classic cheeseburger macaroni, unprepared",4.23,349.0,1.2,Low LA
+"Cheese, ricotta, part skim milk",1.71,138.0,1.2,Low LA
+"Soup, chicken broth, ready-to-serve",0.072,6.0,1.2,Low LA
+"Babyfood, peaches, dices, toddler",0.612,51.0,1.2,Low LA
+"Beans, shellie, canned, solids and liquids",0.36,30.0,1.2,Low LA
+"Beef, round, tip round, roast, separable lean and fat, trimmed to 1/8"" fat, sele",2.61,210.0,1.2,Low LA
+"Soup, beef broth or bouillon, powder, dry",2.529,213.0,1.2,Low LA
+"Cheese, mozzarella, whole milk",3.537,300.0,1.2,Low LA
+"Ice creams, vanilla",2.475,207.0,1.2,Low LA
+"Cheese spread, pasteurized process, American",3.6,290.0,1.2,Low LA
+"Cheese, mozzarella, part skim milk",3.015,254.0,1.2,Low LA
+"Beef, rib, small end (ribs 10-12), separable lean only, trimmed to 1/8""fat, choi",2.331,202.0,1.2,Low LA
+"Gravy, beef, canned, ready-to-serve",0.63,53.0,1.2,Low LA
+"Beets, raw",0.495,43.0,1.2,Low LA
+"Malt beverage, includes non-alcoholic beer",0.45,37.0,1.2,Low LA
+"Babyfood, green beans, dices, toddler",0.342,29.0,1.2,Low LA
+"Alcoholic beverage, liqueur, coffee with cream, 34 proof",3.951,327.0,1.2,Low LA
+"Cheese, mozzarella, low sodium",3.24,280.0,1.2,Low LA
+"Broadbeans (fava beans), mature seeds, cooked, boiled, without salt",1.368,110.0,1.2,Low LA
+"Beef, ground, 75% lean meat / 25% fat, patty, cooked, broiled",3.681,279.0,1.3,Low LA
+"Beef, rib, shortribs, separable lean only, choice, cooked, braised",3.87,295.0,1.3,Low LA
+"Beets, canned, drained solids",0.405,31.0,1.3,Low LA
+"Rye flour, light",4.509,357.0,1.3,Low LA
+"Fish, salmon, coho, wild, raw",1.854,146.0,1.3,Low LA
+"Cake, pound, commercially prepared, fat-free",3.582,283.0,1.3,Low LA
+"Figs, dried, stewed",1.341,107.0,1.3,Low LA
+"Beef, ground, 75% lean meat / 25% fat, crumbles, cooked, pan-browned",3.546,277.0,1.3,Low LA
+"Peppers, sweet, red, raw",0.405,31.0,1.3,Low LA
+"Brussels sprouts, frozen, cooked, boiled, drained, without salt",0.531,42.0,1.3,Low LA
+"Beef, ground, 90% lean meat / 10% fat, raw",2.367,176.0,1.3,Low LA
+"Soup, cream of shrimp, canned, prepared with equal volume water",0.45,36.0,1.3,Low LA
+"Barley, pearled, raw",4.545,352.0,1.3,Low LA
+"Turnip greens, cooked, boiled, drained, without salt",0.252,20.0,1.3,Low LA
+"Soup, cream of shrimp, canned, prepared with equal volume low fat (2%) milk",0.765,61.0,1.3,Low LA
+"Cheese, mexican, queso chihuahua",4.923,374.0,1.3,Low LA
+"Beef, ground, 90% lean meat / 10% fat, patty, cooked, broiled",2.826,217.0,1.3,Low LA
+"Beef, round, eye of round steak, boneless, separable lean and fat, trimmed to 0""",2.088,159.0,1.3,Low LA
+"Beef, round, top round steak, boneless, separable lean and fat, trimmed to 0"" fa",2.133,167.0,1.3,Low LA
+"Mung beans, mature seeds, sprouted, raw",0.378,30.0,1.3,Low LA
+"Soy flour, defatted",4.23,327.0,1.3,Low LA
+"Cheese, mexican, queso asadero",4.68,356.0,1.3,Low LA
+"Pasta, dry, enriched",4.86,371.0,1.3,Low LA
+"Cheese, mexican, queso anejo",4.968,373.0,1.3,Low LA
+"Beans, snap, green, raw",0.396,31.0,1.3,Low LA
+"Lebanon bologna, beef",2.214,172.0,1.3,Low LA
+"Beef, ground, 85% lean meat / 15% fat, patty, cooked, pan-broiled",2.979,232.0,1.3,Low LA
+"Light Ice Cream, soft serve, blended with milk chocolate candies",2.286,182.0,1.3,Low LA
+"Beef, round, eye of round roast, boneless, separable lean and fat, trimmed to 0""",1.602,124.0,1.3,Low LA
+"Beef, ground, 85% lean meat / 15% fat, patty, cooked, broiled",3.249,250.0,1.3,Low LA
+"Beef, round, top round roast, boneless, separable lean and fat, trimmed to 0"" fa",1.584,125.0,1.3,Low LA
+"Babyfood, dinner, macaroni, beef and tomato sauce, toddler",1.035,81.0,1.3,Low LA
+"Chicken, gizzard, all classes, cooked, simmered",2.007,154.0,1.3,Low LA
+"Cheese, Mexican blend",4.788,358.0,1.3,Low LA
+"Cheese, muenster, low fat",3.573,271.0,1.3,Low LA
+"Broccoli, cooked, boiled, drained, without salt",0.459,35.0,1.3,Low LA
+"Babyfood, vegetable, green beans and potatoes",0.792,62.0,1.3,Low LA
+"Cheese, low-sodium, cheddar or colby",5.355,398.0,1.3,Low LA
+"Peaches, dried, sulfured, uncooked",3.222,239.0,1.3,Low LA
+"Game meat, moose, cooked, roasted",1.71,134.0,1.3,Low LA
+"Beef, corned beef hash, with potato, canned",2.106,164.0,1.3,Low LA
+"Beef, ground, 80% lean meat / 20% fat, patty, cooked, pan-broiled",3.231,246.0,1.3,Low LA
+"Cheese, provolone",4.446,351.0,1.3,Low LA
+"Beef, ground, 80% lean meat / 20% fat, patty, cooked, broiled",3.582,270.0,1.3,Low LA
+"Beef, round, tip round, roast, separable lean and fat, trimmed to 1/8"" fat, choi",3.06,228.0,1.3,Low LA
+"Soup, beef broth or bouillon canned, ready-to-serve",0.09,7.0,1.3,Low LA
+"Turnover, meat- and cheese-filled, tomato-based sauce, reduced fat, frozen",2.826,215.0,1.3,Low LA
+"Spinach, canned, regular pack, drained solids",0.297,23.0,1.3,Low LA
+"Squash, winter, all varieties, cooked, baked, without salt",0.495,37.0,1.3,Low LA
+"Beef, round, tip round, roast, separable lean and fat, trimmed to 1/8"" fat, all",2.88,219.0,1.3,Low LA
+"Beef, ground, unspecified fat content, cooked",3.06,240.0,1.3,Low LA
+"Game meat, deer, ground, raw",2.025,157.0,1.3,Low LA
+"Cookies, butter, commercially prepared, enriched",6.129,467.0,1.3,Low LA
+"Crackers, matzo, plain",5.13,395.0,1.3,Low LA
+"Beef, chuck, blade roast, separable lean only, trimmed to 0"" fat, all grades, co",3.24,253.0,1.3,Low LA
+"Cherries, sour, red, frozen, unsweetened",0.603,46.0,1.3,Low LA
+"Beef, ground, 75% lean meat / 25% fat, patty, cooked, pan-broiled",3.222,248.0,1.3,Low LA
+"Game meat, deer, ground, cooked, pan-broiled",2.358,187.0,1.3,Low LA
+"Ginger root, pickled, canned, with artificial sweetener",0.261,20.0,1.3,Low LA
+"Turkey breast, low salt, prepackaged or deli, luncheon meat",1.431,109.0,1.3,Low LA
+"Popcorn, sugar syrup/caramel, fat-free",5.292,381.0,1.4,Low LA
+"Carrot juice, canned",0.549,40.0,1.4,Low LA
+"Veal, variety meats and by-products, thymus, cooked, braised",1.701,125.0,1.4,Low LA
+"Apples, canned, sweetened, sliced, drained, heated",0.936,67.0,1.4,Low LA
+"Beef, ground, 75% lean meat / 25% fat, loaf, cooked, baked",3.672,254.0,1.4,Low LA
+"Babyfood, dessert, custard pudding, vanilla, strained",1.17,85.0,1.4,Low LA
+"Veal, leg (top round), separable lean and fat, raw",1.62,117.0,1.4,Low LA
+"Apricots, raw",0.693,48.0,1.4,Low LA
+"English muffins, raisin-cinnamon, toasted (includes apple-cinnamon)",3.816,276.0,1.4,Low LA
+"Garlic, raw",2.061,149.0,1.4,Low LA
+"Onions, young green, tops only",0.387,27.0,1.4,Low LA
+"Crustaceans, shrimp, mixed species, cooked, moist heat (may have been previously",1.719,119.0,1.4,Low LA
+"Beef, top sirloin, steak, separable lean and fat, trimmed to 1/8"" fat, all grade",3.312,243.0,1.4,Low LA
+"Roast beef, deli style, prepackaged, sliced",1.602,115.0,1.4,Low LA
+"Barley, pearled, cooked",1.737,123.0,1.4,Low LA
+"Beans, snap, yellow, cooked, boiled, drained, without salt",0.504,35.0,1.4,Low LA
+"Lamb, New Zealand, imported, rack - partly frenched, separable lean only, cooked",2.781,193.0,1.4,Low LA
+"Blueberries, raw",0.792,57.0,1.4,Low LA
+"Cheese, camembert",4.05,300.0,1.4,Low LA
+"Beef, ground, 85% lean meat / 15% fat, raw",2.979,215.0,1.4,Low LA
+"Babyfood, vegetables, carrots, strained",0.36,26.0,1.4,Low LA
+"Cheese, brie",4.617,334.0,1.4,Low LA
+"Spaghetti, spinach, dry",5.094,372.0,1.4,Low LA
+"Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8"" fat, select,",4.14,295.0,1.4,Low LA
+"Snacks, Pretzels, gluten- free made with cornstarch and potato flour",5.535,389.0,1.4,Low LA
+"Candies, KIT KAT Wafer Bar",7.389,518.0,1.4,Low LA
+"Candies, WHATCHAMACALLIT Candy Bar",6.849,494.0,1.4,Low LA
+"Sauce, tomato chili sauce, bottled, with salt",1.278,92.0,1.4,Low LA
+"Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8"" fat, choice,",4.455,309.0,1.4,Low LA
+"Cheese, blue",4.824,353.0,1.4,Low LA
+"Beans, snap, green, cooked, boiled, drained, without salt",0.504,35.0,1.4,Low LA
+"Beef, chuck, arm pot roast, separable lean and fat, trimmed to 1/8"" fat, all gra",4.293,302.0,1.4,Low LA
+"Cheese, ricotta, whole milk",2.457,174.0,1.4,Low LA
+"Beef, ground, 85% lean meat / 15% fat, crumbles, cooked, pan-browned",3.6,256.0,1.4,Low LA
+"Lettuce, iceberg (includes crisphead types), raw",0.189,14.0,1.4,Low LA
+"Onions, cooked, boiled, drained, without salt",0.63,44.0,1.4,Low LA
+"Lettuce, green leaf, raw",0.216,15.0,1.4,Low LA
+"Grape leaves, raw",1.332,93.0,1.4,Low LA
+"Beef, brisket, whole, separable lean and fat, trimmed to 0"" fat, all grades, coo",4.14,291.0,1.4,Low LA
+"Babyfood, mashed cheddar potatoes and broccoli, toddlers",0.675,48.0,1.4,Low LA
+"Formulated bar, POWER BAR, chocolate",5.085,363.0,1.4,Low LA
+"Beef, ground, 80% lean meat / 20% fat, crumbles, cooked, pan-browned",3.816,272.0,1.4,Low LA
+Eggnog,1.188,88.0,1.4,Low LA
+"Cocoa, dry powder, hi-fat or breakfast, processed with alkali",6.921,479.0,1.4,Low LA
+"Babyfood, macaroni and cheese, toddler",1.179,82.0,1.4,Low LA
+"Bulgur, dry",4.662,342.0,1.4,Low LA
+"Ginger root, raw",1.08,80.0,1.4,Low LA
+"Beef, round, full cut, separable lean and fat, trimmed to 1/8"" fat, choice, raw",2.79,195.0,1.4,Low LA
+"Cocoa, dry powder, hi-fat or breakfast, plain",6.921,486.0,1.4,Low LA
+"Beef, round, full cut, separable lean and fat, trimmed to 1/8"" fat, choice, cook",3.24,235.0,1.4,Low LA
+"Soup, minestrone, canned, chunky, ready-to-serve",0.81,53.0,1.5,Low LA
+"Rye flour, medium",5.382,349.0,1.5,Low LA
+"Spices, sage, ground",4.77,315.0,1.5,Low LA
+"Beef sausage, fresh, cooked",5.112,332.0,1.5,Low LA
+"Cheese, pasteurized process, pimento",5.454,375.0,1.5,Low LA
+"Pears, raw",0.837,57.0,1.5,Low LA
+"Ice creams, chocolate, rich",3.681,251.0,1.5,Low LA
+"Babyfood, snack, GERBER GRADUATE FRUIT  STRIPS, Real Fruit Bars",4.941,330.0,1.5,Low LA
+"Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)",4.401,287.0,1.5,Low LA
+"Cheese, colby",6.084,394.0,1.5,Low LA
+"Cheese, pasteurized process, cheddar or American, low sodium",5.481,376.0,1.5,Low LA
+"Squash, summer, scallop, cooked, boiled, drained, without salt",0.243,16.0,1.5,Low LA
+"Chrysanthemum, garland, cooked, boiled, drained, without salt",0.306,20.0,1.5,Low LA
+"Cookies, coconut macaroon",6.858,460.0,1.5,Low LA
+"Veal, leg (top round), separable lean and fat, cooked, roasted",2.34,160.0,1.5,Low LA
+"Cheese, monterey",5.733,373.0,1.5,Low LA
+"Oil, industrial, coconut, confection fat, typical basis for ice cream coatings",13.05,884.0,1.5,Low LA
+"Babyfood, vegetables, garden vegetable, strained",0.477,32.0,1.5,Low LA
+"Rice mix, cheese flavor, dry mix, unprepared",5.535,362.0,1.5,Low LA
+"Cheese, swiss, low sodium",5.571,374.0,1.5,Low LA
+"Babyfood, dinner, potatoes with cheese and ham, toddler",1.179,78.0,1.5,Low LA
+"Veal, leg (top round), separable lean and fat, cooked, braised",3.15,211.0,1.5,Low LA
+"Babyfood, apples with ham, strained",0.9,62.0,1.5,Low LA
+"Candies, white chocolate",8.19,539.0,1.5,Low LA
+"Cereals, farina, enriched, assorted brands including CREAM OF WHEAT, quick (1-3",5.31,360.0,1.5,Low LA
+"Split pea with ham soup, canned, reduced sodium, prepared with water or ready-to",1.035,68.0,1.5,Low LA
+"Beef, tenderloin, steak, separable lean and fat, trimmed to 1/8"" fat, all grades",3.987,267.0,1.5,Low LA
+"Collards, frozen, chopped, cooked, boiled, drained, without salt",0.54,36.0,1.5,Low LA
+"Soup, chunky vegetable, reduced sodium, canned, ready-to-serve",0.756,50.0,1.5,Low LA
+"Beef, cured, corned beef, canned",3.78,250.0,1.5,Low LA
+"Sour cream, reduced fat",2.79,181.0,1.5,Low LA
+"Crackers, saltines, fat-free, low-sodium",5.823,393.0,1.5,Low LA
+"Beef, loin, top loin, separable lean and fat, trimmed to 1/8"" fat, all grades, c",3.906,264.0,1.5,Low LA
+"Babyfood, corn and sweet potatoes, strained",1.053,68.0,1.5,Low LA
+"Watermelon, raw",0.45,30.0,1.5,Low LA
+"Beef, ground, 80% lean meat / 20% fat, raw",3.78,254.0,1.5,Low LA
+"Beef, short loin, top loin, steak, separable lean and fat, trimmed to 1/8"" fat,",4.293,278.0,1.5,Low LA
+"Apples, raw, without skin, cooked, boiled",0.774,53.0,1.5,Low LA
+"Fast foods, vanilla, light, soft-serve ice cream, with cone",2.421,163.0,1.5,Low LA
+"Onions, cooked, boiled, drained, with salt",0.63,42.0,1.5,Low LA
+"Beef, composite of trimmed retail cuts, separable lean only, trimmed to 0"" fat,",2.997,203.0,1.5,Low LA
+"Babyfood, dinner, macaroni and cheese, junior",0.945,61.0,1.5,Low LA
+"Refried beans, canned, fat-free",1.206,79.0,1.5,Low LA
+"Babyfood, vegetables, spinach, creamed, strained",0.54,37.0,1.5,Low LA
+"Broadbeans (fava beans), mature seeds, raw",5.229,341.0,1.5,Low LA
+"Beef, ground, 75% lean meat / 25% fat, raw",4.482,293.0,1.5,Low LA
+"Fish, tilapia, raw",1.422,96.0,1.5,Low LA
+"Veal, leg (top round), separable lean only, cooked, pan-fried, not breaded",2.88,183.0,1.6,Low LA
+"Corn bran, crude",3.672,224.0,1.6,Low LA
+"Apples, canned, sweetened, sliced, drained, unheated",1.071,67.0,1.6,Low LA
+"Coriander (cilantro) leaves, raw",0.36,23.0,1.6,Low LA
+"Beans, yellow, mature seeds, cooked, boiled, without salt",2.277,144.0,1.6,Low LA
+"Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8"" fat, all grade",5.58,341.0,1.6,Low LA
+"Shake, fast food, vanilla",2.349,148.0,1.6,Low LA
+"Candies, MARS SNACKFOOD US, M&M's Milk Chocolate Candies",7.776,492.0,1.6,Low LA
+"Bagels, oat bran",4.185,255.0,1.6,Low LA
+"Turnip greens, frozen, cooked, boiled, drained, without salt",0.459,29.0,1.6,Low LA
+"Pasta, gluten-free, corn and rice flour, cooked",2.835,179.0,1.6,Low LA
+"Babyfood, dinner, beef stew, toddler",0.81,51.0,1.6,Low LA
+"Sauerkraut, canned, solids and liquids",0.306,19.0,1.6,Low LA
+"Babyfood, dinner, beef noodle, strained",1.008,63.0,1.6,Low LA
+Cracker meal,6.147,383.0,1.6,Low LA
+"Tomato and vegetable juice, low sodium",0.36,22.0,1.6,Low LA
+"Babyfood, cereal, mixed, with applesauce and bananas, junior",1.305,83.0,1.6,Low LA
+"Candies, confectioner's coating, butterscotch",8.766,539.0,1.6,Low LA
+"Ice creams, vanilla, rich",3.933,249.0,1.6,Low LA
+"Bread stuffing, bread, dry mix",6.075,386.0,1.6,Low LA
+"Sour cream, light",2.16,136.0,1.6,Low LA
+"Apples, raw, without skin, cooked, microwave",0.909,56.0,1.6,Low LA
+"Squash, winter, spaghetti, cooked, boiled, drained, or baked, without salt",0.423,27.0,1.6,Low LA
+"Radishes, hawaiian style, pickled",0.441,28.0,1.6,Low LA
+"Soup, tomato, canned, prepared with equal volume low fat (2%) milk",0.855,55.0,1.6,Low LA
+"Cheese, mozzarella, whole milk, low moisture",5.094,318.0,1.6,Low LA
+"Kumquats, raw",1.116,71.0,1.6,Low LA
+"Beef, brisket, whole, separable lean and fat, trimmed to 1/8"" fat, all grades, c",5.22,331.0,1.6,Low LA
+"Peas, edible-podded, raw",0.675,42.0,1.6,Low LA
+"Vegetables, mixed, canned, drained solids",0.783,49.0,1.6,Low LA
+"Fish, anchovy, european, canned in oil, drained solids",3.258,210.0,1.6,Low LA
+"Passion-fruit juice, yellow, raw",0.945,60.0,1.6,Low LA
+"Babyfood, dinner, vegetables and beef, strained",1.26,77.0,1.6,Low LA
+"Squash, summer, zucchini, includes skin, raw",0.27,17.0,1.6,Low LA
+"Peas and onions, frozen, cooked, boiled, drained, without salt",0.702,45.0,1.6,Low LA
+"Babyfood, dinner, vegetables and beef, junior",1.26,77.0,1.6,Low LA
+"Spices, thyme, dried",4.5,276.0,1.6,Low LA
+"Beef, rib, small end (ribs 10-12), separable lean and fat, trimmed to 1/8"" fat,",4.671,291.0,1.6,Low LA
+"Candies, semisweet chocolate",8.082,480.0,1.7,Low LA
+"Carrot, dehydrated",5.715,341.0,1.7,Low LA
+"Bread, pita, white, enriched",4.599,275.0,1.7,Low LA
+"Beef, chuck, blade roast, separable lean and fat, trimmed to 1/8"" fat, choice, c",6.03,359.0,1.7,Low LA
+"Buckwheat groats, roasted, cooked",1.566,92.0,1.7,Low LA
+"Game meat, caribou, cooked, roasted",2.79,167.0,1.7,Low LA
+"Wheat flours, bread, unenriched",6.165,361.0,1.7,Low LA
+"Cheese, goat, hard type",7.605,452.0,1.7,Low LA
+"Cucumber, with peel, raw",0.252,15.0,1.7,Low LA
+"Beet greens, raw",0.369,22.0,1.7,Low LA
+"Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)",4.527,264.0,1.7,Low LA
+"Cheese, monterey, low fat",5.4,313.0,1.7,Low LA
+"Beef, rib, large end (ribs 6-9), separable lean and fat, trimmed to 1/8"" fat, al",5.94,355.0,1.7,Low LA
+"Wheat flour, white, bread, enriched",6.165,361.0,1.7,Low LA
+"Beef, variety meats and by-products, tongue, cooked, simmered",4.734,284.0,1.7,Low LA
+"Lamb, New Zealand, imported, rack - partly frenched, separable lean and fat, coo",4.266,253.0,1.7,Low LA
+"Peas, green, raw",1.368,81.0,1.7,Low LA
+"Babyfood, dinner, pasta with vegetables",0.99,60.0,1.7,Low LA
+"Candies, M&M MARS 3 MUSKETEERS Truffle Crisp",8.919,538.0,1.7,Low LA
+"Peas, green, frozen, unprepared",1.278,77.0,1.7,Low LA
+"Fruit juice smoothie, ODWALLA, ORIGINAL SUPERFOOD",0.837,50.0,1.7,Low LA
+"Cereals, CREAM OF WHEAT, instant, dry",6.228,366.0,1.7,Low LA
+"Pork, fresh, loin, center loin (chops), boneless, separable lean only, raw",2.079,123.0,1.7,Low LA
+"Oil, coconut",15.147,892.0,1.7,Low LA
+"Candies, chocolate, dark, NFS (45-59% cacao solids 90%; 60-69% cacao solids 5%;",9.135,550.0,1.7,Low LA
+"Squash, winter, hubbard, cooked, boiled, mashed, without salt",0.522,30.0,1.7,Low LA
+"Cocoa, dry powder, unsweetened, processed with alkali",3.78,220.0,1.7,Low LA
+"Candies, sweet chocolate",8.64,507.0,1.7,Low LA
+"Cereals, corn grits, yellow, regular and quick, enriched, dry",6.255,368.0,1.7,Low LA
+"Beef, rib, whole (ribs 6-12), separable lean and fat, trimmed to 1/8"" fat, choic",6.3,365.0,1.7,Low LA
+"Cocoa, dry powder, unsweetened",3.96,228.0,1.7,Low LA
+"Vegetable oil, palm kernel",14.4,862.0,1.7,Low LA
+"Cheese spread, American or Cheddar cheese base, reduced fat",2.979,176.0,1.7,Low LA
+"Wheat, hard red winter",5.4,327.0,1.7,Low LA
+"Cheese, goat, soft type",4.509,264.0,1.7,Low LA
+"Beef sausage, pre-cooked",6.957,405.0,1.7,Low LA
+"Figs, raw",1.296,74.0,1.8,Low LA
+"Cheese, goat, semisoft type",6.381,364.0,1.8,Low LA
+"Ravioli, cheese-filled, canned",1.404,77.0,1.8,Low LA
+"Bologna, beef, low fat",3.582,204.0,1.8,Low LA
+"Artichokes, (globe or french), cooked, boiled, drained, without salt",0.945,53.0,1.8,Low LA
+"Babyfood, rice and apples, dry",7.236,396.0,1.8,Low LA
+"Cream, whipped, cream topping, pressurized",4.518,257.0,1.8,Low LA
+"Cream, sour, reduced fat, cultured",2.439,135.0,1.8,Low LA
+"Babyfood, meat, lamb, strained",1.53,87.0,1.8,Low LA
+"Okra, cooked, boiled, drained, without salt",0.405,22.0,1.8,Low LA
+"Snacks, beef jerky, chopped and formed",7.29,410.0,1.8,Low LA
+"English muffins, plain, enriched, with ca prop (includes sourdough)",4.041,227.0,1.8,Low LA
+"Candies, M&M MARS Pretzel Chocolate Candies",8.19,447.0,1.8,Low LA
+Barley flour or meal,6.255,345.0,1.8,Low LA
+"Soup, beef stroganoff, canned, chunky style, ready-to-serve",1.737,98.0,1.8,Low LA
+"Soup, pea, low sodium, prepared with equal volume water",1.143,62.0,1.8,Low LA
+"Fish, whitefish, mixed species, raw",2.448,134.0,1.8,Low LA
+"Lamb, New Zealand, imported, frozen, loin, separable lean and fat, cooked, broil",5.67,315.0,1.8,Low LA
+"Cereals, CREAM OF WHEAT, regular, 10 minute cooking, dry",6.669,370.0,1.8,Low LA
+"Pancakes, plain, dry mix, incomplete (includes buttermilk)",6.255,355.0,1.8,Low LA
+"Cheese, Mexican, blend, reduced fat",5.13,282.0,1.8,Low LA
+"Light Ice Cream, soft serve, blended with cookie pieces",3.051,169.0,1.8,Low LA
+"Babyfood, crackers, vegetable",8.694,477.0,1.8,Low LA
+"Milk, buttermilk, fluid, whole",1.098,62.0,1.8,Low LA
+"Beverages, tea, herb, brewed, chamomile",0.018,1.0,1.8,Low LA
+"Soup, tomato, canned, prepared with equal volume water, commercial",0.576,32.0,1.8,Low LA
+"USDA Commodity, cheese, cheddar, reduced fat",5.13,282.0,1.8,Low LA
+"Bread, gluten-free, white, made with rice flour, corn starch, and/or tapioca",4.464,248.0,1.8,Low LA
+"Asparagus, raw",0.36,20.0,1.8,Low LA
+"Veal, loin, separable lean and fat, raw",3.222,177.0,1.8,Low LA
+"Soup, tomato, canned, condensed",1.188,66.0,1.8,Low LA
+"Soup, wonton, Chinese restaurant",0.585,32.0,1.8,Low LA
+"Boysenberries, frozen, unsweetened",0.882,50.0,1.8,Low LA
+"Peas, edible-podded, boiled, drained, without salt",0.765,42.0,1.8,Low LA
+"Beef stew, canned entree",1.8,99.0,1.8,Low LA
+Rye grain,5.931,338.0,1.8,Low LA
+"Croissants, butter",7.155,406.0,1.8,Low LA
+"Beef, ground, patties, frozen, cooked, broiled",5.328,295.0,1.8,Low LA
+"Lime juice, canned or bottled, unsweetened",0.378,21.0,1.8,Low LA
+"Beverages, coffee, instant, mocha, sweetened",8.955,460.0,1.9,Low LA
+"Beans, baked, canned, with pork and sweet sauce",2.007,105.0,1.9,Low LA
+"Spices, pumpkin pie spice",6.435,342.0,1.9,Low LA
+"Beef, rib, shortribs, separable lean and fat, choice, cooked, braised",8.82,471.0,1.9,Low LA
+"Babyfood, vegetables, green beans, strained",0.522,27.0,1.9,Low LA
+Soy sauce made from hydrolyzed vegetable protein,1.143,60.0,1.9,Low LA
+"Squash, summer, crookneck and straightneck, cooked, boiled, drained, without sal",0.441,23.0,1.9,Low LA
+"Beef, rib eye steak, boneless, lip-on, separable lean only, trimmed to 1/8"" fat,",3.933,207.0,1.9,Low LA
+"Macaroni and cheese dinner with dry sauce mix, boxed, uncooked",7.317,379.0,1.9,Low LA
+"Yogurt, Greek, plain, whole milk",1.881,97.0,1.9,Low LA
+"Lamb, domestic, leg, whole (shank and sirloin), separable lean only, trimmed to",3.69,191.0,1.9,Low LA
+"Squash, summer, all varieties, raw",0.297,16.0,1.9,Low LA
+"Peaches, yellow, raw",0.756,39.0,1.9,Low LA
+"Cream, fluid, light whipping",5.562,292.0,1.9,Low LA
+"Frankfurter, beef, unheated",5.904,316.0,1.9,Low LA
+"Soup, pea, green, canned, prepared with equal volume water",1.143,61.0,1.9,Low LA
+"Split pea soup, canned, reduced sodium, prepared with water or ready-to serve",1.323,71.0,1.9,Low LA
+"Beef, tenderloin, roast, separable lean and fat, trimmed to 1/8"" fat, prime, coo",6.39,343.0,1.9,Low LA
+"Beverages, ABBOTT, EAS whey protein powder",7.389,385.0,1.9,Low LA
+"Collards, cooked, boiled, drained, without salt",0.63,33.0,1.9,Low LA
+"Soup, pea, green, canned, condensed",2.34,125.0,1.9,Low LA
+"Beef, cured, corned beef, brisket, cooked",4.86,251.0,1.9,Low LA
+"Peppers, jalapeno, raw",0.558,29.0,1.9,Low LA
+"Beef, loin, top loin steak, boneless, lip off, separable lean only, trimmed to 0",2.7,143.0,1.9,Low LA
+"Loganberries, frozen",1.053,55.0,1.9,Low LA
+"Spices, ginger, ground",6.354,335.0,1.9,Low LA
+"Candies, HERSHEY'S SKOR Toffee Bar",10.035,541.0,1.9,Low LA
+"Cheese spread, cream cheese base",5.688,295.0,1.9,Low LA
+"Spices, turmeric, ground",6.048,312.0,1.9,Low LA
+"Soy sauce made from soy and wheat (shoyu), low sodium",1.107,57.0,1.9,Low LA
+"Wheat, hard red spring",6.543,329.0,2.0,Low LA
+"Fish, tilapia, cooked, dry heat",2.565,128.0,2.0,Low LA
+"Lemons, raw, without peel",0.567,29.0,2.0,Low LA
+"Breakfast bar, corn flake crust with fruit",7.65,377.0,2.0,Low LA
+"Okra, frozen, unprepared",0.585,30.0,2.0,Low LA
+"Cheese, fontina",7.776,389.0,2.0,Low LA
+"Candies, milk chocolate coated coffee beans",11.124,549.0,2.0,Low LA
+"Veal, leg (top round), separable lean and fat, cooked, pan-fried, not breaded",4.14,211.0,2.0,Low LA
+"Okra, frozen, cooked, boiled, drained, without salt",0.567,29.0,2.0,Low LA
+"Brussels sprouts, cooked, boiled, drained, without salt",0.711,36.0,2.0,Low LA
+"Candies, milk chocolate",10.962,535.0,2.0,Low LA
+"Onions, spring or scallions (includes tops and bulb), raw",0.63,32.0,2.0,Low LA
+"Veal, shoulder, blade, separable lean only, cooked, braised",3.96,198.0,2.0,Low LA
+"Cereals, farina, enriched, cooked with water, without salt",1.071,53.0,2.0,Low LA
+"Beef, rib eye steak, bone-in, lip-on, separable lean only, trimmed to 1/8"" fat,",4.338,221.0,2.0,Low LA
+"English muffins, mixed-grain, toasted (includes granola)",5.193,255.0,2.0,Low LA
+"Cauliflower, cooked, boiled, drained, without salt",0.45,23.0,2.0,Low LA
+"Pasta with tomato sauce, no meat, canned",1.395,70.0,2.0,Low LA
+"Babyfood, cereal, mixed, with applesauce and bananas, strained",1.629,82.0,2.0,Low LA
+"English muffins, mixed-grain (includes granola)",4.779,235.0,2.0,Low LA
+"Veal, shoulder, arm, separable lean and fat, raw",2.61,132.0,2.0,Low LA
+"Beans, chili, barbecue, ranch style, cooked",1.944,97.0,2.0,Low LA
+"Pasta mix, classic beef, unprepared",6.912,354.0,2.0,Low LA
+"Soup, tomato, canned, condensed, reduced sodium",1.314,65.0,2.0,Low LA
+"Bread, french or vienna, whole wheat",4.869,239.0,2.0,Low LA
+"Pickles, chowchow, with cauliflower onion mustard, sweet",2.475,121.0,2.0,Low LA
+"Eggplant, cooked, boiled, drained, without salt",0.702,35.0,2.0,Low LA
+"Cornmeal, degermed, unenriched, yellow",7.272,370.0,2.0,Low LA
+"Baking chocolate, unsweetened, squares",12.915,642.0,2.0,Low LA
+"Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 1/8""",5.157,259.0,2.0,Low LA
+"Cornmeal, degermed, enriched, yellow",7.272,370.0,2.0,Low LA
+"Baking chocolate, mexican, squares",8.478,426.0,2.0,Low LA
+"Cornmeal, degermed, enriched, white",7.272,370.0,2.0,Low LA
+"Ravioli, meat-filled, with tomato sauce or meat sauce, canned",1.917,97.0,2.0,Low LA
+"Rolls, dinner, sweet",6.813,321.0,2.1,Low LA
+"Cheese, mozzarella, low moisture, part-skim, shredded",6.354,304.0,2.1,Low LA
+"Breakfast tart, low fat",7.704,372.0,2.1,Low LA
+"Pork, fresh, loin, top loin (chops), boneless, separable lean only, raw",2.7,127.0,2.1,Low LA
+"Rolls, dinner, rye",5.904,286.0,2.1,Low LA
+"Biscuits, plain or buttermilk, refrigerated dough, lower fat, baked",6.66,319.0,2.1,Low LA
+"Tomatoes, red, ripe, cooked",0.378,18.0,2.1,Low LA
+"Biscuits, plain or buttermilk, refrigerated dough, lower fat",5.733,270.0,2.1,Low LA
+"Noodles, egg, spinach, enriched, cooked",2.709,132.0,2.1,Low LA
+"Veal, shoulder, whole (arm and blade), separable lean and fat, raw",2.7,130.0,2.1,Low LA
+"Bagels, multigrain",4.941,241.0,2.1,Low LA
+"Bagels, cinnamon-raisin, toasted",6.12,294.0,2.1,Low LA
+"Bagels, cinnamon-raisin",5.688,274.0,2.1,Low LA
+"Cheese, cream, low fat",4.176,201.0,2.1,Low LA
+"Bread, whole-wheat, commercially prepared, toasted",6.381,306.0,2.1,Low LA
+"Veal, composite of trimmed retail cuts, separable lean only, cooked",4.05,196.0,2.1,Low LA
+"Fish, cisco, smoked",3.798,177.0,2.1,Low LA
+"Soup, tomato, low sodium, with water",0.639,30.0,2.1,Low LA
+"Bread, raisin, enriched, toasted",6.273,297.0,2.1,Low LA
+"Beef, retail cuts, separable fat, cooked",14.58,680.0,2.1,Low LA
+"Bread, raisin, enriched",5.769,274.0,2.1,Low LA
+"Radishes, oriental, cooked, boiled, drained, without salt",0.351,17.0,2.1,Low LA
+"Fast foods, biscuit, with ham",7.272,342.0,2.1,Low LA
+"Gravy, instant beef, dry",7.83,369.0,2.1,Low LA
+"Cereals, corn grits, white, regular and quick, enriched, dry",7.623,370.0,2.1,Low LA
+"Cereals, corn grits, white, regular and quick, enriched, cooked with water, with",1.485,71.0,2.1,Low LA
+"Turkey breast, sliced, prepackaged",2.133,100.0,2.1,Low LA
+"Bread, wheat bran",5.526,248.0,2.2,Low LA
+"Cheese, mozzarella, low moisture, part-skim",6.579,295.0,2.2,Low LA
+"Lamb, domestic, loin, separable lean only, trimmed to 1/4"" fat, choice, cooked,",4.68,216.0,2.2,Low LA
+"Beet greens, cooked, boiled, drained, without salt",0.585,27.0,2.2,Low LA
+"Cheese, cheddar, reduced fat",6.687,309.0,2.2,Low LA
+"Canadian bacon, cooked, pan-fried",3.276,146.0,2.2,Low LA
+"Babyfood, dinner, spaghetti and tomato and meat, junior",1.485,68.0,2.2,Low LA
+"Cheese food, pasteurized process, American, vitamin D fortified",7.254,330.0,2.2,Low LA
+"Bread, chapati or roti, whole wheat, commercially prepared, frozen",6.561,299.0,2.2,Low LA
+"Fast foods, burrito, with beans and beef",4.212,191.0,2.2,Low LA
+"Squash, summer, all varieties, cooked, boiled, drained, without salt",0.441,20.0,2.2,Low LA
+"Veal, ground, cooked, broiled",3.78,172.0,2.2,Low LA
+"Corn, sweet, white, frozen, kernels cut off cob, boiled, drained, without salt",1.773,80.0,2.2,Low LA
+"Butter, light, stick, without salt",11.196,499.0,2.2,Low LA
+"Veal, rib, separable lean only, cooked, braised",4.86,218.0,2.2,Low LA
+"Butter, light, stick, with salt",11.196,499.0,2.2,Low LA
+"Veal, loin, separable lean only, cooked, roasted",3.78,175.0,2.2,Low LA
+"Beef, loin, top loin steak, boneless, lip off, separable lean and fat, trimmed t",3.537,163.0,2.2,Low LA
+"Peppers, hot chili, red, canned, excluding seeds, solids and liquids",0.468,21.0,2.2,Low LA
+"Bread, french or vienna, toasted (includes sourdough)",7.02,319.0,2.2,Low LA
+"Carrots, cooked, boiled, drained, without salt",0.783,35.0,2.2,Low LA
+"Babyfood, teething biscuits",8.73,392.0,2.2,Low LA
+"Beef, composite of trimmed retail cuts, separable lean and fat, trimmed to 0"" fa",5.067,230.0,2.2,Low LA
+"Peppers, hot chili, green, canned, pods, excluding seeds, solids and liquids",0.468,21.0,2.2,Low LA
+"Bread, wheat germ, toasted",6.3,293.0,2.2,Low LA
+"Rhubarb, frozen, uncooked",0.486,21.0,2.3,Low LA
+"Veal, sirloin, separable lean and fat, raw",3.51,152.0,2.3,Low LA
+"Frankfurter, meat and poultry, low fat",2.745,121.0,2.3,Low LA
+"Lasagna with meat & sauce, frozen entree",2.835,124.0,2.3,Low LA
+"Lima beans, immature seeds, raw",2.547,113.0,2.3,Low LA
+"Snacks, rice cracker brown rice, plain",8.73,387.0,2.3,Low LA
+"Veal, sirloin, separable lean and fat, cooked, roasted",4.68,202.0,2.3,Low LA
+"Cheese product, pasteurized process, American, vitamin D fortified",7.119,312.0,2.3,Low LA
+"Snacks, rice cakes, brown rice, plain, unsalted",8.73,387.0,2.3,Low LA
+"Cookies, vanilla sandwich with creme filling, reduced fat",9.828,423.0,2.3,Low LA
+"Snacks, brown rice chips",8.73,384.0,2.3,Low LA
+"Cabbage, chinese (pak-choi), cooked, boiled, drained, without salt",0.279,12.0,2.3,Low LA
+"Veal, shoulder, whole (arm and blade), separable lean and fat, cooked, braised",5.13,228.0,2.3,Low LA
+"Babyfood, pretzels",8.982,397.0,2.3,Low LA
+"Butter, without salt",16.47,717.0,2.3,Low LA
+Ice cream sundae cone,5.931,254.0,2.3,Low LA
+"Collards, raw",0.738,32.0,2.3,Low LA
+"Veal, shoulder, blade, separable lean and fat, cooked, braised",5.22,225.0,2.3,Low LA
+"Jute, potherb, cooked, boiled, drained, without salt",0.846,37.0,2.3,Low LA
+"Chili con carne with beans, canned entree",2.43,107.0,2.3,Low LA
+"Babyfood, vegetables, carrots, junior",0.72,32.0,2.3,Low LA
+"Babyfood, dinner, vegetables and lamb, strained",1.17,52.0,2.3,Low LA
+"Nectarines, raw",0.999,44.0,2.3,Low LA
+"Corn, sweet, white, canned, cream style, regular pack",1.737,74.0,2.3,Low LA
+"Babyfood, cereal, brown rice, dry, instant",9.243,406.0,2.3,Low LA
+"Eggplant, raw",0.567,25.0,2.3,Low LA
+"Salami, cooked, beef",5.94,261.0,2.3,Low LA
+"Butter oil, anhydrous",20.223,876.0,2.3,Low LA
+"Beverage, instant breakfast powder, chocolate, sugar-free, not reconstituted",8.199,358.0,2.3,Low LA
+"Rolls, gluten-free, white, made with rice flour, rice starch, and corn starch",5.499,239.0,2.3,Low LA
+"Formulated bar, SLIM-FAST OPTIMA meal bar, milk chocolate peanut",8.982,386.0,2.3,Low LA
+"Beef, loin, tenderloin roast, boneless, separable lean only, trimmed to 0"" fat,",4.041,177.0,2.3,Low LA
+"Peppers, hot chili, green, raw",0.936,40.0,2.3,Low LA
+"Beef, loin, tenderloin roast, boneless, separable lean and fat, trimmed to 0"" fa",4.221,183.0,2.3,Low LA
+"Blackberries, frozen, unsweetened",1.467,64.0,2.3,Low LA
+"Sauce, salsa, ready-to-serve",0.666,29.0,2.3,Low LA
+"Pretzels, soft, unsalted",8.028,345.0,2.3,Low LA
+"Pretzels, soft",8.028,338.0,2.4,Low LA
+"Rice, brown, long-grain, raw",8.712,367.0,2.4,Low LA
+"Buckwheat flour, whole-groat",7.893,335.0,2.4,Low LA
+"Macaroni or noodles with cheese, made from reduced fat packaged mix, unprepared",7.146,297.0,2.4,Low LA
+"Snacks, granola bar, KASHI GOLEAN, chewy, mixed flavors",9.297,390.0,2.4,Low LA
+"Cheese, mexican, queso cotija",8.901,366.0,2.4,Low LA
+"Snacks, M&M MARS, COMBOS Snacks Cheddar Cheese Pretzel",11.169,463.0,2.4,Low LA
+"Peppers, sweet, green, raw",0.486,20.0,2.4,Low LA
+"Babyfood, vegetables, corn, creamed, junior",1.557,65.0,2.4,Low LA
+"Corn, sweet, yellow, canned, cream style, regular pack",1.737,72.0,2.4,Low LA
+"Bread, boston brown, canned",4.599,195.0,2.4,Low LA
+"School Lunch, pizza, pepperoni topping, thick crust, whole grain, frozen, cooked",6.309,259.0,2.4,Low LA
+"Sour dressing, non-butterfat, cultured, filled cream-type",4.212,178.0,2.4,Low LA
+"Lamb, domestic, cubed for stew or kabob (leg and shoulder), separable lean only,",5.4,223.0,2.4,Low LA
+"School Lunch, pizza, cheese topping, thin crust, whole grain, frozen, cooked",5.958,247.0,2.4,Low LA
+"Babyfood, peas and brown rice",1.539,64.0,2.4,Low LA
+"Bread, white, commercially prepared, low sodium, no salt",6.381,267.0,2.4,Low LA
+"Pork, fresh, enhanced, loin, tenderloin, separable lean only, raw",2.592,106.0,2.4,Low LA
+"Broccoli, chinese, raw",0.72,30.0,2.4,Low LA
+"Candies, NESTLE, 100 GRAND Bar",11.331,468.0,2.4,Low LA
+"Beef, bologna, reduced sodium",7.299,310.0,2.4,Low LA
+"Lettuce, butterhead (includes boston and bibb types), raw",0.306,13.0,2.4,Low LA
+"Cereals, QUAKER, corn grits, instant, cheddar cheese flavor, dry",8.829,363.0,2.4,Low LA
+"Chicken, broiler or fryers, breast, skinless, boneless, meat only, raw",2.871,120.0,2.4,Low LA
+"Bread, pita, whole-wheat",6.381,262.0,2.4,Low LA
+"Potato soup, instant, dry mix",8.694,343.0,2.5,Low LA
+"Thuringer, cervelat, summer sausage, beef, pork",8.91,362.0,2.5,Low LA
+"Nopales, raw",0.396,16.0,2.5,Low LA
+"Lasagna with meat sauce, frozen, prepared",3.411,135.0,2.5,Low LA
+"Rye flour, dark",8.091,325.0,2.5,Low LA
+"Spices, pepper, black",6.246,251.0,2.5,Low LA
+"Soup, bean & ham, canned, reduced sodium, prepared with water or ready-to-serve",2.061,81.0,2.5,Low LA
+"Cheese, pasteurized process, American, fortified with vitamin D",9.027,366.0,2.5,Low LA
+"Pork, fresh, loin, tenderloin, separable lean only, raw",2.7,109.0,2.5,Low LA
+"Strawberries, raw",0.81,32.0,2.5,Low LA
+"Kale, cooked, boiled, drained, without salt",0.711,28.0,2.5,Low LA
+"Spices, oregano, dried",6.732,265.0,2.5,Low LA
+"Cheese, parmesan, grated",10.575,420.0,2.5,Low LA
+"Cheese, swiss",9.774,393.0,2.5,Low LA
+"Turkey, pork, and beef sausage, low fat, smoked",2.547,101.0,2.5,Low LA
+"Veal, composite of trimmed retail cuts, separable lean and fat, cooked",5.67,231.0,2.5,Low LA
+"Babyfood, dinner, macaroni and tomato and beef, strained",1.53,61.0,2.5,Low LA
+"Veal, rib, separable lean and fat, cooked, braised",6.39,251.0,2.5,Low LA
+"Pancakes, buckwheat, dry mix, incomplete",8.505,340.0,2.5,Low LA
+"Beef, cured, breakfast strips, cooked",11.25,449.0,2.5,Low LA
+"Carrots, raw",1.035,41.0,2.5,Low LA
+"Cereals, whole wheat hot natural cereal, dry",8.397,342.0,2.5,Low LA
+"Veal, loin, separable lean only, cooked, braised",5.67,226.0,2.5,Low LA
+"Peas, edible-podded, frozen, cooked, boiled, drained, without salt",1.278,52.0,2.5,Low LA
+"Lettuce, cos or romaine, raw",0.423,17.0,2.5,Low LA
+"Cereals, QUAKER, corn grits, instant, plain, dry",8.433,343.0,2.5,Low LA
+"Sweet potato leaves, cooked, steamed, without salt",1.017,41.0,2.5,Low LA
+"Cake, pudding-type, white, enriched, dry mix",10.62,423.0,2.5,Low LA
+"Vegetable juice cocktail, canned",0.576,22.0,2.6,Low LA
+"Peppered loaf, pork, beef",3.87,149.0,2.6,Low LA
+"Rice, brown, long-grain, cooked",3.195,123.0,2.6,Low LA
+"Cheese, cheddar, sharp, sliced",10.611,410.0,2.6,Low LA
+"Pork, fresh, loin, top loin (chops), boneless, separable lean only, cooked, broi",4.572,173.0,2.6,Low LA
+"Tomatoes, red, ripe, canned, stewed",0.666,26.0,2.6,Low LA
+"Bread, rye, toasted",7.308,284.0,2.6,Low LA
+"Pork, cured, ham with natural juices, whole, boneless, separable lean only, unhe",2.889,111.0,2.6,Low LA
+"Bread, rye",6.651,259.0,2.6,Low LA
+"Turkey, breast, from whole bird, meat only, roasted",3.879,147.0,2.6,Low LA
+"Corn, sweet, yellow, canned, vacuum pack, regular pack",2.07,79.0,2.6,Low LA
+"Cheese, cheddar",10.539,404.0,2.6,Low LA
+"Soup, pea, split with ham, canned, chunky, ready-to-serve",1.98,77.0,2.6,Low LA
+"Turkey, all classes, light meat, cooked, roasted",3.879,147.0,2.6,Low LA
+"Turkey, wing, from whole bird, meat only, roasted",3.879,147.0,2.6,Low LA
+"Pie, chocolate creme, commercially prepared",9.144,353.0,2.6,Low LA
+"Pork, cured, ham with natural juices, slice, boneless, separable lean only, heat",3.069,116.0,2.6,Low LA
+"Cake, pudding-type, yellow, dry mix",11.061,423.0,2.6,Low LA
+"Rolls, french",7.155,277.0,2.6,Low LA
+"Veal, loin, separable lean and fat, cooked, roasted",5.58,217.0,2.6,Low LA
+"Bread, french or vienna (includes sourdough)",7.11,272.0,2.6,Low LA
+Phyllo dough,7.884,299.0,2.6,Low LA
+"Cheese, fresh, queso fresco",7.983,299.0,2.7,Low LA
+"Babyfood, vegetables, corn, creamed, strained",1.539,57.0,2.7,Low LA
+"Bread, roll, Mexican, bollilo",8.694,318.0,2.7,Low LA
+"Beef, rib eye steak, boneless, lip-on, separable lean and fat, trimmed to 1/8"" f",8.001,291.0,2.7,Low LA
+"Snacks, pretzels, hard, plain, made with enriched flour, unsalted",10.35,381.0,2.7,Low LA
+"Pork, fresh, loin, tenderloin, separable lean only, cooked, roasted",3.807,143.0,2.7,Low LA
+"Lamb, domestic, foreshank, separable lean and fat, trimmed to 1/4"" fat, choice,",6.57,243.0,2.7,Low LA
+"Turkey, whole, meat only, raw",3.051,112.0,2.7,Low LA
+"Rice bowl with chicken, frozen entree, prepared (includes fried, teriyaki, and s",3.456,126.0,2.7,Low LA
+"Pork, fresh, loin, whole, separable lean only, cooked, braised",5.58,204.0,2.7,Low LA
+"Egg, duck, whole, fresh, raw",5.022,185.0,2.7,Low LA
+"Pork, cured, ham, extra lean (approximately 4% fat), canned, unheated",3.24,120.0,2.7,Low LA
+"Protein supplement, milk based, Muscle Milk Light, powder",10.764,396.0,2.7,Low LA
+"Turnover, chicken- or turkey-, and vegetable-filled, reduced fat, frozen",4.608,168.0,2.7,Low LA
+"Turkey, drumstick, from whole bird, meat only, roasted",3.879,139.0,2.8,Low LA
+"Pork, fresh, loin, center rib (chops), boneless, separable lean only, cooked, br",5.94,211.0,2.8,Low LA
+"Game meat, boar, wild, cooked, roasted",4.5,160.0,2.8,Low LA
+"Snacks, granola bar, KASHI GOLEAN, crunchy, mixed flavors",10.998,393.0,2.8,Low LA
+"Tortillas, ready-to-bake or -fry, whole wheat",8.631,310.0,2.8,Low LA
+"Lemon juice, frozen, unsweetened, single strength",0.612,22.0,2.8,Low LA
+"English muffins, plain, toasted, enriched, with calcium propionate (includes sou",7.488,270.0,2.8,Low LA
