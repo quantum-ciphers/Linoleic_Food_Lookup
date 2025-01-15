@@ -78,12 +78,21 @@ max_percent = st.sidebar.slider(
     float(df['percent'].min()), float(df['percent'].max()), float(df['percent'].max())
 )
 
+# Add dynamic search functionality
+if "query" not in st.session_state:
+    st.session_state["query"] = ""  # Initialize the query in session state
+
 # Add search bar and results table with matching widths
 col1, col2, col3 = st.columns([3, 5, 3])  # Adjust column widths for smaller search bar
 with col2:
-    query = st.text_input("Enter food name or keyword to search:", key="search_input")
+    st.text_input(
+        "Enter food name or keyword to search:",
+        value=st.session_state["query"],
+        key="search_input",
+        on_change=lambda: st.session_state.update({"query": st.session_state["search_input"]}),
+    )
 
-    # Filter data based on inputs
+    # Filter data based on inputs dynamically
     filtered_df = df.copy()
 
     # Apply category filter
@@ -100,9 +109,9 @@ with col2:
         (filtered_df['percent'] <= max_percent)
     ]
 
-    # Apply text search filter
-    if query:
-        filtered_df = filtered_df[filtered_df['food'].str.contains(query, case=False, na=False)]
+    # Apply text search filter dynamically with every keystroke
+    if st.session_state["query"]:
+        filtered_df = filtered_df[filtered_df['food'].str.contains(st.session_state["query"], case=False, na=False)]
 
     # Display results below the search bar
     st.write(f"Showing {len(filtered_df)} result(s):")
