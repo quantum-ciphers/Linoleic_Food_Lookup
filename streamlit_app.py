@@ -6,7 +6,7 @@ st.set_page_config(
     page_title="Linoleic Acid Food Lookup",  # Updated title
     page_icon="🍴",  # Optional: Set a custom favicon
     layout="wide",  # Options: "wide" or "centered"
-    initial_sidebar_state="expanded"  # Sidebar is expanded by default
+    initial_sidebar_state="collapsed"  # Sidebar is expanded by default
 )
 
 # Add Open Graph metadata for the custom thumbnail
