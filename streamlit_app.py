@@ -3,7 +3,7 @@ import pandas as pd
 
 # Set page configuration and Open Graph metadata
 st.set_page_config(
-    page_title="Linoleic Food Lookup",
+    page_title="Linoleic Acid Food Lookup",
     page_icon="🍴",  # Optional: Set a custom favicon
     layout="wide",
     initial_sidebar_state="expanded"
@@ -12,9 +12,11 @@ st.set_page_config(
 # Add Open Graph metadata for the custom thumbnail
 st.markdown(
     """
-    <meta property="og:title" content="Linoleic Food Lookup">
-    <meta property="og:description" content="Filter and search foods by their linoleic acid content (omega-6).">
+    <meta property="og:title" content="Linoleic Acid Food Lookup">
+    <meta property="og:description" content="Explore foods with high and low linoleic acid content. Filter and search foods to learn more about their omega-6 fatty acid levels.">
     <meta property="og:image" content="https://raw.githubusercontent.com/quantum-ciphers/Linoleic_Food_Lookup/main/seedoils.png">
+    <meta property="og:url" content="https://seedoilcontent.streamlit.app">
+    <meta property="og:type" content="website">
     """,
     unsafe_allow_html=True
 )
