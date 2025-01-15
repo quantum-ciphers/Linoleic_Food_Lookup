@@ -9,22 +9,6 @@ st.set_page_config(
     initial_sidebar_state="collapsed"  # Sidebar is collapsed by default
 )
 
-# Add custom CSS for centering content
-st.markdown(
-    """
-    <style>
-    .center-content {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-    }
-    </style>
-    """,
-    unsafe_allow_html=True
-)
-
 # Add Open Graph metadata for the custom thumbnail
 st.markdown(
     """
@@ -36,9 +20,6 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-
-# Center content using a div wrapper
-st.markdown('<div class="center-content">', unsafe_allow_html=True)
 
 # Add title
 st.title("Food Search for Linoleic Acid Data")
@@ -52,9 +33,6 @@ st.markdown(
     - **percent**: Percentage of calories from linoleic acid.
     """
 )
-
-# End the centered content div
-st.markdown('</div>', unsafe_allow_html=True)
 
 # Load the dataset with caching
 @st.cache_data
